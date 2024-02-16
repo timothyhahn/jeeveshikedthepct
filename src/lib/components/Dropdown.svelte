@@ -3,11 +3,16 @@
 
 	export let name: string;
 	let show = false;
-	let dom = null;
+	let dom: HTMLElement | null = null;
+	let subitem: HTMLElement | null = null;
 
 	onMount(() => {
 		const handleOutsideClick = (event) => {
-			if (show && !dom.contains(event.target)) {
+			if (show && !dom?.contains(event.target)) {
+				show = false;
+			}
+
+			if (show && subitem?.contains(event.target)) {
 				show = false;
 			}
 		};
@@ -73,6 +78,7 @@
 			aria-orientation="vertical"
 			aria-labelledby="menu-button"
 			tabindex="-1"
+			bind:this={subitem}
 		>
 			<div class="py-1" role="none">
 				<slot />
