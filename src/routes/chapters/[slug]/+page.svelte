@@ -1,4 +1,4 @@
-<script lang='ts'>
+<script lang="ts">
 	import type { ComponentType } from 'svelte';
 
 	type Chapter = {
@@ -15,21 +15,21 @@
 </svelte:head>
 
 <article>
-	<h2>{data.title}</h2>
+	<h2 class="text-4xl py-3">{data.title}</h2>
 
 	<svelte:component this={data.content} />
 </article>
 
 <!-- Page Navigation -->
-<nav class='flex items-center justify-between px-32'>
+<nav class="flex items-center justify-between px-32">
 	{#if data.previousChapter}
-		<div class='-mt-px flex w-0 flex-1'>
-			<a href='/{data.previousChapter}'>Previous</a>
+		<div class="-mt-px flex w-0 flex-1">
+			<a href="/{data.previousChapter}">Previous</a>
 		</div>
 	{/if}
 	{#if data.nextChapter}
-		<div class='-mt-px flex w-0 flex-1 justify-end'>
-			<a href='/chapters/{data.nextChapter}'>Next</a>
+		<div class="-mt-px flex w-0 flex-1 justify-end">
+			<a href="/chapters/{data.nextChapter}">Next</a>
 		</div>
 	{/if}
 </nav>

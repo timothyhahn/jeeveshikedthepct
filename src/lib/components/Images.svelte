@@ -21,11 +21,15 @@
 	}
 </script>
 
-{#if images.length > 1}
-	<button on:click={goLeft}>left</button>
-{/if}
-
-<figure>
+<figure class="h-2/3">
+	<div class="absolute">
+		{#if images.length > 1}
+			<button class="" on:click={goLeft}>&#8249;</button>
+		{/if}
+		{#if images.length > 1}
+			<button class="relative right-1" on:click={goRight}>&#8250;</button>
+		{/if}
+	</div>
 	<img src={images[currentIdx].imageUri} alt={images[currentIdx].caption} />
 	<figcaption>
 		{#if images.length > 1}
@@ -34,7 +38,3 @@
 		{images[currentIdx].caption}
 	</figcaption>
 </figure>
-
-{#if images.length > 1}
-	<button on:click={goRight}>right</button>
-{/if}

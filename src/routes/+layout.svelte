@@ -13,7 +13,7 @@
 <Footer />
 
 <style>
-    :global(p) {
-        padding: 1rem 0;
-    }
+	:global(p) {
+		padding: 1rem 0;
+	}
 </style>

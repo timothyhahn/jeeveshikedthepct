@@ -12,5 +12,7 @@ export const fetchMarkdownPosts = async () => {
 		})
 	);
 
-	return chapters.sort((a, b) => {return a.path.localeCompare(b.path);});
+	return chapters.sort((a, b) => {
+		return a.path.localeCompare(b.path);
+	});
 };

@@ -23,6 +23,6 @@ export async function load({ params }) {
 		content,
 		title,
 		nextChapter: nextChapter,
-		previousChapter: previousChapter,
+		previousChapter: previousChapter
 	};
 }

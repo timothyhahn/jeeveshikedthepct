@@ -1,5 +1,4 @@
 <script>
-	import Paragraph from '$lib/components/Paragraph.svelte';
 	import LinkItem from '$lib/components/LinkItem.svelte';
 </script>
 
@@ -7,42 +6,42 @@
 	<title>Jeeves Hiked the PCT</title>
 </svelte:head>
 
-<h1>Introduction</h1>
+<h1 class="text-4xl py-3">Introduction</h1>
 
-<Paragraph
-	>From May 01, 2022 to Oct 01, 2022, I hiked the roughly 2,650 mile long Pacific Crest Trail, which
+<p>
+	From May 01, 2022 to Oct 01, 2022, I hiked the roughly 2,650 mile long Pacific Crest Trail, which
 	spans from the California/Mexico border to the Washington/Canada border.
-</Paragraph>
+</p>
 
-<Paragraph
-	>Through the deserts, mountains, forests, and beyond, I had the opportunity to share this journey
+<p>
+	Through the deserts, mountains, forests, and beyond, I had the opportunity to share this journey
 	with hundreds of other amazing hikers.
-</Paragraph>
+</p>
 
-<Paragraph
-	>Although not everything went to plan, I had an unforgettable summer and wanted to capture my
+<p>
+	Although not everything went to plan, I had an unforgettable summer and wanted to capture my
 	experience here.
-</Paragraph>
+</p>
 
-<Paragraph>A few quick notes, before we start.</Paragraph>
+<p>A few quick notes, before we start.</p>
 
-<Paragraph
-	>First, I'm going to do my best to keep my writing short. Normally, my writing style is quite
+<p>
+	First, I'm going to do my best to keep my writing short. Normally, my writing style is quite
 	effusive, but I mostly wanted to share what was unique to my trip, as well as some photographs I
 	took along the way.
-</Paragraph>
+</p>
 
-<Paragraph
-	>I will also be focusing on highlights from my trip, which means cutting out a lot of hiking,
+<p>
+	I will also be focusing on highlights from my trip, which means cutting out a lot of hiking,
 	despite it being the majority of the experience. This will give the impression that the PCT is
 	just walking from town, to point of interest, to another town, which is definitely not the case.
 	It just better matches my memories.
-</Paragraph>
+</p>
 
-<Paragraph
-	>If you're interested in more detailed accounts of what the PCT is like, feel free to check out
-	the following, all of which greatly inspired this hike in one way or another:
-</Paragraph>
+<p>
+	If you're interested in more detailed accounts of what the PCT is like, feel free to check out the
+	following, all of which greatly inspired this hike in one way or another:
+</p>
 
 <ul>
 	<LinkItem
@@ -77,25 +76,27 @@
 	/>
 </ul>
 
-<Paragraph
-	>Additionally, much of my writing here is adapted from a daily online journal I kept. I had
+<p>
+	Additionally, much of my writing here is adapted from a daily online journal I kept. I had
 	originally planned on simply rewriting it, but found that the level of detail I wrote down day by
 	day varied greatly. I also noticed that the majority of entries began with "I woke up early".
-</Paragraph>
+</p>
 
-<Paragraph
-	>To save you from that, I've removed as many of the words from those entries as possible. You may
+<p>
+	To save you from that, I've removed as many of the words from those entries as possible. You may
 	also assume from here on out that I woke up early, unless otherwise noted.
-</Paragraph>
+</p>
 
-<Paragraph
-	>Finally, I will be using everyone's "trail names", where applicable. Trail names are a long
+<p>
+	Finally, I will be using everyone's "trail names", where applicable. Trail names are a long
 	distance hiking tradition, where instead of sharing our real names, we give each other nicknames
 	based on some attribute or anecdote from the trail.
-</Paragraph>
+</p>
 
-<Paragraph
-	>For example, my trail name was "Ask Jeeves", though most people shortened it to just Jeeves. This
+<p>
+	For example, my trail name was "Ask Jeeves", though most people shortened it to just Jeeves. This
 	is in reference to my habit of always having an answer to a question asked out loud, as well as
 	questions not asked.
-</Paragraph>
+</p>
+
+<a href="/chapters/01-chapter-1">Start</a>
