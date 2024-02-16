@@ -6,8 +6,14 @@
 	export let data;
 </script>
 
-<Header chapters={data.chapters}/>
+<Header chapters={data.chapters} />
 <Content>
 	<slot />
 </Content>
 <Footer />
+
+<style>
+    :global(p) {
+        padding: 1rem 0;
+    }
+</style>

@@ -3,11 +3,37 @@ title: 'Chapter 1: Mexico to Idyllwild'
 part: 'desert'
 ---
 
-The day before I started I, like many hundreds before me, I made my way through San Diego to the house of Scout and
-Frodo's, trail angels who have graciously allowed hikers to stay at their place and prepare for the journey ahead.
+<script lang="ts">
+import ParagraphWithImages from '$lib/components/ParagraphWithImages.svelte';
+</script>
 
+<ParagraphWithImages images={[
+    {
+        imageUri: '/content-photos/01-chapter-1/Apr 30 20223-57 PMDSCF9082.jpg',
+        caption: 'Scout and Frodo\'s backyard',
+    },
+    {
+        imageUri: '/content-photos/01-chapter-1/IMG_0818.JPG',
+        caption: 'Gathered in a circle, sharing our life stories',
+    },
+]}>
+    The day before I started I, like many hundreds before me, I made my way through San Diego to the house of Scout and
+    Frodo's, trail angels who have graciously allowed hikers to stay at their place and prepare for the journey ahead.
+</ParagraphWithImages>
+
+<ParagraphWithImages direction='right' images={[
+    {
+        imageUri: '/content-photos/01-chapter-1/IMG_0819.JPG',
+        caption: 'Scout, Frodo, and Ant Man',
+    },
+    {
+        imageUri: '/content-photos/01-chapter-1/Apr 30 20228-02 PMDSCF9083.jpg',
+        caption: 'Mug packing his bag',
+    },
+]}>
 There, I met Ant Man, Black Widow, Giggles, and Mug, along with many more prospective hikers who I'd meet again on my
 northbound hike.
+</ParagraphWithImages>
 
 On May 1st, we quietly packed our bags well before the sun rose and made our ways into the cars of volunteers who drove
 us down to the Mexican border, where we began. On the first major climb out, I was overtaken by the charming and
