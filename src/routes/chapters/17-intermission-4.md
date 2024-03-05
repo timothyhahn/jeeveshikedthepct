@@ -3,6 +3,17 @@ title: 'Intermission 4 - Ashland'
 part: 'end'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/17-intermission-4/IMG_1929.jpg",
+"caption": "TODO"
+}
+]} />
+
 Upon arriving in Ashland, I found out that my previous hiking partner, Cool Rocks, was also in Ashland, albeit going
 southbound. I wanted to meet up with her, but I had slightly inflamed tonsils and a sore throat, so before hanging out I
 made sure to get a covid test. It came out negative and she insisted it would be alright, so later that evening we

@@ -3,6 +3,161 @@ title: 'Chapter 8: South Lake Tahoe to Chester'
 part: 'norcal'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1513.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1514.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 12 20223-34 PMDSCF9850.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1520.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 13 20221-51 PMDSCF9851.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 13 20221-58 PMDSCF9853.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1521.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 13 20227-02 PMDSCF9858.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1522.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 14 20228-07 AMDSCF9859.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 14 20228-57 AMDSCF9860.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1525.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 15 202212-07 PMDSCF9865.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 15 20221-16 PMDSCF9866.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20228-32 AMDSCF9868.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20224-43 PMDSCF9869.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20226-42 PMDSCF9870.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20227-05 PMDSCF9871.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20227-35 PMDSCF9872.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20227-56 PMDSCF9873.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 16 20228-31 PMDSCF9874.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 18 20221-37 PMDSCF9881.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 18 20221-59 PMDSCF9882.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 19 20229-31 AMDSCF9884.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 21 202211-47 AMDSCF9887.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 21 202211-50 AMDSCF9889.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 21 20221-16 PMDSCF9890.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 21 20222-28 PMDSCF9891.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1556.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 22 20229-46 AMDSCF9892.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 22 202212-16 PMDSCF9894.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 22 20221-43 PMDSCF9896.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 22 20223-51 PMDSCF9898.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1559.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/IMG_1561.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 23 20224-01 PMDSCF9902.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/68031805253__668EC04F-054F-42D8-A09D-BCD08A77F83F.jpg",
+"caption": "TODO"
+}
+]} />
+
 In 2020, more than 300,000 acres of Northern California were burned by the Bear Fire. In 2021, an additional 950,000
 acres burned in the Dixie Fire. Combined, they led to several fatalities and injuries and upended the lives of many
 people who called Northern California their home.

@@ -3,6 +3,157 @@ title: 'Chapter 5: Kennedy Meadows to Bishop'
 part: 'sierras'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 15 20227-56 AMDSCF9655.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 15 202210-14 AMDSCF9657.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 15 20221-13 PMDSCF9661.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 15 20222-51 PMDSCF9662.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 15 20224-38 PMDSCF9664.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 16 20222-09 PMDSCF9669.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_1337.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_1339.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 17 202212-26 PMDSCF9672.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 17 20222-30 PMDSCF9675.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 17 20223-23 PMDSCF9677.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_1342.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_1345.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 20226-25 AMDSCF9679.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 20227-23 AMDSCF9680.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 20227-48 AMDSCF9683.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 20228-11 AMDSCF9684.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 20229-51 AMDSCF9685.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_1348.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 202211-05 AMDSCF9687.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 18 20221-01 PMDSCF9690.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 20227-35 AMDSCF9691.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 20229-40 AMDSCF9697.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202210-04 AMDSCF9706.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202210-34 AMDSCF9709.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202211-15 AMDSCF9710.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202212-07 PMDSCF9712.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202212-09 PMDSCF9715.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202212-24 PMDSCF9719.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 202212-28 PMDSCF9720.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 20223-02 PMDSCF9724.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 20224-21 PMDSCF9725.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/Jun 19 20225-45 PMDSCF9726.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/DSCF9728.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_1352.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/05-chapter-5/IMG_2905.jpg",
+"caption": "TODO"
+}
+]} />
+
 The first few miles out of Kennedy Meadows felt suspiciously like the desert still. Once we entered Inyo National
 Forest, however, the landscape changed drastically, with beautiful meadows and creeks pressed up against the Sierras.
 

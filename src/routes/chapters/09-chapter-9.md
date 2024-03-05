@@ -3,6 +3,49 @@ title: 'Chapter 9: Chester to Mt Shasta'
 part: 'norcal'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/09-chapter-9/Jul 25 20221-19 PMDSCF9903.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/Jul 25 20222-29 PMDSCF9904.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/Jul 26 20227-16 AMDSCF9908.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/Jul 26 20221-21 PMDSCF9912.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/IMG_7721.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/Jul 30 20229-49 AMDSCF9921.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/Aug 01 20229-19 AMDSCF9924.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/Aug 01 202210-05 AMDSCF9926.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/09-chapter-9/PXL_20220802_032706963_Original.jpg",
+"caption": "TODO"
+}
+]} />
+
 After leaving Chester I immediately entered another intense burn, this one owned by a private logging company that was
 actively removing burnt trees as I walked through. The trail itself, however, was pleasantly flat. This was incredibly
 welcome for my feet which were still healing.

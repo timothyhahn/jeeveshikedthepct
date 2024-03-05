@@ -12,6 +12,6 @@
 </script>
 
 <!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" -->
-<a href={link} class="{activityClass} block px-4 py-2 text-sm" role="menuitem" tabindex="-1" {id}
+<a href={link} class="{activityClass} block px-4 py-2 text-sm hover:cursor-auto hover:bg-gray-200" role="menuitem" tabindex="-1" {id}
 	><slot /></a
 >

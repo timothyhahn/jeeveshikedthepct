@@ -24,11 +24,11 @@
 <nav class="flex items-center justify-between px-32">
 	{#if data.previousChapter}
 		<div class="-mt-px flex w-0 flex-1">
-			<a href="/{data.previousChapter}">Previous</a>
+			<a href="/chapters/{data.previousChapter}">Previous</a>
 		</div>
 	{/if}
 	{#if data.nextChapter}
-		<div class="-mt-px flex w-0 flex-1 justify-end">
+		<div class="-mt-px flex w-0 flex-1 justify-end cursor-pointer">
 			<a href="/chapters/{data.nextChapter}">Next</a>
 		</div>
 	{/if}

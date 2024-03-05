@@ -3,6 +3,17 @@ title: 'Intermission 1 - Mt Shasta and Bend'
 part: 'norcal'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/10-intermission-1/IMG_1642.jpg",
+"caption": "TODO"
+}
+]} />
+
 Once in Bend, we went over to the grocery store. As Bend is by far a much larger city than anything else I had set foot
 in over the past few months, this experience was overwhelming. We decided to make the most of this time together,
 however, and enjoyed cooking for each other, as well as ordering meals we had been dreaming about every day on the PCT.

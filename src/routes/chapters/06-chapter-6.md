@@ -3,6 +3,165 @@ title: 'Chapter 6: Bishop to Vermillion Valley Resort'
 part: 'sierras'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20221-24 PMDSCF9768.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20225-27 PMDSCF9761.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-27 PMDSCF9784.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 30 20229-02 PMDSCF9810.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 28 20221-40 PMDSCF9779.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1427.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-44 AMDSCF9741.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-43 PMDSCF9756.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1426.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1397.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1395.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1418.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-59 AMDSCF9743.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-36 PMDSCF9790.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-59 AMDSCF9742.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 24 20222-39 PMDSCF9731.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 24 20228-51 PMDSCF9738.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1392.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 28 202211-28 AMDSCF9775.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1413.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-58 PMDSCF9759.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20229-36 AMDSCF9744.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1399.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-43 AMDSCF9752.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1416.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-58 PMDSCF9760.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-38 AMDSCF9751.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_9159.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20225-54 PMDSCF9774.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 24 20224-05 PMDSCF9734.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 30 20228-55 PMDSCF9807.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 202210-25 PMDSCF9795.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20224-47 PMDSCF9772.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-36 AMDSCF9745.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-45 PMDSCF9766.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 28 20221-25 PMDSCF9776.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20221-48 PMDSCF9770.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-32 PMDSCF9788.jpg",
+"caption": "TODO"
+}
+]} />
+
 Getting a hitch back to trail was a challenge once we got back to Independence, which made me all the more glad I had
 provided so many rides of my own while I was resting in Bishop. On our way over Kearsarge Pass and back to the PCT, we
 ran into quite a few hikers who had struggled through the snow, hail, and lightning over the past few days. All of which

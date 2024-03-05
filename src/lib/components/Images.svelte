@@ -21,13 +21,13 @@
 	}
 </script>
 
-<figure class="h-2/3">
+<figure style="width: 600px">
 	<div class="absolute">
 		{#if images.length > 1}
-			<button class="" on:click={goLeft}>&#8249;</button>
+			<button class="text-4xl text-white" on:click={goLeft}>&#8249;</button>
 		{/if}
 		{#if images.length > 1}
-			<button class="relative right-1" on:click={goRight}>&#8250;</button>
+			<button class="text-4xl text-white relative right-1" on:click={goRight}>&#8250;</button>
 		{/if}
 	</div>
 	<img src={images[currentIdx].imageUri} alt={images[currentIdx].caption} />

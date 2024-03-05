@@ -3,6 +3,189 @@ title: 'Chapter 4: Tehachapi to Kennedy Meadows'
 part: 'desert'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1232.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_8116.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 06 20228-14 AMDSCF9590.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 06 20226-20 PMDSCF9595.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 07 20229-38 AMDSCF9596.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 07 20229-38 AMDSCF9598.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1281.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 07 202211-41 AMDSCF9599.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 07 202212-19 PMDSCF9600.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 202210-38 AMDSCF9603.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 202212-10 PMDSCF9604.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 20221-53 PMDSCF9605.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 20223-48 PMDSCF9606.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 20228-06 PMDSCF9608.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 20228-06 PMDSCF9609.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 08 20228-06 PMDSCF9610.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 09 20225-52 AMDSCF9612.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 09 20225-52 AMDSCF9613.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 09 20226-00 AMDSCF9615.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 09 20226-33 AMDSCF9616.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 09 20228-00 AMDSCF9617.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 09 20222-35 PMDSCF9619.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 10 20225-37 AMDSCF9623.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 10 20229-39 AMDSCF9624.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20224-26 AMDSCF9626.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20225-53 AMDSCF9629.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20225-55 AMDSCF9633.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20225-56 AMDSCF9634.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20225-58 AMDSCF9635.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20226-27 AMDSCF9637.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 11 20227-02 AMDSCF9638.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 12 20227-10 AMDSCF9641.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1295.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1297.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 12 20229-02 AMDSCF9648.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1300.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1303.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1304.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1317.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1318.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_1319.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 13 20221-52 PMDSCF9651.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/Jun 13 20221-52 PMDSCF9652.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/04-chapter-4/IMG_8449.jpg",
+"caption": "TODO"
+}
+]} />
+
 Tehachapi was another zero and I spent most of the day recovering my feet and popping blisters. Cool Rocks brought over
 Carnation Instant Breakfast for Ant Man, and we hung out before saying our goodbyes, as she planned to stay in Tehachapi
 one more day.

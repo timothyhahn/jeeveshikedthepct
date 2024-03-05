@@ -3,6 +3,125 @@ title: 'Chapter 13 - Mt Shasta to Ashland'
 part: 'end'
 ---
 
+<script lang="ts">
+import Images from '$lib/components/Images.svelte';
+</script>
+
+<Images images={[
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 07 20221-07 PMDSCF0225.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/IMG_1876.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 07 20225-44 PMDSCF0228.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 07 20226-41 PMDSCF0229.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 07 20227-21 PMDSCF0230.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 07 20227-27 PMDSCF0232.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 07 20227-33 PMDSCF0233.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 09 20222-15 PMDSCF0236.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 09 20222-19 PMDSCF0237.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 09 20223-27 PMDSCF0239.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 09 20223-46 PMDSCF0240.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 09 20225-16 PMDSCF0242.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 10 202211-18 AMDSCF0243.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 10 20222-54 PMDSCF0246.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 12 202211-15 AMDSCF0247.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 12 202211-48 AMDSCF0249.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 12 20223-17 PMDSCF0251.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 12 20224-07 PMDSCF0252.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 12 20227-10 PMDSCF0253.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 13 20228-38 AMDSCF0254.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 13 202210-50 AMDSCF0256.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 13 20221-40 PMDSCF0258.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 13 20224-05 PMDSCF0259.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 14 20229-13 AMDSCF0262.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 14 202212-24 PMDSCF0263.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 14 20223-31 PMDSCF0265.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 14 20226-38 PMDSCF0267.jpg",
+"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/16-chapter-13/Sep 15 20223-57 PMDSCF0275.jpg",
+"caption": "TODO"
+}
+]} />
+
 I attempted to take a bus back from Mt Shasta to the trailhead, instead of a hitch. This ended with me walking along the
 shoulder of the busyish I-5, hoping I didn't join the roadkill or get pulled over by a cop.
 
