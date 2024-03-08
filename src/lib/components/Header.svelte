@@ -42,7 +42,7 @@
 </script>
 
 <header>
-	<nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
+	<nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global" data-sveltekit-reload>
 		<!-- Title -->
 		<div class="flex lg:flex-1">
 			<a href="/"><h1 class="w-auto text-lg">Jeeves Hiked the PCT</h1></a>
@@ -119,6 +119,7 @@
 								<div class="font-bold py-3">{part.name}</div>
 								{#each chaptersMap[part.id] as chapter}
 									<a
+										data-sveltekit-reload
 										href={`/chapters/${chapter.path}`}
 										on:click={() => (showMobileMenu = false)}
 										class="mx-5 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-400 hover:bg-gray-50 hover:text-gray-800"

@@ -12,6 +12,7 @@
 </script>
 
 <a
+	data-sveltekit-reload
 	href={link}
 	class="{activityClass} block px-4 py-2 text-sm hover:cursor-pointer hover:bg-gray-800"
 	role="menuitem"
