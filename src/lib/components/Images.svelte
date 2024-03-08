@@ -21,7 +21,7 @@
 							images.slice(i * 2, i * 2 + 2).length === 2
 								? 'h-[300px] w-[300px]'
 								: 'h-[600px] w-[600px]'}"
-							src={image.imageUri}
+							src={`${image.imageUri}/public`}
 							alt={image.caption}
 						/>
 

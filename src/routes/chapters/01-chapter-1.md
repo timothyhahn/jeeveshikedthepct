@@ -15,20 +15,20 @@ northbound hike.
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/Apr 30 20223-57 PMDSCF9082.jpg',
-"caption": 'Scout and Frodo\'s backyard',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f23ec8fe-c913-4ba5-ade3-37bfcec5db00",
+"caption": "Scout and Frodo\'s backyard",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0818.JPG',
-"caption": 'Gathered in a circle, sharing our life stories',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a031ae75-0e70-476e-afb1-99e51c82cb00",
+"caption": "Gathered in a circle, sharing our life stories",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0819.JPG',
-"caption": 'Scout, Frodo, and Ant Man',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3eadd0ae-587e-4461-424e-3b389a8c4700",
+"caption": "Scout, Frodo, and Ant Man",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/Apr 30 20228-02 PMDSCF9083.jpg',
-"caption": 'Mug packing his bag',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/38bccd3d-db6d-4820-ce9f-6b07a4d04b00",
+"caption": "Mug packing his bag",
 },
 ]} />
 
@@ -38,28 +38,28 @@ vivacious Flamingo Kid, who quickly out hiked me.
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20229-15 AMDSCF9084.jpg',
-"caption": 'Heading up to the border between Mexico and the US',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/75710689-2654-4d0f-db9a-8e53ccd47700",
+"caption": "Heading up to the border between Mexico and the US",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20229-17 AMDSCF9086.jpg',
-"caption": 'The monument at the southern terminus',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05a03bac-7d45-4a09-d91b-0e3d05bc0200",
+"caption": "The monument at the southern terminus",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20229-21 AMDSCF9088.jpg',
-"caption": 'Pointing north to Canada',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/454cc833-8a25-4b1c-2ae9-1ee3d17ee800",
+"caption": "Pointing north to Canada",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20229-35 AMDSCF9090.jpg',
-"caption": 'Sweet Cakes climbing on the monument',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c9c4790d-f821-4417-436f-af39c4cd7e00",
+"caption": "Sweet Cakes climbing on the monument",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20229-36 AMDSCF9092.jpg',
-"caption": 'Me, sitting in front of the monument',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f1d53249-b779-4a91-ba0c-9447c93b0500",
+"caption": "Me, sitting in front of the monument",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20229-37 AMDSCF9096.jpg',
-"caption": 'Mug in front of the monument',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a16a7f93-ba6e-4e0b-dfba-cecfc74df900",
+"caption": "Mug in front of the monument",
 },
 ]} />
 
@@ -70,30 +70,30 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 202210-40 AMDSCF9101.jpg',
-"caption": 'Sweet Cakes and B&E, through the trees',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8c448d82-6d07-44b5-496c-6d03e0447c00",
+"caption": "Sweet Cakes and B&E, through the trees",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 202210-43 AMDSCF9102.jpg',
-"caption": 'Sweet Cakes ahead of me',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d4acfb9-4f51-4f45-8198-d04231cde900",
+"caption": "Sweet Cakes ahead of me",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 202210-50 AMDSCF9109.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4af6bb92-02cb-48ac-514f-60d813068c00",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 202212-02 PMDSCF9112.jpg',
-"caption": 'B&E climbing up the hill behind me',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/28827d5c-8757-4c8c-320b-334ddc592400",
+"caption": "B&E climbing up the hill behind me",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 202212-11 PMDSCF9115.jpg',
-"caption": 'Ant Man climbing up the hill as well',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6c8cd808-b39b-417a-5833-781d17a18700",
+"caption": "Ant Man climbing up the hill as well",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 202212-32 PMDSCF9117.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6b5cdab5-f2bc-4cbd-6ea6-0021997b1300",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 01 20221-01 PMDSCF9120.jpg',
-"caption": 'The first of many lizards we would see through the desert',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/981e1dc5-0161-45fe-4bcf-15b9493c5500",
+"caption": "The first of many lizards we would see through the desert",
 },
 ]} />
 
@@ -104,42 +104,42 @@ frogs.
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0827.jpg',
-"caption": 'Giggles and Black Widow climbing up to Lake Morena',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d18c7c31-11e1-45e4-a2cd-35122c29d200",
+"caption": "Giggles and Black Widow climbing up to Lake Morena",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20228-17 AMDSCF9123.jpg',
-"caption": 'A beautiful inversion behind us',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8001031c-939b-4d89-57a8-e271acb34700",
+"caption": "A beautiful inversion behind us",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20228-56 AMDSCF9126.jpg',
-"caption": 'Rocks over Lake Morena',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f633ed6e-8f15-4ccd-0c79-b1b7cef39e00",
+"caption": "Rocks over Lake Morena",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20229-37 AMDSCF9128.jpg',
-"caption": 'The trail continues out of Lake Morena',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c941dd2d-8424-44c8-1c63-d282730da200",
+"caption": "The trail continues out of Lake Morena",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20225-04 PMDSCF9135.jpg',
-"caption": '... and underneath underpasses',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ea91391b-10ff-4e17-63dc-659de5c40000",
+"caption": "... and underneath underpasses",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20225-35 PMDSCF9136.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2122c67b-0030-48aa-9d2a-2ebba6f1a900",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20225-47 PMDSCF9137.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/18142576-ed0a-47b8-78c6-862298251500",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 20228-39 PMDSCF9138.jpg',
-"caption": 'Setting up for the night at Kitchen Creek',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/87574919-83e1-4fa8-37d1-bcc1e5e94100",
+"caption": "Setting up for the night at Kitchen Creek",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 202210-00 PMDSCF9142.jpg',
-"caption": 'Giggles, Black Widow, Adventure Time, Sweet Cakes, and Willow listening to the frogs',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f745ddbb-317a-4d35-f0a3-2addea032b00",
+"caption": "Giggles, Black Widow, Adventure Time, Sweet Cakes, and Willow listening to the frogs",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 02 202211-05 PMDSCF9146.jpg',
-"caption": 'Night comes to our mobile village',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a7fc6725-7106-4dea-a297-d600eac1ad00",
+"caption": "Night comes to our mobile village",
 },
 ]} />
 
@@ -155,57 +155,57 @@ opened a cooler full of ice.
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0836.jpg',
-"caption": 'Misty morning behind Ant Man',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e9d47dd3-84c3-4f68-ff47-c50ad3759b00",
+"caption": "Misty morning behind Ant Man",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0837.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/96466101-17cd-4255-78c0-1ac75312bd00",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 03 20229-43 AMDSCF9153.jpg',
-"caption": 'Don\'t leave the trail',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/64f3bcd5-0941-40d1-e165-5593cb5bba00",
+"caption": "Don\'t leave the trail",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 03 202212-28 PMDSCF9162.jpg',
-"caption": 'Willow and Black Widow trekking on',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7cdaf5e9-1dfd-4c30-eef9-c1e576e07a00",
+"caption": "Willow and Black Widow trekking on",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20228-27 AMDSCF9170.jpg',
-"caption": 'The sun rises over the Anza-Borrego',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6b9c0e93-c7b8-4f59-c14e-9551391b0a00",
+"caption": "The sun rises over the Anza-Borrego",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20229-22 AMDSCF9173.jpg',
-"caption": 'Ant Man checks out the ledge',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/69a04a09-956c-44ae-6ce2-d9f4ce3e8c00",
+"caption": "Ant Man checks out the ledge",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20229-22 AMDSCF9175.jpg',
-"caption": 'Tiny Dancer also check outs the ledge',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/42e65fee-e34a-48bd-bc5a-12d2c5b89f00",
+"caption": "Tiny Dancer also check outs the ledge",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20229-32 AMDSCF9178.jpg',
-"caption": 'Black Widow, Giggles, and Willow pose',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9ee08772-fbeb-484b-facb-cbd42074e000",
+"caption": "Black Widow, Giggles, and Willow pose",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 202210-14 AMDSCF9182.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/68865cca-3636-45ad-1d74-7f84ad8f7800",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 202210-16 AMDSCF9184.jpg',
-"caption": 'Behind Giggles, Black Widow, B&E and Ant Man',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/83fa9a73-e96b-414b-3cda-f4d98b47c900",
+"caption": "Behind Giggles, Black Widow, B&E and Ant Man",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 202211-05 AMDSCF9187.jpg',
-"caption": 'Sneak peak of what\'s to come',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9fb5b544-e328-4637-742b-b8906d4acd00",
+"caption": "Sneak peak of what\'s to come",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20222-47 PMDSCF9193.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2aa271da-e502-463b-c19a-6fa190cc1900",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20223-07 PMDSCF9195.jpg',
-"caption": 'Ant Man in the heat of the day',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/23ebe80a-e825-4b6f-1e70-f4d22c4f2900",
+"caption": "Ant Man in the heat of the day",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 04 20224-07 PMDSCF9198.jpg',
-"caption": 'Ant Man lost in the green',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/444b220a-c115-43f5-75f9-aa6a59691600",
+"caption": "Ant Man lost in the green",
 },
 ]} />
 
@@ -228,24 +228,24 @@ before the water cache, which was immaculately maintained by local volunteers, i
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0874.jpg',
-"caption": 'Chilling underneath Scissor\'s Crossing',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/46b70ae7-b6ad-455b-f8fd-2bc624c88f00",
+"caption": "Chilling underneath Scissor\'s Crossing",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 05 20222-40 PMDSCF9202.jpg',
-"caption": 'Free pie at Mom\'s. Featuring White Stripe, Jo, and Floss',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/01b4885a-fe36-4ab4-4331-9b907cd71700",
+"caption": "Free pie at Mom\'s. Featuring White Stripe, Jo, and Floss",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/IMG_0905.jpg',
-"caption": 'Willow freaking out about the baby goats',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a2cccd1c-667c-4ccd-2473-e8c26fbb8600",
+"caption": "Willow freaking out about the baby goats",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 06 20225-19 PMDSCF9209.jpg',
-"caption": 'Leaving Scissor\'s crossing as the sun starts to dip',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8ddac9d2-bccb-475e-8521-3edc46fb6200",
+"caption": "Leaving Scissor\'s crossing as the sun starts to dip",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 06 20227-02 PMDSCF9216.jpg',
-"caption": 'Some nice light before the dark',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d73f4e37-deae-4594-58a1-95cd39620400",
+"caption": "Some nice light before the dark",
 },
 ]} />
 
@@ -257,49 +257,49 @@ we watched the sun set and the stars come out.
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20225-30 AMDSCF9219.jpg',
-"caption": 'The sun rises on mile 100',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/365e6730-ef28-45a0-06f7-ef6fbb4f4100",
+"caption": "The sun rises on mile 100",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 202212-25 PMDSCF9225.jpg',
-"caption": 'Ant Man looking at the 100 mile marker',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9d784235-f026-41df-9bd3-293253a9d200",
+"caption": "Ant Man looking at the 100 mile marker",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 202212-28 PMDSCF9227.jpg',
-"caption": 'Black Widow at mile 100',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dba9594d-da4b-4097-de46-e8e2a59a5d00",
+"caption": "Black Widow at mile 100",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 202212-47 PMDSCF9228.jpg',
-"caption": 'Little Hamster at mile 100',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b974dcd6-7362-4700-25fa-93b9d30c0f00",
+"caption": "Little Hamster at mile 100",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20221-26 PMDSCF9229.jpg',
-"caption": 'AKA and Little Hamster chilling at a spring',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/99d64822-5bc8-4087-fd88-b038ff300b00",
+"caption": "AKA and Little Hamster chilling at a spring",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20226-04 PMDSCF9232.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/46b77943-da59-4d7e-7bad-b8fe919a6c00",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20227-29 PMDSCF9234.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1f8e6141-f442-46fc-8f77-9341d2e09e00",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20227-30 PMDSCF9235.jpg',
-"caption": 'Golden hour Black Widow',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/abe14750-55b1-4684-fcb6-bbffdde7aa00",
+"caption": "Golden hour Black Widow",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20227-32 PMDSCF9236.jpg',
-"caption": 'Giggles and Ant Man at sunset',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/10f36b5b-daea-4e47-49d5-7837de844100",
+"caption": "Giggles and Ant Man at sunset",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20227-43 PMDSCF9251.jpg',
-"caption": 'The crew at Eagle Rock',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9e06ce9a-ee5f-47b5-542b-d73de10fb100",
+"caption": "The crew at Eagle Rock",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20227-52 PMIMG_0916.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/77be58f1-4991-4446-8c65-cfb25a3d8900",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 07 20228-41 PMDSCF9268.jpg',
-"caption": 'Eagle Rock under the stars (not our tent)',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/993c133a-5d65-409f-a9f5-ea48405afb00",
+"caption": "Eagle Rock under the stars (not our tent)",
 },
 ]} />
 
@@ -316,32 +316,32 @@ Hamster, and I rented a beautiful cabin in town and planned for our first full r
 
 <Images images={[
 {
-"imageUri": '/content-photos/01-chapter-1/May 08 20228-13 AMDSCF9269.jpg',
-"caption": 'Cow friends',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/83220578-cd66-4966-f333-8ecbb9749500",
+"caption": "Cow friends",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/DSCF9274.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c3ad2a25-2759-4492-5350-95500632fc00",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/DSCF9277.jpg',
-"caption": 'Mike\s Place water caches',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/12eaea8f-0640-4976-a644-505bbef5d500",
+"caption": "Mike\s Place water caches",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/DSCF9278.jpg',
-"caption": 'Trail magic from Lifeguard and Zelda',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6a2b0f84-c9c7-494a-ef4b-0cefdd60d400",
+"caption": "Trail magic from Lifeguard and Zelda",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 10 20227-01 AMDSCF9286.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/005d055f-5ced-4c61-751c-562f28345600",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 10 202211-26 AMDSCF9289.jpg',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ebd8713e-ec0f-45f6-a352-a77934e9be00",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 10 202212-22 PMDSCF9291.jpg',
-"caption": 'Finally made it to the cafe',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c4237b18-6468-4946-0b8c-cc7640de1100",
+"caption": "Finally made it to the cafe",
 },
 {
-"imageUri": '/content-photos/01-chapter-1/May 10 20221-43 PMDSCF9292.jpg',
-"caption": 'Hitching into Idyllwild',
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c892eed-de36-433e-1c76-45cb01c54b00",
+"caption": "Hitching into Idyllwild",
 },
 ]} />

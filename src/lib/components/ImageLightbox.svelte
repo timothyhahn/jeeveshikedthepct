@@ -49,7 +49,7 @@
 			<div class="h-[100vh] my-auto">
 				<img
 					class="max-w-[90%] max-h-[85%] mx-auto mt-[10%]"
-					src={image.imageUri}
+					src={`${image.imageUri}/large`}
 					alt={image.caption}
 				/>
 				{#if image.caption}

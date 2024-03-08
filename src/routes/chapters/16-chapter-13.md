@@ -9,97 +9,97 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 07 20221-07 PMDSCF0225.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ac8f7d05-9d94-4f14-5260-625c7435cd00",
 "caption": "Back at Castle Crags"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/IMG_1876.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a47de5e1-b77d-49d3-69c1-b4a47d591f00",
 "caption": "Carnivorous cobra lilies"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 07 20225-44 PMDSCF0228.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cddd3b8e-2264-467d-33b3-d6fad724c000",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 07 20226-41 PMDSCF0229.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b7a9f7e8-d437-4800-02f7-623a02599600",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 07 20227-21 PMDSCF0230.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/57f0eea3-18b4-49c6-0217-de65e6b3c000",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 07 20227-27 PMDSCF0232.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/24075a7d-2665-456b-c68b-b366580f5d00",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 07 20227-33 PMDSCF0233.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f1346dfb-3b8e-4683-447e-92808c100400",
 "caption": "Camping with a great view of Mt Shasta"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 09 20222-15 PMDSCF0236.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d45c6ee-8e08-496a-f6c3-492100375f00",
 "caption": "Entering the Trinity Alps"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 09 20222-19 PMDSCF0237.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b90def16-09e4-4a3e-ba76-35665b004600",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 09 20223-27 PMDSCF0239.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/42b3b801-efe4-42f5-6e3e-b4cf5944e200",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 09 20223-46 PMDSCF0240.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e4071d74-17c5-4403-7724-2a0a6d5d2100",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 09 20225-16 PMDSCF0242.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/58fb8b7a-fe19-4172-e481-8acedbd1ea00",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 10 202211-18 AMDSCF0243.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3d59997f-9e0d-4259-dbb1-c4c922476f00",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 10 20222-54 PMDSCF0246.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b5ad6db-90d3-4914-95b6-03c2d52a3100",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 12 202211-15 AMDSCF0247.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cf88ee2d-8c27-47cd-6b50-227ac9fa3e00",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 12 202211-48 AMDSCF0249.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8c83e0a5-7893-4a8a-afb9-1d62ea328200",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 12 20223-17 PMDSCF0251.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05c8e476-8155-4056-881f-74ef1d71e700",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 12 20224-07 PMDSCF0252.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d17c50a0-6b94-4415-dd81-45485abd4900",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 12 20227-10 PMDSCF0253.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b375f361-c3e5-40ee-12c9-77ea0a9c2900",
 "caption": "Bear buddy"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 13 20228-38 AMDSCF0254.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/31bba1f1-d5e3-414a-e924-53c79044f700",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 13 202210-50 AMDSCF0256.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b2f7b67c-05ee-4514-30be-6e4e8c89d400",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 13 20221-40 PMDSCF0258.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e7f6842-b99b-4f49-384a-64374e8da600",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 13 20224-05 PMDSCF0259.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e4fa5fe4-dbb2-4356-f558-5965cbc41600",
 "caption": "Annoying AF deer"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 14 20229-13 AMDSCF0262.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e39f7969-5584-42f3-f792-ec94bcabeb00",
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 14 202212-24 PMDSCF0263.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0fa0fec7-0695-4451-3caa-9d2a450a2800",
 "caption": "Seiad Valley"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 14 20223-31 PMDSCF0265.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/307d5f01-af4d-47cb-856d-c4e26af62c00",
 "caption": "TODO"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 14 20226-38 PMDSCF0267.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/126948b6-fcce-4b39-41e4-35c4a384e100",
 "caption": "TODO"
 },
 {
-"imageUri": "/content-photos/16-chapter-13/Sep 15 20223-57 PMDSCF0275.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/780153a6-b732-4615-3438-601fbe9e9e00",
 "caption": "Finally done with California"
 }
 ]} />

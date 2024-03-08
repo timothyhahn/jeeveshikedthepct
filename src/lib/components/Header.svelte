@@ -30,6 +30,15 @@
 
 	// Mobile menu switch
 	export let showMobileMenu: boolean = false;
+
+	$: if (showMobileMenu) {
+		document.body.classList.add('overflow-hidden');
+	}
+
+	function closeMobileMenu() {
+		showMobileMenu = false;
+		document.body.classList.remove('overflow-hidden');
+	}
 </script>
 
 <header>
@@ -54,7 +63,7 @@
 		<div class="lg:hidden flex">
 			<button
 				type="button"
-				class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
+				class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-100"
 				on:click={() => {
 					showMobileMenu = true;
 				}}
@@ -82,13 +91,13 @@
 		<div class="lg:hidden" role="dialog" aria-modal="true">
 			<div class="fixed inset-0 z-10"></div>
 			<div
-				class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-gray-950 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10"
+				class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-gray-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10"
 			>
 				<div class="flex items-center justify-end">
 					<button
 						type="button"
 						class="-m-2.5 rounded-md p-2.5 text-gray-100"
-						on:click={() => (showMobileMenu = false)}
+						on:click={closeMobileMenu}
 					>
 						<span class="sr-only">Close menu</span>
 						<svg

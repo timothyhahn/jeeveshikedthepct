@@ -7,130 +7,6 @@ part: 'norcal'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-<Images images={[
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1513.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1514.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 12 20223-34 PMDSCF9850.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1520.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 13 20221-51 PMDSCF9851.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 13 20221-58 PMDSCF9853.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1521.jpg",
-"caption": "Following the trail through ski resorts with Giggles"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 13 20227-02 PMDSCF9858.jpg",
-"caption": "Ski lifts"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1522.jpg",
-"caption": "Camping just above Lake Tahoe"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 14 20228-07 AMDSCF9859.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 14 20228-57 AMDSCF9860.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1525.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 15 202212-07 PMDSCF9865.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 15 20221-16 PMDSCF9866.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20228-32 AMDSCF9868.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20224-43 PMDSCF9869.jpg",
-"caption": "Sierra City"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20226-42 PMDSCF9870.jpg",
-"caption": "Endless scree"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20227-05 PMDSCF9871.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20227-35 PMDSCF9872.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20227-56 PMDSCF9873.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 16 20228-31 PMDSCF9874.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 18 20221-37 PMDSCF9881.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 18 20221-59 PMDSCF9882.jpg",
-"caption": "Entering the largest burn of the PCT"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 19 20229-31 AMDSCF9884.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 21 202211-47 AMDSCF9887.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 21 202211-50 AMDSCF9889.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 21 20221-16 PMDSCF9890.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 21 20222-28 PMDSCF9891.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1556.jpg",
-"caption": "A burnt up bridge"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 22 20229-46 AMDSCF9892.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 22 202212-16 PMDSCF9894.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 22 20221-43 PMDSCF9896.jpg",
-"caption": "Entering the Cascades"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 22 20223-51 PMDSCF9898.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1559.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/IMG_1561.jpg",
-},
-{
-"imageUri": "/content-photos/08-chapter-8/68031805253__668EC04F-054F-42D8-A09D-BCD08A77F83F.jpg",
-"caption": "Some beautiful ash artwork"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 23 20224-01 PMDSCF9902.jpg",
-"caption": "Halfway done"
-}
-]} />
-
 In 2020, more than 300,000 acres of Northern California were burned by the Bear Fire. In 2021, an additional 950,000
 acres burned in the Dixie Fire. Combined, they led to several fatalities and injuries and upended the lives of many
 people who called Northern California their home.
@@ -158,6 +34,35 @@ Leaving the Sierras, the views were still beautiful, but lacked the grandeur of 
 few weeks hiking through. The trail led through meadows and out of season ski resorts, where we set up camp under some
 ski lifts.
 
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/de38ad66-fedc-4b7f-1807-5b29fc22ca00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d5e028c1-892a-4698-0c2f-f41dba545c00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c2ba0a4-5712-4770-1be6-30a6ce9cba00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/594f423c-ac37-4351-5df4-8b04e509d900",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cbb721ca-e621-4a53-ed79-47d9b83e2c00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/515fc7de-d69c-4488-5918-64783c722d00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/899e11d0-ecf4-4b4e-6708-f41fa0a94000",
+"caption": "Following the trail through ski resorts with Giggles"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/77ec8366-3acd-4bc9-9806-17d03ab66300",
+"caption": "Ski lifts"
+}
+]} />
+
 The day after we reached the infamous Donner Pass, where hikers are offered a free 40oz from the ranch. The ranch also
 had a buddy board, where people could leave each other drinks. I left a few drinks for hikers I hadn't seen in a while
 that I knew were behind me, and we trudged through sewer filled tunnels underneath Highway 80, before climbing towards
@@ -172,6 +77,35 @@ The scree continued until Sierra City, where we walked the road into town and I 
 I did my best to resupply at the local store, but finding solid sources of protein was difficult. Giggles and I were
 planning to next resupply at Chester in 6 days, but I was skeptical about my chances. I decided to make the best of the
 store, however, and purchased ice cream for the other hikers sitting outside the store.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1440b4a5-ba50-4d1d-3399-6d7e999ab500",
+"caption": "Camping just above Lake Tahoe"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/33d620e3-4d24-4c81-dff1-251942df8b00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/787dcf9d-c954-4d7e-0a20-cc2422928300",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4b0098b3-c56d-4d7b-0a2d-83e4ee76c500",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f5c0e152-bd6b-400a-747d-1e1b890bcc00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/aaae1f06-c081-4fb0-c5ef-c5140cb83100",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c8fbe4ae-29fb-41d8-ef95-a16b2c2ff200",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/51e82eda-29d2-490e-b611-13b30a999800",
+"caption": "Sierra City"
+}
+]} />
 
 While we cleaned up a bit, I was reunited with Aquawoman, who I last saw at VVR, and Butters, who I last saw in Julian.
 We hiked out together, and we once again returned to incredibly painful scree.
@@ -205,10 +139,61 @@ In Quincy, I was briefly reunited with Yeezus, who helped me bring my groceries 
 and on my way out I saw Cooking Mama. He had temporarily been joined by his girlfriend and Magma had temporarily been
 joined by her father, so they weren't hiking together at the moment, but planned to reunite later down the trail.
 
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c01523e-594f-46ce-fcb8-8441876c7f00",
+"caption": "Endless scree"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fd7d03d7-74b0-4fa1-59d7-dd40b095b000",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/658bf072-9ccf-4baf-cd36-9615da930100",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0bd56e6c-7da6-4594-8b70-7e10905ed400",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/73ef9fbf-e6e5-4ab0-3722-1e9b5ec5d100",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54a4033f-f41c-46a3-302d-f1745e513b00",
+}
+]} />
+
 I left Quincy and almost immediately walked into the burn. The effects of the burn were severe, and in some ways this
 was a positive in terms of safety, as so much was burned that there was little to fall on me. The trail went steeply
 downhill to the tiny outpost of Belden, only to climb steeply out the other end through more burn and plenty of poison
 oak.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e283cf2c-8e2a-499f-b5e1-064234a32e00",
+"caption": "Entering the largest burn of the PCT"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6ce34000-f976-4fe7-9f70-f32cf0023500",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/189ada95-e2fb-42f4-7e54-1bc1e5bb7300",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cb2dfdf7-fdc5-4a5e-ddba-02141678a200",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9ec2c057-cce7-48b6-0a3c-fdac58ebdc00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/77a154ec-8286-4d14-6f50-dd712a801c00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2e3630e6-5b39-4b3a-7c1b-74aa3eaafa00",
+"caption": "A burnt up bridge"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8a735a31-59ee-4d79-d105-98a186477900",
+}
+]} />
 
 My feet were still aching, so I took the next few days slowly, with Ant Man and Black Widow eventually catching up and
 passing me. At some point, I left the geologic end of the Sierra Nevadas and entered the Cascade Range, which would be
@@ -223,6 +208,33 @@ A little bit down the trail, I crossed the midpoint of the entire PCT, and did m
 at the halfway mark of my journey. I was still a little rattled by the camper at Soldier Creek, however, and my feet
 were killing me. I was also very nervous about where to camp that evening, as much of the remainder of the trail between
 here and Chester were offlimits for camping.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5a6dd4c5-4859-4b64-a58f-375a80491200",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/72e2f76f-f3a3-4be0-e720-841e2eedc600",
+"caption": "Entering the Cascades"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b751cf39-026d-4524-4d23-334f9b8e5900",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e0dad785-fd15-4e7f-149e-1bfc3a333400",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b37996b1-dfeb-4141-9fa7-e8d6ba7d5700",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a5cc4386-9a0e-4685-e8c1-9595e47aaa00",
+"caption": "Some beautiful ash artwork"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a9df621-7c78-4a41-e1d4-1a76b51bb000",
+"caption": "Halfway done"
+}
+]} />
 
 Passing through private cow fields that graciously allowed hikers to pass through, I entered national forest territory
 and checked my map for what sections I could camp on. Eventually, I found a tiny spot that would fit me, though it was

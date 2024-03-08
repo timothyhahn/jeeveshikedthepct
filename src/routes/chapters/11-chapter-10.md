@@ -9,150 +9,150 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 04 202212-21 PMDSCF9927.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/78884ed2-a0df-4620-2b65-5b4d11b33400",
 "caption": "Following Magma and Shapes out of Timberline Lodge"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 04 202212-48 PMDSCF9929.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35000a17-8935-4727-e3be-e39af6abea00",
 "caption": "Shapes"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 04 20223-37 PMDSCF9933.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/106e2da4-4f47-4ae8-0351-f5d761a8a900",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 04 20227-48 PMDSCF9939.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81ff237c-8719-40a8-2952-b9d845d6d800",
 "caption": "Slug"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 05 20226-43 AMDSCF9941.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f19d7459-3143-4596-5103-433a5608de00",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 05 20222-45 PMDSCF9950.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7705542f-d519-430f-5344-add79edef300",
 "caption": "Magma can nap anywhere, even at tunnel falls"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 06 20222-30 PMDSCF9955.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/82b772d3-0d7b-4cd3-8a46-c94a941d4600",
 "caption": "Cascade Locks"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 06 20222-39 PMDSCF9957.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b495de8c-eced-4e37-9f7f-4e61066d4000",
 "caption": "Foxy, Trippy, Divebomb, and Magma, crossing into Washington"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 06 20222-49 PMDSCF9963.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/89dfd07a-6a2c-4fa1-90a0-241a759c9f00",
 "caption": "The bridge over the Columbia river"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 06 20224-40 PMDSCF9966.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/615bceb1-e702-47a7-9254-ae0c0c29f500",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 06 20224-49 PMDSCF9967.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4c894c39-d29c-4545-2c4f-8dfa9b8be300",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 06 20225-29 PMDSCF9968.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/092d3b36-2c01-4973-a492-7a6c1aca7a00",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 07 20222-59 PMDSCF9969.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6bb5d896-359c-4366-0b09-54f1760c8500",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 08 20229-54 AMDSCF9971.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c0b12031-a013-4995-d3f2-6f29487e2900",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 08 202211-06 AMDSCF9972.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/30c2c67e-7319-4775-2476-a0b5044d5e00",
 "caption": "Magma"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 10 20221-49 PMDSCF9975.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/09c4c2d2-d1ff-43de-07c9-2e8a810cb700",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 10 20222-14 PMDSCF9976.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b262988e-2020-408d-9304-73fa5764b000",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 10 20222-25 PMDSCF9978.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/02b306b5-6fff-4fa1-af8e-d4e2f8a03600",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 10 20224-34 PMDSCF9983.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0b170fc7-5287-47fe-87e1-2e09284ccd00",
 "caption": "I always see a face when I look back"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 10 20224-48 PMDSCF9984.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ce7b6b60-2216-4998-105b-2b5b61600f00",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 10 20225-23 PMDSCF9987.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a9b32101-efd7-4527-34cf-a8cb14094600",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 11 20222-51 PMDSCF9992.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a2a00664-79c2-4b04-aa78-e647fdd62200",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 11 20223-06 PMDSCF9993.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2316930c-3fb7-455c-22e5-823df795f500",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 11 20227-58 PMDSCF9996.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2ef7cbee-468d-4151-fcec-39afa8e17100",
 "caption": "A perfect campsite"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 11 20228-10 PMDSCF9999.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/be5752b0-c525-4990-91c7-53a6f6e8bb00",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 11 20228-34 PMDSCF0002.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/26ede1de-832c-49ce-893b-d72b2b3d5100",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 11 20228-53 PMDSCF0004.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/64a7c720-1edb-4d02-4cb3-632e8b3ded00",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20226-11 AMDSCF0012.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9bcb4f6e-912d-4a23-4596-d9c0c46e4f00",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20226-18 AMDSCF0013.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/71d7d519-3776-4d00-9e2a-24b5d27ef600",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20226-21 AMDSCF0015.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dc5a7b7b-c8c2-4288-ee5f-aee202a8e400",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20226-38 AMDSCF0018.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d2993bbc-e1ce-4db0-d059-4d0bd359b300",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20226-46 AMDSCF0019.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/eaa161a7-2846-4e57-9bb1-76be11853000",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20227-59 AMDSCF0026.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/218b5895-7c3e-43d3-3d72-8950aba52100",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20228-27 AMDSCF0027.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/69cbda27-fea1-4852-441d-3c1385181100",
 "caption": "Climbing Old Snowy"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 202210-28 AMDSCF0036.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/30b462fc-ccca-46ae-a66f-7fb623fd8b00",
 "caption": "Knife's Edge"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 202211-20 AMDSCF0039.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1bccafe2-eb32-4ff6-8ce3-626bce181a00",
 "caption": "Magma in Goat Rocks"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 12 20228-15 PMDSCF0053.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/229b3177-9609-43d0-be97-675ec563f400",
 "caption": "My favorite pic of Mt Rainier"
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 13 20225-29 AMDSCF0060.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/99485b4d-1027-4c3e-4056-6a3beec7e900",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 14 20229-42 AMDSCF0063.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e907bf6-8069-4ee7-f213-d9dadbb80600",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 14 20221-09 PMDSCF0065.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9ba5b763-6e0d-44eb-3d57-b8c7c8063700",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 14 20222-09 PMDSCF0066.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/01fb2e9f-fd3b-4808-f82e-7c75d73f3900",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 14 20222-23 PMDSCF0068.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4b99bc79-68f3-4030-db25-33136aa8b300",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 14 20223-57 PMDSCF0069.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/539bde1e-ab35-473c-ce3d-7cc8556a3100",
 },
 {
-"imageUri": "/content-photos/11-chapter-10/Aug 14 20225-31 PMDSCF0076.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5859016c-694f-447c-6d83-ba0f32ce4f00",
 }
 ]} />
 

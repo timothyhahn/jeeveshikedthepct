@@ -9,7 +9,7 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/17-intermission-4/IMG_1929.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0df8efba-c255-4363-2fb4-0bf5ff545200",
 "caption": "Cool Rocks and I chilling in Ashland"
 }
 ]} />

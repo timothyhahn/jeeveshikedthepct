@@ -7,76 +7,6 @@ part: 'sierras'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-<Images images={[
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1468.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 01 20224-27 PMDSCF9811.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 01 20225-04 PMDSCF9814.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1469.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 01 20227-54 PMDSCF9818.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1472.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 03 20226-48 AMDSCF9819.jpg",
-"caption": "Thousand Island Lakes"
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 04 20222-07 PMDSCF9822.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1480.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1481.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 05 20228-19 PMDSCF9829.jpg",
-"caption": "Dorothy Lake"
-},
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1490.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/IMG_1491.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 07 20227-14 PMDSCF9832.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 08 20229-34 AMDSCF9835.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 08 20226-15 PMDSCF9839.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 08 20226-52 PMDSCF9840.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 08 20226-52 PMDSCF9841.jpg",
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 09 202210-16 AMDSCF9842.jpg",
-"caption": "Looking back at the Sierras one last time"
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 09 20223-14 PMDSCF9844.jpg",
-"caption": "Entering Northern California"
-},
-{
-"imageUri": "/content-photos/07-chapter-7/Jul 09 20223-47 PMDSCF9847.jpg",
-"caption": "Lake Tahoe is behind those mountains."
-}
-]} />
 In order to catch up to my trail family, I would need to hike about 25 miles a day, however, and the Sierra Nevadas had
 some of the most elevation on the entire trail, outside of parts of Washington. I practically ran out of Vermillion
 Valley Resort, towards Goodale Pass, and met Zosha on one of her horses. We chatted briefly, but I had a goal in mind.
@@ -93,6 +23,27 @@ ask why.
 As I was too proud to ask them to slow down for me, I said nothing about my plans to catch up to them and recalculated
 that I'd need to be pushing a bit over 30 miles a day to catch them before Sonora Pass. I arrived at Purple Lake as the
 sun began to set, and Elleen and I caught up before exhaustion sent us to our tents.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e4b5503d-7f8a-4968-4aea-7e4f69d82900",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/aef1e0dd-2617-4a1f-93f7-cfd04fe79500",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ad8883d5-a2aa-408d-5614-76458fc44800",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a678c9cc-ed80-408b-a0d8-52d5fb39b700",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e1eb6f3-7f47-4d56-55e5-5a48c9455800",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9db27b5f-aaf8-49c6-082d-420cd7b13100",
+}
+]} />
 
 The next morning's sunrise found me racing down towards Red's Meadow, my knees pounding. Many hikers get off at Red's
 Meadow to resupply at the ski town of Mammoth, but as I had resupplied the day before at VVR, I packed out extra
@@ -122,6 +73,22 @@ around Tuolumne Meadows, I needed to push myself once again to make my miles aga
 spotted a small leading up to a ledge. On said ledge, was a perfect little campsite and I crashed into just my sleeping
 pad and bag, grateful to be in bed before it got fully dark.
 
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/08329cdc-d980-411e-ffda-96ca07cb1700",
+"caption": "Thousand Island Lakes"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cf54dbc4-7390-4934-6651-494f959bd100",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/12bb0c91-3a19-41e4-948e-71093e3e2800",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c9d6c2d-94ea-4090-8c7e-7e2036e57e00",
+}
+]} />
+
 The next day started optimistic, but reality started to catch up to me as a few climbs later I was finding my pace slow
 dramatically. I took one of the first breaks I took on this stretch of trail and a hiker I had briefly met back at
 Kennedy Meadows, Cooking Mama, caught up to me. We hung out for a bit, before he raced ahead and I crawled my way up
@@ -142,6 +109,28 @@ few miles short and enjoyed my evening for the first time since leaving VVR.
 Just past Dorothy Pass was the 1,000 mile marker on the PCT. I wanted to celebrate this achievement, but the mosquitoes
 had come back in fury, so I instead focused on making it to Sonora Pass. Looking behind me I could see Yosemite, and
 behind that the High Sierras. Looking forward, I could see the reddish mountains of Northern California.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a2342589-d550-40c1-1bb6-5b390e503000",
+"caption": "Dorothy Lake"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/91c24517-9044-4afc-5093-adf8c4c0fd00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4f54db8c-6716-48cf-9ef6-36dee75edd00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1b9640b4-4ae6-4a83-2564-7c08f2220700",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b8440a02-0497-4263-4edd-434e37b17300",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c78ec42c-8742-4b65-0955-72f9422cee00",
+}
+]} />
 
 The approach to Sonora was treacherous, covered by snow on slim ledges, but the thought of catching up to my trail
 family pushed me forward. At Sonora Pass, I was lucky enough to get a hitch to Kennedy Meadows North, where I was able
@@ -171,3 +160,24 @@ this section announced their intentions to quit once they reached South Lake Tah
 
 Eventually, however, I made it to Highway 50 and a minivan dropped me off at the hostel my trail family was staying at.
 The reunion was happy, but brief, as we swapped plans and realized we'd be splitting up once again.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e89b8e62-be3f-4f45-f4c6-9c6532422b00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ce133f16-c37a-499d-c7c7-ed1467c0f500",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1f1ee4f3-7e95-4eb6-f888-a351e409c600",
+"caption": "Looking back at the Sierras one last time"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/79adec3d-8da2-4784-7a50-bb4e63172900",
+"caption": "Entering Northern California"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e012aee3-894b-4f08-7836-1261eba95000",
+"caption": "Lake Tahoe is behind those mountains."
+}
+]} />

@@ -12,7 +12,8 @@
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write .",
 		"test:integration": "playwright test",
-		"test:unit": "vitest"
+		"test:unit": "vitest",
+		"upload_images": "node scripts/upload_images.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
@@ -41,5 +42,11 @@
 		"vite": "^5.0.3",
 		"vitest": "^1.2.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"form-data": "^4.0.0",
+		"glob": "^10.3.10",
+		"imagemagick": "^0.1.3"
+	}
 }

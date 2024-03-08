@@ -6,6 +6,19 @@
 	<title>Jeeves Hiked the PCT</title>
 </svelte:head>
 
+<div class="m-auto w-full max-h-[300px] relative">
+	<img
+		loading="lazy"
+		class="object-cover w-full max-h-[300px]"
+		src="https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1527443-7a59-46d8-a79b-585801859700/public"
+		alt="PCT Emblem"
+	/>
+	<div
+		class="w-full absolute bottom-0 top-0 ox"
+		style="box-shadow: inset -10px -10px 10px 20px rgb(31 41 55);"
+	></div>
+</div>
+
 <h1 class="text-4xl py-3">Introduction</h1>
 
 <p>

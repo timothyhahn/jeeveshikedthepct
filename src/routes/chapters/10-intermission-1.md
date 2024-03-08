@@ -9,7 +9,7 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/10-intermission-1/IMG_1642.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1258744c-6a0b-4151-717d-7bb7d9a15900",
 "caption": "Magma, Floss, and Shapes packing up our resupply boxes in Bend"
 }
 ]} />

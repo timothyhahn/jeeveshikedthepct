@@ -9,103 +9,103 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 18 202210-56 AMDSCF0077.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/53040767-3f96-4f00-03ba-ea1900404700",
 "caption": "Leaving Chinook Pass"
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 18 202211-13 AMDSCF0080.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/73bebbbd-8e54-409c-6059-2bb45d2f3400",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 18 20222-03 PMDSCF0081.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c23624a2-ad41-471a-fc84-486b060e0100",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 19 20228-32 AMDSCF0085.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dd3cb72c-4cd4-4cfa-401d-1ffa8067cc00",
 "caption": "Such blowdowns"
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 19 202211-45 AMDSCF0089.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b55db947-f4fa-41d3-069b-474e5764f400",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 20 20224-07 PMDSCF0091.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9509ca36-4082-4a95-5ac1-265137e5f200",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 20 20224-29 PMDSCF0092.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d6f8a7b-9798-436b-caa0-87af0bd73800",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 202211-37 AMDSCF0095.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/10095b95-ea34-44f6-9315-82b8de67fa00",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 202211-48 AMDSCF0097.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/444f247f-7794-49fb-e446-8a1a07d47f00",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 202212-20 PMDSCF0098.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0323ff16-92d9-4a7d-74c8-1797b937e100",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 202212-23 PMDSCF0100.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/850adfd8-07a6-4ab5-7a36-32a516987400",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 20223-31 PMDSCF0103.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9d8643b9-b271-464f-cf7a-98aa923a5200",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 20223-49 PMDSCF0105.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/50b6d9a7-8f45-47c5-c2fa-53e6b05f9700",
 "caption": "Emerald"
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 21 20226-49 PMDSCF0107.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a5b7695-4ff1-45f9-ba0b-b0c3ac51e600",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 22 20224-10 PMDSCF0112.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/864acd02-96a6-4aa6-284e-c0cd2e9c9300",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 23 20226-23 AMDSCF0114.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/822ec8f3-6ef3-45f8-9697-c8306abdd400",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 23 20227-06 AMDSCF0115.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fbf841ad-9440-4e6b-7f58-76b655311100",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 23 20227-07 AMDSCF0116.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/879fca15-0e1b-4133-5e93-5acc46bc4900",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 23 202210-48 AMDSCF0119.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b409a149-370e-44d3-bbe7-d0a6301ebc00",
 "caption": "More marmots!"
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 26 202211-42 AMDSCF0125.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b837f645-a5cf-4d16-8128-d535d5b24000",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 26 20221-46 PMDSCF0161.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7baa5c35-0ff3-4d8c-d9ec-4aea1334d600",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 26 20223-39 PMDSCF0162.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dfdb3702-1ee4-4199-057a-38f5a46e7300",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 27 20226-27 AMDSCF0165.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54e6c545-2a61-4e12-752c-af536c27c100",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 27 20229-06 AMDSCF0168.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05e9c0f9-827d-4898-a972-aa07f7ec1300",
 "caption": "EMERALD"
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 27 20229-46 AMDSCF0169.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/014d04e8-f681-4642-a5b6-2b8e78d64400",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 27 202212-38 PMDSCF0171.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/52f8fb15-5246-4052-7544-53a314d87300",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 27 20221-56 PMDSCF0172.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/112a4d70-e21e-488f-efa3-1c107f450800",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 29 20222-10 PMDSCF0175.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d78107c8-dfeb-43d9-ca57-a54e77a18400",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 29 20223-50 PMDSCF0180.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1b950f9a-4f35-43b3-fd0d-17af05917700",
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 30 202210-16 AMDSCF0182.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00",
 "caption": "Grizzlies live here"
 },
 {
-"imageUri": "/content-photos/13-chapter-11/Aug 30 20225-24 PMDSCF0183.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81fb7efd-593b-4fb6-bb89-c42b1af84c00",
 }
 ]} />
 

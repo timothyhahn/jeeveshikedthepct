@@ -9,111 +9,111 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1946.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c0b744a8-7466-4844-eb6e-22bcd74cbd00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 18 20224-45 PMDSCF0276.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/bbfe52d1-8793-4d23-8488-8bf6b5687600",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 18 20225-59 PMDSCF0278.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/17cf3194-8fa4-49a1-9b52-f5fc9e7ab400",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1949.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/888608a5-91b9-44dd-7d71-6ef4e868b000",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1950.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/659d4591-257a-4e1b-dc52-3072e7f6f000",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1953.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3b2cd2ff-1aff-4c7a-7f82-3b759531ad00",
 "caption": "Getting a hitch with some adorable pups"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1957.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/03e82a6f-3b55-4ae0-7294-2233e7c87b00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1973.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c8fc5bb7-20a4-4853-ed72-03839b2dee00",
 "caption": "The fog rolls in after a heavy storm"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1975.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dadc7b9f-ec01-4c61-97fd-7b9308788500",
 "caption": "Ended up camping in this burn"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 22 20228-16 AMDSCF0288.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/06e8556e-3468-4fae-a1e0-d47de7770600",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1982.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7b06afad-ca85-4c00-5dbd-872711d2a800",
 "caption": "Please... help me up..."
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 23 20229-50 AMDSCF0290.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/bca88d40-2e7e-4eb1-4e20-fb9112cf9900",
 "caption": "Crater Lake"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 23 20229-50 AMDSCF0291.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/892c1b24-d21e-4db3-c01f-bc4103928e00",
 "caption": "Wizard Island"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 23 20227-00 PMDSCF0295.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/10319797-e6ee-4154-264e-9546689caf00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 23 20228-52 PMDSCF0300.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cfc8f6e0-d4a5-460a-6c8b-f89292a6a100",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 202212-20 PMDSCF0308.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a61bb337-acab-4965-c16a-140afc875600",
 "caption": "Mt Jefferson in the distance"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 20221-33 PMDSCF0309.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/024e77f3-841e-4f08-8116-90c22fd02000",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 20222-09 PMDSCF0310.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/61d75f33-0e32-4f7b-311f-3a93c3cb6500",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 20222-26 PMDSCF0311.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f3e5d9de-200f-4cd3-e5a7-8d935508e000",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 20222-45 PMDSCF0312.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7997c2b1-5da9-4108-319f-b0af050cc000",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/IMG_1993.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6aec8305-2eed-4998-3730-d28cd72a8a00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 20226-53 PMDSCF0314.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ee9bc532-a597-451c-3b0a-e28fb1a4a200",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 26 20228-39 PMDSCF0319.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1bf35b15-d5b2-4a8b-481e-30cfd7d62d00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 27 202211-37 AMDSCF0320.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e0de6bc3-a5e4-44ee-7e9f-3793b2497300",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 27 202212-33 PMDSCF0321.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a862b4c1-7c53-4192-28f7-1b8981528f00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 27 20222-47 PMDSCF0322.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f152c35f-f9ea-4c70-4adb-72d1bb640500",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 27 20223-58 PMDSCF0324.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4da00209-cc29-4fd9-875e-17ec51f98a00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 28 20228-08 AMDSCF0326.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1d638bbf-ff7b-49fc-8555-cdeaeecd0200",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 28 20229-34 AMDSCF0327.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fb68ceac-e778-4c97-434c-77fab49c4a00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 28 202211-50 AMDSCF0329.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8ca8a4f3-f4e7-4c6c-81dc-2a2e7ff24d00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 29 20229-59 AMDSCF0330.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ac6225aa-f404-4c43-d3a5-0de57184c400",
 "caption": "My favorite PCT emblem, on my second to last day"
 },
 {
-"imageUri": "/content-photos/18-chapter-14/Sep 29 202212-13 PMDSCF0332.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fae9a0c0-5a0c-4fc3-7b85-c53de105bd00",
 },
 {
-"imageUri": "/content-photos/18-chapter-14/DSCF0335.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2d74607a-8ec0-46d0-0a3b-326fa92e5600",
 "caption": "Done"
 }
 ]} />

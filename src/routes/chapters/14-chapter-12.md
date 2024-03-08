@@ -9,58 +9,58 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/14-chapter-12/IMG_1812.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2b385170-09fe-412c-0901-0c6580edf500",
 "caption": "The bakery in Stehekin, behind White Stripe"
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Aug 31 20228-28 AMDSCF0185.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9fdd95e0-2602-43fb-a691-911ace106700",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 202212-02 PMDSCF0192.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cb1d72bb-260b-49c3-ea5f-c5f24d76a200",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 202212-22 PMDSCF0193.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d8ef7bb6-0276-4f94-b085-9e9af7ccf400",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 202212-32 PMDSCF0194.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81e807b1-3d53-4862-c9e4-ccacace6b500",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 202212-32 PMDSCF0195.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fbdea87e-efe4-4da7-3de8-49b8f9132e00",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 20221-02 PMDSCF0197.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/957ccd43-a8b3-410a-7a14-369913414300",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 20221-35 PMDSCF0198.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2f19b8fe-1b9a-4747-7171-a19687fd9100",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 20227-35 PMDSCF0200.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1c13ba6b-5e28-4f6f-7660-98389ddaa800",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 01 202210-09 PMDSCF0206.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35f0bf9d-cbac-49ba-2a06-90be8a04a100",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 02 20226-31 AMDSCF0210.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f56210d6-d83e-4e0e-bf49-2e35f0ce9b00",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 02 20226-32 AMDSCF0212.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fd1b67ca-0d5d-419a-5938-8aeac2b75a00",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 02 20228-26 AMDSCF0213.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3596e65e-1197-461f-12dd-bfcb31be6800",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 02 20228-37 AMDSCF0214.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e1fc2e51-903c-47c9-795e-0c5ee1b0ac00",
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 02 20226-42 PMDSCF0219.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/010d518c-a77a-4fe4-23a1-cbed139bca00",
 "caption": "Asked to evacuate by rangers, I took a picture of my northernmost point"
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 02 20227-17 PMDSCF0220.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6bdccc5b-8cbd-47a3-6da8-e36e8f928200",
 "caption": "The fires in the distance"
 },
 {
-"imageUri": "/content-photos/14-chapter-12/Sep 03 20226-55 AMDSCF0223.jpg",
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3c09b7fb-c1a6-4206-761a-005deaad9300",
 "caption": "Leaving in the smoke"
 }
 ]} />

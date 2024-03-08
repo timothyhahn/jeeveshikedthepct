@@ -7,42 +7,6 @@ part: 'norcal'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-<Images images={[
-{
-"imageUri": "/content-photos/09-chapter-9/Jul 25 20221-19 PMDSCF9903.jpg",
-"caption": "Picking up trees like massive asparagus"
-},
-{
-"imageUri": "/content-photos/09-chapter-9/Jul 25 20222-29 PMDSCF9904.jpg",
-},
-{
-"imageUri": "/content-photos/09-chapter-9/Jul 26 20227-16 AMDSCF9908.jpg",
-"caption": "Entering Lassen National Park"
-},
-{
-"imageUri": "/content-photos/09-chapter-9/Jul 26 20221-21 PMDSCF9912.jpg",
-},
-{
-"imageUri": "/content-photos/09-chapter-9/IMG_7721.jpg",
-"caption": "Taking a break at Cache 22"
-},
-{
-"imageUri": "/content-photos/09-chapter-9/Jul 30 20229-49 AMDSCF9921.jpg",
-"caption": "My first view of Mt Shasta"
-},
-{
-"imageUri": "/content-photos/09-chapter-9/Aug 01 20229-19 AMDSCF9924.jpg",
-},
-{
-"imageUri": "/content-photos/09-chapter-9/Aug 01 202210-05 AMDSCF9926.jpg",
-"caption": "Castle Crags"
-},
-{
-"imageUri": "/content-photos/09-chapter-9/PXL_20220802_032706963_Original.jpg",
-"caption": "Floss, Jeeves, Shapes, Magma, and Moo at dinner"
-}
-]} />
-
 After leaving Chester I immediately entered another intense burn, this one owned by a private logging company that was
 actively removing burnt trees as I walked through. The trail itself, however, was pleasantly flat. This was incredibly
 welcome for my feet which were still healing.
@@ -71,13 +35,37 @@ Lassen National Park had been heavily burned by the fires, and despite the flat 
 only by tepid and gross ponds for water. I did hear that Magma was just ahead, however, so I pushed on to try and catch
 up to her.
 
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35070aee-1041-4161-d5c6-f332fa837100",
+"caption": "Picking up trees like massive asparagus"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c3333a06-caf2-4786-ee0c-4ef98ee48d00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4e0f7b0a-8610-41e7-69f2-9c2fbf676800",
+"caption": "Entering Lassen National Park"
+}
+]} />
+
 At Old Station, I hung out with Clementine and Abbey, who I hadn't seen in over 500 miles. I then tackled the intensely
 hot Hat Creek Rim, nearly succumbing to heat exhaustion due to an ill-advised attempt to wait out the worst of the day
 in an extremely exposed position with minimal cell service. I was taking this opportunity to order new shoes to the next
 town, which I desperately needed, but the infuriating spottiness of my cell service made this difficult.
 
 Eventually, Hat Creek Rim came to an end, aided by the incredible water source "Cache 22". The evenings were difficult,
-however, as the muggy heat never disappated.
+however, as the muggy heat never dissipated.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5bd2761e-6150-443c-371c-0d4d5637f400",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/480fb12c-c884-4ea3-b269-f4e04ce34c00",
+"caption": "Taking a break at Cache 22"
+}
+]} />
 
 On my way into town, I came across Moo and finally met Danger Noodle. A few miles past that, I was reunited with Magma
 and we got a hitch together into Burney, where I convinced her to hang out in town, especially with a record heat wave
@@ -113,6 +101,24 @@ and wished Pitstop the best of luck.
 In Mt Shasta, I found Floss and Magma and invited them to stay with Moo and I. Magma also invited Shapes, who I last saw
 the day I first met Pitstop, and the six of us crammed into the same hotel room, doing our best to make the best of the
 situation.
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/91abc1a3-6cd1-44c8-fa68-6d8bbd234c00",
+"caption": "My first view of Mt Shasta"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0e58a7e1-4c45-4d47-07b1-f627bb156b00",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a1442671-dd61-4d50-07a7-483ac9846100",
+"caption": "Castle Crags"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1548b9b1-8d55-42cd-900d-ad9e82cb4600",
+"caption": "Floss, Jeeves, Shapes, Magma, and Moo at dinner"
+}
+]} />
 
 While I offered to go and do the group's laundry, I contacted Little Hamster. She had decided to quit the trail back in
 Idyllwild, but decided to rejoin for parts of it. Her leg injuries, however, eventually took her out. She was still
