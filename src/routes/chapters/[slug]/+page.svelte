@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { type ComponentType } from 'svelte';
+	import { type ComponentType, onMount } from 'svelte';
 	import ImageLightbox from '$lib/components/ImageLightbox.svelte';
+	import { browser } from '$app/environment';
 
 	type Chapter = {
 		title: string;
@@ -9,6 +10,14 @@
 		previousChapter: null | string;
 	};
 	export let data: Chapter;
+	$: if (browser && data) {
+		document.body.classList.remove('overflow-hidden');
+		window.scrollTo(0, 0);
+	}
+	onMount(() => {
+		document.body.classList.remove('overflow-hidden');
+		window.scrollTo(0, 0);
+	});
 </script>
 
 <svelte:head>
