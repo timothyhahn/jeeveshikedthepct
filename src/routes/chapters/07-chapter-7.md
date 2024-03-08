@@ -10,87 +10,71 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1468.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 01 20224-27 PMDSCF9811.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 01 20225-04 PMDSCF9814.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1469.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 01 20227-54 PMDSCF9818.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1472.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 03 20226-48 AMDSCF9819.jpg",
-"caption": "TODO"
+"caption": "Thousand Island Lakes"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 04 20222-07 PMDSCF9822.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1480.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1481.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 05 20228-19 PMDSCF9829.jpg",
-"caption": "TODO"
+"caption": "Dorothy Lake"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1490.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/IMG_1491.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 07 20227-14 PMDSCF9832.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 08 20229-34 AMDSCF9835.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 08 20226-15 PMDSCF9839.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 08 20226-52 PMDSCF9840.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 08 20226-52 PMDSCF9841.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 09 202210-16 AMDSCF9842.jpg",
-"caption": "TODO"
+"caption": "Looking back at the Sierras one last time"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 09 20223-14 PMDSCF9844.jpg",
-"caption": "TODO"
+"caption": "Entering Northern California"
 },
 {
 "imageUri": "/content-photos/07-chapter-7/Jul 09 20223-47 PMDSCF9847.jpg",
-"caption": "TODO"
+"caption": "Lake Tahoe is behind those mountains."
 }
 ]} />
 In order to catch up to my trail family, I would need to hike about 25 miles a day, however, and the Sierra Nevadas had

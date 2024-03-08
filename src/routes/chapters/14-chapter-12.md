@@ -10,71 +10,58 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/14-chapter-12/IMG_1812.jpg",
-"caption": "TODO"
+"caption": "The bakery in Stehekin, behind White Stripe"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Aug 31 20228-28 AMDSCF0185.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 202212-02 PMDSCF0192.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 202212-22 PMDSCF0193.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 202212-32 PMDSCF0194.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 202212-32 PMDSCF0195.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 20221-02 PMDSCF0197.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 20221-35 PMDSCF0198.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 20227-35 PMDSCF0200.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 01 202210-09 PMDSCF0206.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 02 20226-31 AMDSCF0210.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 02 20226-32 AMDSCF0212.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 02 20228-26 AMDSCF0213.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 02 20228-37 AMDSCF0214.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 02 20226-42 PMDSCF0219.jpg",
-"caption": "TODO"
+"caption": "Asked to evacuate by rangers, I took a picture of my northernmost point"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 02 20227-17 PMDSCF0220.jpg",
-"caption": "TODO"
+"caption": "The fires in the distance"
 },
 {
 "imageUri": "/content-photos/14-chapter-12/Sep 03 20226-55 AMDSCF0223.jpg",
-"caption": "TODO"
+"caption": "Leaving in the smoke"
 }
 ]} />
 

@@ -43,7 +43,7 @@
 	following, all of which greatly inspired this hike in one way or another:
 </p>
 
-<ul>
+<ul class="ml-5 my-3">
 	<LinkItem
 		label="Thru-Hiking Will Break Your Heart"
 		link="https://carrotquinn.com/thru-hiking-will-break-your-heart-the-book/"
@@ -57,11 +57,6 @@
 	<LinkItem
 		label="Journeys North"
 		link="https://barneyscoutmann.com/books/journeys-north"
-		type="book"
-	/>
-	<LinkItem
-		label="Thru-Hiking Will Break Your Heart"
-		link="https://carrotquinn.com/thru-hiking-will-break-your-heart-the-book/"
 		type="book"
 	/>
 	<LinkItem
@@ -99,4 +94,5 @@
 	questions not asked.
 </p>
 
-<a href="/chapters/01-chapter-1">Start</a>
+<a class="float-right mx-6 text-blue-400 hover:text-blue-600" href="/chapters/01-chapter-1">Start</a
+>

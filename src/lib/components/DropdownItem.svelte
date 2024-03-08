@@ -3,15 +3,18 @@
 
 	export let link: string; // Relative path, such as /01-chapter-1
 	const id = link.replace(/\//, ''); // Remove all slashes to get an ID
-	let activityClass = 'text-gray-700';
+	let activityClass = 'text-gray-300';
 	onMount(() => {
 		if (`${link}/` === location.pathname) {
-			activityClass = 'bg-gray-100 text-gray-900';
+			activityClass = 'bg-gray-600 text-gray-100';
 		}
 	});
 </script>
 
-<!-- Active: "bg-gray-100 text-gray-900", Not Active: "text-gray-700" -->
-<a href={link} class="{activityClass} block px-4 py-2 text-sm hover:cursor-auto hover:bg-gray-200" role="menuitem" tabindex="-1" {id}
-	><slot /></a
+<a
+	href={link}
+	class="{activityClass} block px-4 py-2 text-sm hover:cursor-pointer hover:bg-gray-800"
+	role="menuitem"
+	tabindex="-1"
+	{id}><slot /></a
 >

@@ -2,6 +2,7 @@
 title: 'Chapter 2: Idyllwild to Wrightwood'
 part: 'desert'
 ---
+
 <script lang="ts">
 import Images from '$lib/components/Images.svelte';
 </script>
@@ -33,7 +34,6 @@ food and drinks from a large Filipino family.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 12 202212-08 PMDSCF9299.jpg",
-"caption": "Some wicked flora"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 12 20226-12 PMDSCF9310.jpg",
@@ -41,7 +41,6 @@ food and drinks from a large Filipino family.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 12 20227-54 PMDSCF9312.jpg",
-"caption": "Gentle colors as the sun sets on our climb up"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 13 202210-02 AMDSCF9318.jpg",
@@ -53,7 +52,6 @@ food and drinks from a large Filipino family.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 14 20226-54 AMDSCF9323.jpg",
-"caption": "Looking over the ridges"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 14 20228-25 AMDSCF9328.jpg",
@@ -131,15 +129,12 @@ my trail family, who had set up camp right outside a private zoo, know that I wa
 <Images images={[
 {
 "imageUri": "/content-photos/02-chapter-2/DSCF9370.jpg",
-"caption": "The path down to Whitewater Preserve"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/IMG_0984.jpg",
-"caption": "A burn outside of Whitewater"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/IMG_0985.jpg",
-"caption": "The other side of Mission Creek"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/IMG_0986.jpg",
@@ -155,11 +150,9 @@ my trail family, who had set up camp right outside a private zoo, know that I wa
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 18 20226-27 AMDSCF9373.jpg",
-"caption": "A hanged pinecone"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 18 20229-00 AMDSCF9374.jpg",
-"caption": "A single flower"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 18 202211-12 AMDSCF9380.jpg",
@@ -201,7 +194,6 @@ Bernadino National Forest. Our first night out had us camped with a clear view o
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 21 20224-21 PMDSCF9407.jpg",
-"caption": "The trail alongside Holcomb"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 21 20224-42 PMDSCF9408.jpg",
@@ -246,7 +238,6 @@ campsite just before the camping ban boundary.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 22 20229-47 AMDSCF9417.jpg",
-"caption": "Views of an upcoming climb"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 22 20229-55 AMDSCF9418.jpg",
@@ -254,11 +245,9 @@ campsite just before the camping ban boundary.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 20227-58 AMDSCF9420.jpg",
-"caption": "Crossing roads to get back to the trail"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 20227-59 AMDSCF9421.jpg",
-"caption": "I have no idea what this is for, but it makes for a nice picture"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 202210-21 AMDSCF9422.jpg",
@@ -270,11 +259,9 @@ campsite just before the camping ban boundary.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 202210-58 AMDSCF9423.jpg",
-"caption": "Leaving Silverwood"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 202212-05 PMDSCF9425.jpg",
-"caption": "The trail goes on"
 }
 ]} />
 
@@ -309,11 +296,9 @@ meaning I'd be leaving my group behind for some solo hiking.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 20224-42 PMDSCF9434.jpg",
-"caption": "Another view of the climb ahead"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 20224-55 PMDSCF9436.jpg",
-"caption": "More hills on the way down to Cajon"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 23 20225-36 PMDSCF9437.jpg",
@@ -345,10 +330,8 @@ meaning I'd be leaving my group behind for some solo hiking.
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 24 202210-55 AMDSCF9446.jpg",
-"caption": "Surprising flora near the top of the climb"
 },
 {
 "imageUri": "/content-photos/02-chapter-2/May 24 20224-06 PMDSCF9447.jpg",
-"caption": "Views of the next climb"
 }
 ]} />

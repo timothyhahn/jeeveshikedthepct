@@ -10,147 +10,130 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 15 20227-56 AMDSCF9655.jpg",
-"caption": "TODO"
+"caption": "The transition between the desert and the Sierras"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 15 202210-14 AMDSCF9657.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 15 20221-13 PMDSCF9661.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 15 20222-51 PMDSCF9662.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 15 20224-38 PMDSCF9664.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 16 20222-09 PMDSCF9669.jpg",
-"caption": "TODO"
+"caption": "Starting to climb on up"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_1337.jpg",
-"caption": "TODO"
+"caption": "Ant Man, Black Widow, and Giggles at Chicken Springs Lake"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_1339.jpg",
-"caption": "TODO"
+"caption": "The cold settling in in the Sierras"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 17 202212-26 PMDSCF9672.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 17 20222-30 PMDSCF9675.jpg",
-"caption": "TODO"
+"caption": "Freezing behind Lefty and Willow"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 17 20223-23 PMDSCF9677.jpg",
-"caption": "TODO"
+"caption": "A cold fog rolling in"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_1342.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_1345.jpg",
-"caption": "TODO"
+"caption": "Base camp at Crabtree Meadow"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 20226-25 AMDSCF9679.jpg",
-"caption": "TODO"
+"caption": "Starting the climb up Mt Whitney"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 20227-23 AMDSCF9680.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 20227-48 AMDSCF9683.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 20228-11 AMDSCF9684.jpg",
-"caption": "TODO"
+"caption": "Never ending switchbacks"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 20229-51 AMDSCF9685.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_1348.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 202211-05 AMDSCF9687.jpg",
-"caption": "TODO"
+"caption": "Made it to the top"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 18 20221-01 PMDSCF9690.jpg",
-"caption": "TODO"
+"caption": "Gorgeous views in every direction"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 20227-35 AMDSCF9691.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 20229-40 AMDSCF9697.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202210-04 AMDSCF9706.jpg",
-"caption": "TODO"
+"caption": "My first marmot"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202210-34 AMDSCF9709.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202211-15 AMDSCF9710.jpg",
-"caption": "TODO"
+"caption": "Climbing up Forester Pass, that little gap in the wall up there"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202212-07 PMDSCF9712.jpg",
-"caption": "TODO"
+"caption": "Forester Pass - the high point of the PCT"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202212-09 PMDSCF9715.jpg",
-"caption": "TODO"
+"caption": "Jeeves, Willow, Giggles, Black Widow, Ant Man, and some guy"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202212-24 PMDSCF9719.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 202212-28 PMDSCF9720.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 20223-02 PMDSCF9724.jpg",
-"caption": "TODO"
+"caption": "Incredible views"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 20224-21 PMDSCF9725.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/Jun 19 20225-45 PMDSCF9726.jpg",
-"caption": "TODO"
+"caption": "Leaving via Kearsarge Pass"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/DSCF9728.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_1352.jpg",
-"caption": "TODO"
+"caption": "Bishop is just on the other side"
 },
 {
 "imageUri": "/content-photos/05-chapter-5/IMG_2905.jpg",
-"caption": "TODO"
+"caption": "Reunited with Flamingo Kid in Independence"
 }
 ]} />
 

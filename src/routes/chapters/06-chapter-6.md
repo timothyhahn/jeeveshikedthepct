@@ -9,156 +9,132 @@ import Images from '$lib/components/Images.svelte';
 
 <Images images={[
 {
-"imageUri": "/content-photos/06-chapter-6/Jun 27 20221-24 PMDSCF9768.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 26 20225-27 PMDSCF9761.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-27 PMDSCF9784.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 30 20229-02 PMDSCF9810.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 28 20221-40 PMDSCF9779.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1427.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-44 AMDSCF9741.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-43 PMDSCF9756.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1426.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1397.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1395.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1418.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-59 AMDSCF9743.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-36 PMDSCF9790.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-59 AMDSCF9742.jpg",
-"caption": "TODO"
-},
-{
 "imageUri": "/content-photos/06-chapter-6/Jun 24 20222-39 PMDSCF9731.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 24 20228-51 PMDSCF9738.jpg",
-"caption": "TODO"
+"caption": "Leaving Bishop behind Cool Rocks"
 },
 {
 "imageUri": "/content-photos/06-chapter-6/IMG_1392.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 28 202211-28 AMDSCF9775.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1413.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-58 PMDSCF9759.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 25 20229-36 AMDSCF9744.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1399.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-43 AMDSCF9752.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_1416.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-58 PMDSCF9760.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-38 AMDSCF9751.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/IMG_9159.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/06-chapter-6/Jun 27 20225-54 PMDSCF9774.jpg",
-"caption": "TODO"
+"caption": "Cool Rocks in all her elegance"
 },
 {
 "imageUri": "/content-photos/06-chapter-6/Jun 24 20224-05 PMDSCF9734.jpg",
-"caption": "TODO"
+"caption": "Descending to Rae Lake"
 },
 {
-"imageUri": "/content-photos/06-chapter-6/Jun 30 20228-55 PMDSCF9807.jpg",
-"caption": "TODO"
+"imageUri": "/content-photos/06-chapter-6/IMG_1395.jpg",
+"caption": "Trying to stay dry"
 },
 {
-"imageUri": "/content-photos/06-chapter-6/Jun 29 202210-25 PMDSCF9795.jpg",
-"caption": "TODO"
+"imageUri": "/content-photos/06-chapter-6/Jun 24 20228-51 PMDSCF9738.jpg",
+"caption": "Calm after the storm"
 },
 {
-"imageUri": "/content-photos/06-chapter-6/Jun 27 20224-47 PMDSCF9772.jpg",
-"caption": "TODO"
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-44 AMDSCF9741.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-59 AMDSCF9742.jpg",
+"caption": "What a great morning"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20227-59 AMDSCF9743.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1397.jpg",
+"caption": "Water crossings"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 25 20229-36 AMDSCF9744.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_9159.jpg",
+"caption": "Jeeves after mile 800"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1399.jpg",
+"caption": "Cool Rocks crossing"
 },
 {
 "imageUri": "/content-photos/06-chapter-6/Jun 26 20229-36 AMDSCF9745.jpg",
-"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-38 AMDSCF9751.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20229-43 AMDSCF9752.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-43 PMDSCF9756.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-58 PMDSCF9759.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 202212-58 PMDSCF9760.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 26 20225-27 PMDSCF9761.jpg",
 },
 {
 "imageUri": "/content-photos/06-chapter-6/Jun 26 20229-45 PMDSCF9766.jpg",
-"caption": "TODO"
+"caption": "Milky Way over Palisades Lakes"
 },
 {
-"imageUri": "/content-photos/06-chapter-6/Jun 28 20221-25 PMDSCF9776.jpg",
-"caption": "TODO"
+"imageUri": "/content-photos/06-chapter-6/IMG_1413.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20221-24 PMDSCF9768.jpg",
 },
 {
 "imageUri": "/content-photos/06-chapter-6/Jun 27 20221-48 PMDSCF9770.jpg",
-"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20224-47 PMDSCF9772.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 27 20225-54 PMDSCF9774.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1416.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1418.jpg",
+"caption": "Climb up to Muir Pass"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 28 202211-28 AMDSCF9775.jpg",
+"caption": "Entering Evolution Basin"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 28 20221-25 PMDSCF9776.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 28 20221-40 PMDSCF9779.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1426.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/IMG_1427.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-27 PMDSCF9784.jpg",
+"caption": "Foxy, Cool Rocks, and Trippy"
 },
 {
 "imageUri": "/content-photos/06-chapter-6/Jun 29 20229-32 PMDSCF9788.jpg",
-"caption": "TODO"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 20229-36 PMDSCF9790.jpg",
+"caption": "Fish and Brumby"
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 29 202210-25 PMDSCF9795.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 30 20228-55 PMDSCF9807.jpg",
+},
+{
+"imageUri": "/content-photos/06-chapter-6/Jun 30 20229-02 PMDSCF9810.jpg",
 }
 ]} />
 

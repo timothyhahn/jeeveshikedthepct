@@ -10,135 +10,111 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1946.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 18 20224-45 PMDSCF0276.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 18 20225-59 PMDSCF0278.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1949.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1950.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1953.jpg",
-"caption": "TODO"
+"caption": "Getting a hitch with some adorable pups"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1957.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1973.jpg",
-"caption": "TODO"
+"caption": "The fog rolls in after a heavy storm"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1975.jpg",
-"caption": "TODO"
+"caption": "Ended up camping in this burn"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 22 20228-16 AMDSCF0288.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1982.jpg",
-"caption": "TODO"
+"caption": "Please... help me up..."
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 23 20229-50 AMDSCF0290.jpg",
-"caption": "TODO"
+"caption": "Crater Lake"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 23 20229-50 AMDSCF0291.jpg",
-"caption": "TODO"
+"caption": "Wizard Island"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 23 20227-00 PMDSCF0295.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 23 20228-52 PMDSCF0300.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 202212-20 PMDSCF0308.jpg",
-"caption": "TODO"
+"caption": "Mt Jefferson in the distance"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 20221-33 PMDSCF0309.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 20222-09 PMDSCF0310.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 20222-26 PMDSCF0311.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 20222-45 PMDSCF0312.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/IMG_1993.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 20226-53 PMDSCF0314.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 26 20228-39 PMDSCF0319.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 27 202211-37 AMDSCF0320.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 27 202212-33 PMDSCF0321.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 27 20222-47 PMDSCF0322.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 27 20223-58 PMDSCF0324.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 28 20228-08 AMDSCF0326.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 28 20229-34 AMDSCF0327.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 28 202211-50 AMDSCF0329.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 29 20229-59 AMDSCF0330.jpg",
-"caption": "TODO"
+"caption": "My favorite PCT emblem, on my second to last day"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/Sep 29 202212-13 PMDSCF0332.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/18-chapter-14/DSCF0335.jpg",
-"caption": "TODO"
+"caption": "Done"
 }
 ]} />
 

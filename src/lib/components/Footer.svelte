@@ -1,7 +1,7 @@
-<footer class="bg-white">
+<footer>
 	<div class="mx-auto max-w-7xl px-6 py-12 flex items-center justify-between lg:px-8 flex-col">
 		<div class="mt-8 md:order-1 md:mt-0">
-			<p class="text-center text-xs leading-5 text-gray-500">
+			<p class="text-center text-xs leading-5">
 				<a property="dct:title" rel="cc:attributionURL" href="https://www.jeeveshikedthepct.com">
 					Jeeves Hiked the PCT (including images)
 				</a>

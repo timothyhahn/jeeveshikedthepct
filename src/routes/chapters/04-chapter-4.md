@@ -10,179 +10,156 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1232.jpg",
-"caption": "TODO"
+"caption": "Ant Man reading at the bar"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_8116.jpg",
-"caption": "TODO"
+"caption": "Cheesing with Cool Rocks"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 06 20228-14 AMDSCF9590.jpg",
-"caption": "TODO"
+"caption": "Returning to the trail"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 06 20226-20 PMDSCF9595.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 07 20229-38 AMDSCF9596.jpg",
-"caption": "TODO"
+"caption": "Ant Man and Black Widow"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 07 20229-38 AMDSCF9598.jpg",
-"caption": "TODO"
+"caption": "Black Widow"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1281.jpg",
-"caption": "TODO"
+"caption": "Parkour with Giggles and Willow"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 07 202211-41 AMDSCF9599.jpg",
-"caption": "TODO"
+"caption": "Willow and her massive pack"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 07 202212-19 PMDSCF9600.jpg",
-"caption": "TODO"
+"caption": "Black Widow coming down the trail"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 202210-38 AMDSCF9603.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 202212-10 PMDSCF9604.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 20221-53 PMDSCF9605.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 20223-48 PMDSCF9606.jpg",
-"caption": "TODO"
+"caption": "Willow hopping over a fence"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 20228-06 PMDSCF9608.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 20228-06 PMDSCF9609.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 08 20228-06 PMDSCF9610.jpg",
-"caption": "TODO"
+"caption": "Setting up camp at a water cache"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 09 20225-52 AMDSCF9612.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 09 20225-52 AMDSCF9613.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 09 20226-00 AMDSCF9615.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 09 20226-33 AMDSCF9616.jpg",
-"caption": "TODO"
+"caption": "Willow"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 09 20228-00 AMDSCF9617.jpg",
-"caption": "TODO"
+"caption": "Giggles"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 09 20222-35 PMDSCF9619.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 10 20225-37 AMDSCF9623.jpg",
-"caption": "TODO"
+"caption": "Giggles climbing out of Walker Pass"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 10 20229-39 AMDSCF9624.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 11 20224-26 AMDSCF9626.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/04-chapter-4/Jun 11 20225-53 AMDSCF9629.jpg",
-"caption": "TODO"
+"caption": "Packing up camp, this is how early I woke up most mornings in the desert"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 11 20225-55 AMDSCF9633.jpg",
-"caption": "TODO"
+"caption": "Willow enjoying the sunrise"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 11 20225-56 AMDSCF9634.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 11 20225-58 AMDSCF9635.jpg",
-"caption": "TODO"
+"caption": "Black Widow and Giggles"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 11 20226-27 AMDSCF9637.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 11 20227-02 AMDSCF9638.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 12 20227-10 AMDSCF9641.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1295.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1297.jpg",
-"caption": "TODO"
+"caption": "Racing to mile 700"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 12 20229-02 AMDSCF9648.jpg",
-"caption": "TODO"
+"caption": "At the end of the desert"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1300.jpg",
-"caption": "TODO"
+"caption": "Reunited with the Filipino family"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1303.jpg",
-"caption": "TODO"
+"caption": "Willow hanging out"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1304.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1317.jpg",
-"caption": "TODO"
+"caption": "The shuttle to Grumpy's"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1318.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_1319.jpg",
-"caption": "TODO"
+"caption": "Kennedy Meadows crew"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 13 20221-52 PMDSCF9651.jpg",
-"caption": "TODO"
+"caption": "Cool Rocks made it in"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/Jun 13 20221-52 PMDSCF9652.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/04-chapter-4/IMG_8449.jpg",
-"caption": "TODO"
+"caption": "Ant Man, Willow, Cool Rocks, Jeeves, Black Widow, and Giggles - done with the desert"
 }
 ]} />
 

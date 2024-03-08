@@ -10,39 +10,36 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/09-chapter-9/Jul 25 20221-19 PMDSCF9903.jpg",
-"caption": "TODO"
+"caption": "Picking up trees like massive asparagus"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/Jul 25 20222-29 PMDSCF9904.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/Jul 26 20227-16 AMDSCF9908.jpg",
-"caption": "TODO"
+"caption": "Entering Lassen National Park"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/Jul 26 20221-21 PMDSCF9912.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/IMG_7721.jpg",
-"caption": "TODO"
+"caption": "Taking a break at Cache 22"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/Jul 30 20229-49 AMDSCF9921.jpg",
-"caption": "TODO"
+"caption": "My first view of Mt Shasta"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/Aug 01 20229-19 AMDSCF9924.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/Aug 01 202210-05 AMDSCF9926.jpg",
-"caption": "TODO"
+"caption": "Castle Crags"
 },
 {
 "imageUri": "/content-photos/09-chapter-9/PXL_20220802_032706963_Original.jpg",
-"caption": "TODO"
+"caption": "Floss, Jeeves, Shapes, Magma, and Moo at dinner"
 }
 ]} />
 

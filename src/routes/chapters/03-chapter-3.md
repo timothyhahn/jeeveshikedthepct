@@ -10,199 +10,170 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/03-chapter-3/May 25 20228-09 AMDSCF9448.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 25 20228-58 AMDSCF9451.jpg",
-"caption": "TODO"
+"caption": "Preparing to leave my tramily"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 26 20227-20 AMDSCF9454.jpg",
-"caption": "TODO"
+"caption": "From the top of Baden Powell"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1102.jpg",
-"caption": "TODO"
+"caption": "Luckily, I knew there were no coral snakes in California"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1103.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1104.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 26 20221-04 PMDSCF9465.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 27 202212-23 PMDSCF9466.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 27 20225-34 PMDSCF9467.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 27 20226-22 PMDSCF9469.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 27 20226-22 PMDSCF9470.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 28 20229-12 AMDSCF9471.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1118.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1121.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 28 20228-23 PMDSCF9475.jpg",
-"caption": "TODO"
+"caption": "Love the early morning light"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1134.jpg",
-"caption": "TODO"
+"caption": "These popped up all over the desert"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 29 20228-55 AMDSCF9477.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1140.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 31 20226-44 PMDSCF9480.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 31 20226-44 PMDSCF9481.jpg",
-"caption": "TODO"
+"caption": "The local jail at the ostrich farm"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/May 31 20226-45 PMDSCF9486.jpg",
-"caption": "TODO"
+"caption": "These are majestic and horrifyingly disgusting creatures"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1170.jpg",
-"caption": "TODO"
+"caption": "Walking behind Cool Rocks"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 01 20227-25 AMDSCF9490.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 01 20227-52 AMDSCF9491.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 01 20227-59 AMDSCF9494.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 01 20229-35 AMDSCF9496.jpg",
-"caption": "TODO"
+"caption": "One of the worst early burns we saw"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 01 20229-58 AMDSCF9498.jpg",
-"caption": "TODO"
+"caption": "Chilling out just after mile 500"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 01 202210-34 AMDSCF9499.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 202210-01 AMDSCF9501.jpg",
-"caption": "TODO"
+"caption": "The road to Hikertown"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 202210-06 AMDSCF9503.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 202210-08 AMDSCF9504.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1187.jpg",
-"caption": "TODO"
+"caption": "A little store outside of Hikertown"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1195.jpg",
-"caption": "TODO"
+"caption": "Entering the Aqueduct"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1196.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 20226-49 PMDSCF9505.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 20227-19 PMDSCF9507.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 20228-07 PMDSCF9510.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 20228-09 PMDSCF9512.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 02 20229-03 PMDSCF9530.jpg",
-"caption": "TODO"
+"caption": "Cool Rocks and OJ raving"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 03 20221-25 AMDSCF9571.jpg",
-"caption": "TODO"
+"caption": "The \"perfect\" Joshua tree"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 03 20227-36 AMDSCF9574.jpg",
-"caption": "TODO"
+"caption": "Endless windmills"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1205.jpg",
-"caption": "TODO"
+"caption": "Crashing after hiking all night"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1206.jpg",
-"caption": "TODO"
+"caption": "Willow meerkatting"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 03 202210-41 AMDSCF9576.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 04 20225-33 AMDSCF9578.jpg",
-"caption": "TODO"
+"caption": "The windmills were so beautiful at sunrise/sunset, but so eerie at night"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 04 20225-45 AMDSCF9579.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 04 20228-56 AMDSCF9584.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/Jun 04 20228-58 AMDSCF9587.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/03-chapter-3/IMG_1216.jpg",
-"caption": "TODO"
+"caption": "Almost to Tehachapi"
 }
 ]} />
 The typical path into Wrightwood involves a steep two mile climb down, so our group decided to try a hitch from the road

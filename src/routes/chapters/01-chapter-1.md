@@ -79,7 +79,6 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 01 202210-50 AMDSCF9109.jpg',
-"caption": 'Crossing train tracks',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 01 202212-02 PMDSCF9112.jpg',
@@ -91,7 +90,6 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 01 202212-32 PMDSCF9117.jpg',
-"caption": 'The surprisingly green desert',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 01 20221-01 PMDSCF9120.jpg',
@@ -127,11 +125,9 @@ frogs.
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 02 20225-35 PMDSCF9136.jpg',
-"caption": 'Desert road arteries',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 02 20225-47 PMDSCF9137.jpg',
-"caption": 'An interesting plant',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 02 20228-39 PMDSCF9138.jpg',
@@ -164,7 +160,6 @@ opened a cooler full of ice.
 },
 {
 "imageUri": '/content-photos/01-chapter-1/IMG_0837.jpg',
-"caption": 'Gentle morning plants',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 03 20229-43 AMDSCF9153.jpg',
@@ -192,7 +187,6 @@ opened a cooler full of ice.
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 04 202210-14 AMDSCF9182.jpg',
-"caption": 'Hills to climb',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 04 202210-16 AMDSCF9184.jpg',
@@ -204,7 +198,6 @@ opened a cooler full of ice.
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 04 20222-47 PMDSCF9193.jpg',
-"caption": 'More hills',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 04 20223-07 PMDSCF9195.jpg',
@@ -262,7 +255,6 @@ snacked and drank outside the shop to our heart's content, meeting AKA.
 Past the cow fields, we set up camp at a dried out creek bed and agreed to do a quick out and back to Eagle Rock, where
 we watched the sun set and the stars come out.
 
-
 <Images images={[
 {
 "imageUri": '/content-photos/01-chapter-1/May 07 20225-30 AMDSCF9219.jpg',
@@ -286,11 +278,9 @@ we watched the sun set and the stars come out.
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 07 20226-04 PMDSCF9232.jpg',
-"caption": 'Cow fields',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 07 20227-29 PMDSCF9234.jpg',
-"caption": 'Distant waters',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 07 20227-30 PMDSCF9235.jpg',
@@ -306,7 +296,6 @@ we watched the sun set and the stars come out.
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 07 20227-52 PMIMG_0916.jpg',
-"caption": 'Strangers in the dark',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 07 20228-41 PMDSCF9268.jpg',
@@ -332,23 +321,20 @@ Hamster, and I rented a beautiful cabin in town and planned for our first full r
 },
 {
 "imageUri": '/content-photos/01-chapter-1/DSCF9274.jpg',
-"caption": 'Blinding sun on a stupid climb',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/DSCF9277.jpg',
 "caption": 'Mike\s Place water caches',
 },
 {
-"imageUri": '/content-photos/01-chapter-1/DSCF9277.jpg',
+"imageUri": '/content-photos/01-chapter-1/DSCF9278.jpg',
 "caption": 'Trail magic from Lifeguard and Zelda',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 10 20227-01 AMDSCF9286.jpg',
-"caption": 'Climbing to Paradise Valley',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 10 202211-26 AMDSCF9289.jpg',
-"caption": 'Leopard spots',
 },
 {
 "imageUri": '/content-photos/01-chapter-1/May 10 202212-22 PMDSCF9291.jpg',

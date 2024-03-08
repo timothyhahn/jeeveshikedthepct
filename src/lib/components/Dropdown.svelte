@@ -23,11 +23,9 @@
 			}
 		};
 
-		// add events when element is added to the DOM
 		document.addEventListener('click', handleOutsideClick, false);
 		document.addEventListener('keyup', handleEscape, false);
 
-		// remove events when element is removed from the DOM
 		return () => {
 			document.removeEventListener('click', handleOutsideClick, false);
 			document.removeEventListener('keyup', handleEscape, false);
@@ -39,7 +37,7 @@
 	<div>
 		<button
 			type="button"
-			class="hover:cursor-pointer rounded bg-gray-210 px-2 py-1 text-xs font-semibold text-black hover:bg-gray-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+			class="hover:cursor-pointer rounded bg-gray-800 px-2 py-1 text-xs font-semibold text-gray-200 hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
 			id="menu-button"
 			aria-expanded="true"
 			aria-haspopup="true"
@@ -50,7 +48,7 @@
 	</div>
 	{#if show}
 		<div
-			class="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
+			class="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-gray-700 text-gray-100 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
 			role="menu"
 			aria-orientation="vertical"
 			aria-labelledby="menu-button"

@@ -10,127 +10,102 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 18 202210-56 AMDSCF0077.jpg",
-"caption": "TODO"
+"caption": "Leaving Chinook Pass"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 18 202211-13 AMDSCF0080.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 18 20222-03 PMDSCF0081.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 19 20228-32 AMDSCF0085.jpg",
-"caption": "TODO"
+"caption": "Such blowdowns"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 19 202211-45 AMDSCF0089.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 20 20224-07 PMDSCF0091.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 20 20224-29 PMDSCF0092.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 202211-37 AMDSCF0095.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 202211-48 AMDSCF0097.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 202212-20 PMDSCF0098.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 202212-23 PMDSCF0100.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 20223-31 PMDSCF0103.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 20223-49 PMDSCF0105.jpg",
-"caption": "TODO"
+"caption": "Emerald"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 21 20226-49 PMDSCF0107.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 22 20224-10 PMDSCF0112.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 23 20226-23 AMDSCF0114.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 23 20227-06 AMDSCF0115.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 23 20227-07 AMDSCF0116.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 23 202210-48 AMDSCF0119.jpg",
-"caption": "TODO"
+"caption": "More marmots!"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 26 202211-42 AMDSCF0125.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 26 20221-46 PMDSCF0161.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 26 20223-39 PMDSCF0162.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 27 20226-27 AMDSCF0165.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 27 20229-06 AMDSCF0168.jpg",
-"caption": "TODO"
+"caption": "EMERALD"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 27 20229-46 AMDSCF0169.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 27 202212-38 PMDSCF0171.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 27 20221-56 PMDSCF0172.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 29 20222-10 PMDSCF0175.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 29 20223-50 PMDSCF0180.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 30 202210-16 AMDSCF0182.jpg",
-"caption": "TODO"
+"caption": "Grizzlies live here"
 },
 {
 "imageUri": "/content-photos/13-chapter-11/Aug 30 20225-24 PMDSCF0183.jpg",
-"caption": "TODO"
 }
 ]} />
 

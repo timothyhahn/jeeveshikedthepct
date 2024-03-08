@@ -1,5 +1,6 @@
 <script lang="ts">
-	import type { ComponentType } from 'svelte';
+	import { type ComponentType } from 'svelte';
+	import ImageLightbox from '$lib/components/ImageLightbox.svelte';
 
 	type Chapter = {
 		title: string;
@@ -21,15 +22,19 @@
 </article>
 
 <!-- Page Navigation -->
-<nav class="flex items-center justify-between px-32">
+<nav class="flex items-center justify-between px-32 mt-6">
 	{#if data.previousChapter}
 		<div class="-mt-px flex w-0 flex-1">
-			<a href="/chapters/{data.previousChapter}">Previous</a>
+			<a class="text-blue-400 hover:text-blue-600" href="/chapters/{data.previousChapter}"
+				>Previous</a
+			>
 		</div>
 	{/if}
 	{#if data.nextChapter}
 		<div class="-mt-px flex w-0 flex-1 justify-end cursor-pointer">
-			<a href="/chapters/{data.nextChapter}">Next</a>
+			<a class="text-blue-400 hover:text-blue-600" href="/chapters/{data.nextChapter}">Next</a>
 		</div>
 	{/if}
 </nav>
+
+<ImageLightbox />

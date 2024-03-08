@@ -10,7 +10,7 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/17-intermission-4/IMG_1929.jpg",
-"caption": "TODO"
+"caption": "Cool Rocks and I chilling in Ashland"
 }
 ]} />
 

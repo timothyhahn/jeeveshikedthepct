@@ -10,179 +10,149 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 04 202212-21 PMDSCF9927.jpg",
-"caption": "TODO"
+"caption": "Following Magma and Shapes out of Timberline Lodge"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 04 202212-48 PMDSCF9929.jpg",
-"caption": "TODO"
+"caption": "Shapes"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 04 20223-37 PMDSCF9933.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 04 20227-48 PMDSCF9939.jpg",
-"caption": "TODO"
+"caption": "Slug"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 05 20226-43 AMDSCF9941.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 05 20222-45 PMDSCF9950.jpg",
-"caption": "TODO"
+"caption": "Magma can nap anywhere, even at tunnel falls"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 06 20222-30 PMDSCF9955.jpg",
-"caption": "TODO"
+"caption": "Cascade Locks"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 06 20222-39 PMDSCF9957.jpg",
-"caption": "TODO"
+"caption": "Foxy, Trippy, Divebomb, and Magma, crossing into Washington"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 06 20222-49 PMDSCF9963.jpg",
-"caption": "TODO"
+"caption": "The bridge over the Columbia river"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 06 20224-40 PMDSCF9966.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 06 20224-49 PMDSCF9967.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 06 20225-29 PMDSCF9968.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 07 20222-59 PMDSCF9969.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 08 20229-54 AMDSCF9971.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 08 202211-06 AMDSCF9972.jpg",
-"caption": "TODO"
+"caption": "Magma"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 10 20221-49 PMDSCF9975.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 10 20222-14 PMDSCF9976.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 10 20222-25 PMDSCF9978.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 10 20224-34 PMDSCF9983.jpg",
-"caption": "TODO"
+"caption": "I always see a face when I look back"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 10 20224-48 PMDSCF9984.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 10 20225-23 PMDSCF9987.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 11 20222-51 PMDSCF9992.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 11 20223-06 PMDSCF9993.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 11 20227-58 PMDSCF9996.jpg",
-"caption": "TODO"
+"caption": "A perfect campsite"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 11 20228-10 PMDSCF9999.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 11 20228-34 PMDSCF0002.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 11 20228-53 PMDSCF0004.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20226-11 AMDSCF0012.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20226-18 AMDSCF0013.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20226-21 AMDSCF0015.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20226-38 AMDSCF0018.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20226-46 AMDSCF0019.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20227-59 AMDSCF0026.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20228-27 AMDSCF0027.jpg",
-"caption": "TODO"
+"caption": "Climbing Old Snowy"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 202210-28 AMDSCF0036.jpg",
-"caption": "TODO"
+"caption": "Knife's Edge"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 202211-20 AMDSCF0039.jpg",
-"caption": "TODO"
+"caption": "Magma in Goat Rocks"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 12 20228-15 PMDSCF0053.jpg",
-"caption": "TODO"
+"caption": "My favorite pic of Mt Rainier"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 13 20225-29 AMDSCF0060.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 14 20229-42 AMDSCF0063.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 14 20221-09 PMDSCF0065.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 14 20222-09 PMDSCF0066.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 14 20222-23 PMDSCF0068.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 14 20223-57 PMDSCF0069.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/11-chapter-10/Aug 14 20225-31 PMDSCF0076.jpg",
-"caption": "TODO"
 }
 ]} />
 

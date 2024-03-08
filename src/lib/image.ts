@@ -1,4 +1,4 @@
 export interface Image {
 	imageUri: string;
-	caption: string;
+	caption?: string | null;
 }

@@ -10,151 +10,124 @@ import Images from '$lib/components/Images.svelte';
 <Images images={[
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1513.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1514.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 12 20223-34 PMDSCF9850.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1520.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 13 20221-51 PMDSCF9851.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 13 20221-58 PMDSCF9853.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1521.jpg",
-"caption": "TODO"
+"caption": "Following the trail through ski resorts with Giggles"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 13 20227-02 PMDSCF9858.jpg",
-"caption": "TODO"
+"caption": "Ski lifts"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1522.jpg",
-"caption": "TODO"
+"caption": "Camping just above Lake Tahoe"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 14 20228-07 AMDSCF9859.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 14 20228-57 AMDSCF9860.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1525.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 15 202212-07 PMDSCF9865.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 15 20221-16 PMDSCF9866.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20228-32 AMDSCF9868.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20224-43 PMDSCF9869.jpg",
-"caption": "TODO"
+"caption": "Sierra City"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20226-42 PMDSCF9870.jpg",
-"caption": "TODO"
+"caption": "Endless scree"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20227-05 PMDSCF9871.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20227-35 PMDSCF9872.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20227-56 PMDSCF9873.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 16 20228-31 PMDSCF9874.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 18 20221-37 PMDSCF9881.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 18 20221-59 PMDSCF9882.jpg",
-"caption": "TODO"
+"caption": "Entering the largest burn of the PCT"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 19 20229-31 AMDSCF9884.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 21 202211-47 AMDSCF9887.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 21 202211-50 AMDSCF9889.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 21 20221-16 PMDSCF9890.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 21 20222-28 PMDSCF9891.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1556.jpg",
-"caption": "TODO"
+"caption": "A burnt up bridge"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 22 20229-46 AMDSCF9892.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 22 202212-16 PMDSCF9894.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 22 20221-43 PMDSCF9896.jpg",
-"caption": "TODO"
+"caption": "Entering the Cascades"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/Jul 22 20223-51 PMDSCF9898.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1559.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/IMG_1561.jpg",
-"caption": "TODO"
-},
-{
-"imageUri": "/content-photos/08-chapter-8/Jul 23 20224-01 PMDSCF9902.jpg",
-"caption": "TODO"
 },
 {
 "imageUri": "/content-photos/08-chapter-8/68031805253__668EC04F-054F-42D8-A09D-BCD08A77F83F.jpg",
-"caption": "TODO"
+"caption": "Some beautiful ash artwork"
+},
+{
+"imageUri": "/content-photos/08-chapter-8/Jul 23 20224-01 PMDSCF9902.jpg",
+"caption": "Halfway done"
 }
 ]} />
 
