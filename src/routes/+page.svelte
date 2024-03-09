@@ -8,7 +8,7 @@
 
 <div class="m-auto w-full max-h-[300px] relative">
 	<img
-		class="object-cover w-full max-h-[300px]"
+		class="object-cover w-full h-[300px]"
 		src="https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1527443-7a59-46d8-a79b-585801859700/public"
 		alt="PCT Emblem"
 	/>

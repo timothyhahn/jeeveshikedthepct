@@ -47,14 +47,14 @@
 		</button>
 		<div class="flex justify-center align-middle">
 			<div class="h-[100vh] my-auto">
+				{#if image.caption}
+					<div class="text-center text-gray-50 text-xl mt-12">{image.caption}</div>
+				{/if}
 				<img
-					class="max-w-[90%] max-h-[85%] mx-auto mt-[10%] z-50"
+					class="max-w-[90%] max-h-[85%] mx-auto mt-[5%] z-50"
 					src={`${image.imageUri}/large`}
 					alt={image.caption}
 				/>
-				{#if image.caption}
-					<div class="text-center text-gray-50 text-xl">{image.caption}</div>
-				{/if}
 				<img class="top-1/2 left-1/2 fixed -z-10" src="/puff.svg" alt="Loading indicator" />
 			</div>
 		</div>
