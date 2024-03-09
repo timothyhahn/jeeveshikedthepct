@@ -3,6 +3,7 @@
 	import { displayImage } from '$lib/store';
 
 	export let images: Image[];
+	export let className: string = '';
 
 	function openImageModal(image: Image) {
 		// Only open on sm and above
@@ -13,7 +14,7 @@
 
 {#if images.length > 1}
 	<!-- TODO: Unify both images, since they're almost the same, other than the 610px size -->
-	<span class="flex flex-wrap justify-center gap-[10px] after:content-[''] after:basis-[300px]">
+	<span class="flex flex-wrap justify-center gap-[10px] after:content-[''] after:basis-[300px] my-3 {className}">
 		{#each images as image}
 			<button
 				on:click={() => openImageModal(image)}
@@ -39,15 +40,15 @@
 		{/each}
 	</span>
 {:else if images.length === 1}
-	<span class="flex flex-wrap justify-center">
+	<span class="flex flex-wrap justify-center mb-3 {className}">
 		<button
 			on:click={() => openImageModal(images[0])}
 			class="cursor-default md:cursor-pointer relative basis-[300px] md:basis-[610px] group"
 		>
 			<img
 				loading="lazy"
-				class="object-cover rounded-md align-middle h-[300px] w-[300px] md:h-[610px] md:w-[610px]"
-				src={`${images[0].imageUri}/public`}
+				class="object-cover rounded-sm align-middle h-[300px] w-[300px] md:h-[610px] md:w-[610px]"
+				src={`${images[0].imageUri}/medium`}
 				alt={images[0].caption}
 			/>
 

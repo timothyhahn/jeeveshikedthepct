@@ -232,7 +232,7 @@ here and Chester were offlimits for camping.
 }
 ]} />
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a9df621-7c78-4a41-e1d4-1a76b51bb000",
 "caption": "Halfway done"

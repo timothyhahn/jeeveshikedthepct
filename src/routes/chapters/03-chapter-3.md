@@ -136,7 +136,7 @@ flies here with me. I agreed, and I found out that Cool Rocks had been hiking wi
 Widow, Willow, Giggles, and Dylan, along with newcomer Hawkeye arrived. We decided to stay at a nearby ostrich farm and
 enjoyed our reunion.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e9a1aa97-42b1-415e-5e5c-8636735fea00",
 },

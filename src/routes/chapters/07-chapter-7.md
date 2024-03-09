@@ -161,7 +161,7 @@ this section announced their intentions to quit once they reached South Lake Tah
 Eventually, however, I made it to Highway 50 and a minivan dropped me off at the hostel my trail family was staying at.
 The reunion was happy, but brief, as we swapped plans and realized we'd be splitting up once again.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e89b8e62-be3f-4f45-f4c6-9c6532422b00",
 },

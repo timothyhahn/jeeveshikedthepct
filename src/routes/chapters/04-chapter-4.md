@@ -186,7 +186,7 @@ time with the addition of Lefty who quickly fell into a trail romance with Willo
 much heavier packs, with long food carries, bear canister requirements, and warmer clothing, and with one last look, we
 left the desert section behind us.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8cf18dd0-75ae-4405-4586-a0cf0bc88b00",
 },

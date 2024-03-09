@@ -277,7 +277,7 @@ After a day that dragged on, we reached the top of the climb as the sun began to
 to cool. Below us, the lights of Wrightwood twinkled and I made the decision to not spend the following night in town,
 meaning I'd be leaving my group behind for some solo hiking.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d9aaaba3-b895-496f-205b-23b9c4282700",
 "caption": "Beginning the climb up Cajon Pass"

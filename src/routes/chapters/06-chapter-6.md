@@ -24,7 +24,7 @@ Despite a few close calls, the storm eventually passed and a group of hikers who
 shelters to enjoy the beauty of the lakes. This enjoyment was quick, however, as the mosquitoes came out in force and
 the sun started to set. We hid in our tents and attempted to dry off.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d47a6cf6-5cfc-4e19-ac8c-aa128da2ca00",
 "caption": "Leaving Bishop behind Cool Rocks"
@@ -92,7 +92,7 @@ while the others fished nearby. When I awoke, it was dinner time and we all set 
 fewer mosquitoes. As the night grew dark, Cool Rocks and I decided to take a picture at Palisades Lake, looking back
 towards the pass.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2c779679-ac42-432d-6c13-c86702a73800",
 },
@@ -146,7 +146,7 @@ always around me, so I felt relatively safe, if deeply fatigued.
 On top of Muir Pass, I crawled into one of the few huts on the entire trail, and we all caught our breaths, after an
 incredibly strenuous day.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8329d3d2-c96c-4f9d-f5ab-89b3c8279700",
 },
@@ -186,7 +186,7 @@ Cool Rocks and I tackled Selden Pass to finish the day, and passed through a fer
 As we set up camp just past the mosquitoes, Bandit appeared from the trees where the mosquitoes were clustered. With a
 shell-shocked look on her face, she asked us simply "what the fuck was that?".
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e3fd7abe-4e99-406e-129f-660f5fc4e700",
 "caption": "Entering Evolution Basin"

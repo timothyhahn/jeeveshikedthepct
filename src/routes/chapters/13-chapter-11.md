@@ -7,6 +7,26 @@ part: 'cascades'
 import Images from '$lib/components/Images.svelte';
 </script>
 
+I found a Lyft driver who was willing to drive me back to Chinook Pass from Yakima, despite the considerable distance.
+Since I knew I'd be out of internet service when we got back to the pass, I made sure to bring enough cash to tip
+generously.
+
+Leaving Chinook Pass I passed several lakes, but skipped them as water sources. I generally do not trust stagnant lakes
+near trailheads, as they are often where illnesses thrive.
+
+The trail was surprisingly empty when I returned, due to PCT Trail Days happening back in Cascade Locks. As a
+celebration of everything about the trail, people up and down the trail made the effort to hitch to Cascade Locks. Due
+to losing several days in Yakima, I decided to continue hiking.
+
+Passing the Mike Ulrich hut, I found a few other hikers, but otherwise I hiked alone through forest roads. I barely had
+the energy to struggle up even these relatively small hills, but my stomach was able to keep it together.
+
+As I approached Snoqualamie Pass, the trail increased in rockiness. Despite being mostly downhill, my feet were starting
+to get torn up and had once again swollen another shoe size past what they already had swollen to.
+
+I also came across many day hikers, which wasn't common so far on the PCT. Because of this, I made extra pre-cautions to
+avoid the lakes and stuck to running inlets as my water sources.
+
 <Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/53040767-3f96-4f00-03ba-ea1900404700",
@@ -27,7 +47,28 @@ import Images from '$lib/components/Images.svelte';
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9509ca36-4082-4a95-5ac1-265137e5f200",
-},
+}
+]} />
+
+At Snoqualamie, I hobbled down the ski slopes, wishing I could have used the lifts, and decided on a hotel room, instead
+of the hiker hostel. This ended up becoming a good idea as quite a few hikers between White Pass and Snoqualamie had
+come down with something like norovirus. At the hostel, this became somewhat of a disaster. Floss too became ill and
+despite being just ahead of me, needed to get a ride to Seattle to recover.
+
+Despite how much more difficult the trial's elevation and scree fields became, I was still flying past the day hikers,
+allowing me to see how much stronger I had become over the past few months. The blowdowns in this section started to
+intensify, but I was able to make significant progress.
+
+Wanting to catch up to Shapes and Magma, I ignored the pain in my feet, once again returning to 30+ mile days, but this
+time with a significant amount of elevation. This required night hiking, which was a poor idea due to quite a few risky
+water crossings, but eventually I started to near Stevens Pass.
+
+After racing up one final climb of 1,000 feet of elevation in less than a mile, I had a chance to enjoy Stevens Pass'
+ski lifts and got service again. I found out that Magma was actually behind me, due to heading to Trail Days, but Shapes
+was in Leavenworth, just down the highway from Stevens Pass. His family is from Washington and they picked me up from
+Stevens Pass and brought me to the Bavaria themed town of Leavenworth.
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d6f8a7b-9798-436b-caa0-87af0bd73800",
 },
@@ -64,88 +105,8 @@ import Images from '$lib/components/Images.svelte';
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/879fca15-0e1b-4133-5e93-5acc46bc4900",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b409a149-370e-44d3-bbe7-d0a6301ebc00",
-"caption": "More marmots!"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b837f645-a5cf-4d16-8128-d535d5b24000",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7baa5c35-0ff3-4d8c-d9ec-4aea1334d600",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dfdb3702-1ee4-4199-057a-38f5a46e7300",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54e6c545-2a61-4e12-752c-af536c27c100",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05e9c0f9-827d-4898-a972-aa07f7ec1300",
-"caption": "EMERALD"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/014d04e8-f681-4642-a5b6-2b8e78d64400",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/52f8fb15-5246-4052-7544-53a314d87300",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/112a4d70-e21e-488f-efa3-1c107f450800",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d78107c8-dfeb-43d9-ca57-a54e77a18400",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1b950f9a-4f35-43b3-fd0d-17af05917700",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00",
-"caption": "Grizzlies live here"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81fb7efd-593b-4fb6-bb89-c42b1af84c00",
 }
 ]} />
-
-I found a Lyft driver who was willing to drive me back to Chinook Pass from Yakima, despite the considerable distance.
-Since I knew I'd be out of internet service when we got back to the pass, I made sure to bring enough cash to tip
-generously.
-
-Leaving Chinook Pass I passed several lakes, but skipped them as water sources. I generally do not trust stagnant lakes
-near trailheads, as they are often where illnesses thrive.
-
-The trail was surprisingly empty when I returned, due to PCT Trail Days happening back in Cascade Locks. As a
-celebration of everything about the trail, people up and down the trail made the effort to hitch to Cascade Locks. Due
-to losing several days in Yakima, I decided to continue hiking.
-
-Passing the Mike Ulrich hut, I found a few other hikers, but otherwise I hiked alone through forest roads. I barely had
-the energy to struggle up even these relatively small hills, but my stomach was able to keep it together.
-
-As I approached Snoqualamie Pass, the trail increased in rockiness. Despite being mostly downhill, my feet were starting
-to get torn up and had once again swollen another shoe size past what they already had swollen to.
-
-I also came across many day hikers, which wasn't common so far on the PCT. Because of this, I made extra pre-cautions to
-avoid the lakes and stuck to running inlets as my water sources.
-
-At Snoqualamie, I hobbled down the ski slopes, wishing I could have used the lifts, and decided on a hotel room, instead
-of the hiker hostel. This ended up becoming a good idea as quite a few hikers between White Pass and Snoqualamie had
-come down with something like norovirus. At the hostel, this became somewhat of a disaster. Floss too became ill and
-despite being just ahead of me, needed to get a ride to Seattle to recover.
-
-Despite how much more difficult the trial's elevation and scree fields became, I was still flying past the day hikers,
-allowing me to see how much stronger I had become over the past few months. The blowdowns in this section started to
-intensify, but I was able to make significant progress.
-
-Wanting to catch up to Shapes and Magma, I ignored the pain in my feet, once again returning to 30+ mile days, but this
-time with a significant amount of elevation. This required night hiking, which was a poor idea due to quite a few risky
-water crossings, but eventually I started to near Stevens Pass.
-
-After racing up one final climb of 1,000 feet of elevation in less than a mile, I had a chance to enjoy Stevens Pass'
-ski lifts and got service again. I found out that Magma was actually behind me, due to heading to Trail Days, but Shapes
-was in Leavenworth, just down the highway from Stevens Pass. His family is from Washington and they picked me up from
-Stevens Pass and brought me to the Bavaria themed town of Leavenworth.
 
 Shapes and I decided to take two zeroes in Leavenworth, due to being pretty beat up by the trail after Snoqualamie. We
 also knew that the trail would remain difficult up until the Canadian border, so we stayed off our feet and ate as much
@@ -177,6 +138,29 @@ the evening, so I cowboy camped in the bushes just south of it.
 Early the next morning, I approached Fire Creek for water, only to find it completely empty. I then reached the top of
 the next pass and immediately regretted not camping up there, as the views were spectacular and the ground was flat.
 
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b409a149-370e-44d3-bbe7-d0a6301ebc00",
+"caption": "More marmots!"
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b837f645-a5cf-4d16-8128-d535d5b24000",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7baa5c35-0ff3-4d8c-d9ec-4aea1334d600",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dfdb3702-1ee4-4199-057a-38f5a46e7300",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54e6c545-2a61-4e12-752c-af536c27c100",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05e9c0f9-827d-4898-a972-aa07f7ec1300",
+"caption": "EMERALD"
+}
+]} />
+
 The trail continued to physically crumble underneath me and lead through mazes of downed trees. I normally targeted
 about 20 miles by early afternoon to make 30 miles for the day, but without food, I found myself at around mile 17 by
 the time the sun was starting to set. I attempted to push on, but multiple days with little sleep left me exhausted and
@@ -194,3 +178,31 @@ he shot me a dirty look.
 The remainder of the day was a gentle descent, as fighter jets practiced overhead. I ran into Misplaced and White
 Stripe, neither of whom I'd seen in months, who introduced me to Stellar Jay, and we made it just shy of the cutoff to
 Stehekin.
+
+<Images className="mb-0" images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/014d04e8-f681-4642-a5b6-2b8e78d64400",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/52f8fb15-5246-4052-7544-53a314d87300",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/112a4d70-e21e-488f-efa3-1c107f450800",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d78107c8-dfeb-43d9-ca57-a54e77a18400",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1b950f9a-4f35-43b3-fd0d-17af05917700",
+},
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81fb7efd-593b-4fb6-bb89-c42b1af84c00",
+}
+]} />
+
+<Images images={[
+{
+"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00",
+"caption": "Grizzlies live here"
+}
+]} />

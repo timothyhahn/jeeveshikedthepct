@@ -68,7 +68,7 @@ made it to the shade and protection of Hauser Creek, at the bottom of the climb 
 doubted this entire endeavor. Here, I camped with Ant Man, Black Widow, her friend Willow, Giggles, Tiny Dancer, B&E,
 Flamingo Kid, and Misplaced. The day before we just met as strangers, that night we began our trail family.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8c448d82-6d07-44b5-496c-6d03e0447c00",
 "caption": "Sweet Cakes and B&E, through the trees",
@@ -229,7 +229,7 @@ climb to third gate water cache was notably brutal in the sun, I hiked well into
 the dark, and called my friend from work, Elleen, to ease my nerves as the wind picked up. Eventually, I camped just
 before the water cache, which was immaculately maintained by local volunteers, including Ghost.
 
-<Images images={[
+<Images className="mb-0" images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/46b70ae7-b6ad-455b-f8fd-2bc624c88f00",
 "caption": "Chilling underneath Scissor\'s Crossing",

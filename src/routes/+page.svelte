@@ -9,7 +9,7 @@
 <div class="m-auto w-full max-h-[300px] relative">
 	<img
 		class="object-cover w-full h-[300px]"
-		src="https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1527443-7a59-46d8-a79b-585801859700/public"
+		src="https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1527443-7a59-46d8-a79b-585801859700/medium"
 		alt="PCT Emblem"
 	/>
 	<div class="w-full absolute bottom-0 top-0 shadow-inner shadow-jeeves-100 dark:shadow-900"></div>
