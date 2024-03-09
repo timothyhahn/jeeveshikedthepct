@@ -144,6 +144,9 @@ enjoyed our reunion.
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a94b56e8-4a45-4e62-1159-a437ee8dc400",
 "caption": "The local jail at the ostrich farm"
 },
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/455e2ce3-eea0-4bd5-d296-fa53a78a6300",
 "caption": "These are majestic and horrifyingly disgusting creatures"

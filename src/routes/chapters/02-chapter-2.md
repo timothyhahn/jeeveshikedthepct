@@ -330,7 +330,10 @@ meaning I'd be leaving my group behind for some solo hiking.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/528f778f-f836-41b0-fd9a-176d579ef600",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b2e462d-77e7-4aec-b6d7-e283dd273100",
 }

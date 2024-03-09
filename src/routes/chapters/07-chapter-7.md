@@ -175,7 +175,10 @@ The reunion was happy, but brief, as we swapped plans and realized we'd be split
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/79adec3d-8da2-4784-7a50-bb4e63172900",
 "caption": "Entering Northern California"
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e012aee3-894b-4f08-7836-1261eba95000",
 "caption": "Lake Tahoe is behind those mountains."

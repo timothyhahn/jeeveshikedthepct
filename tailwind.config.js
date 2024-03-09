@@ -86,8 +86,8 @@ export default {
 			}
 		},
 		fontFamily: {
-			'display': ['Montserrat', 'sans-serif'],
-			'body': ['Merriweather', 'serif']
+			display: ['Montserrat', 'sans-serif'],
+			body: ['Merriweather', 'serif']
 		}
 	},
 	plugins: []

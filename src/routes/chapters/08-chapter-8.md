@@ -229,7 +229,10 @@ here and Chester were offlimits for camping.
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a5cc4386-9a0e-4685-e8c1-9595e47aaa00",
 "caption": "Some beautiful ash artwork"
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a9df621-7c78-4a41-e1d4-1a76b51bb000",
 "caption": "Halfway done"

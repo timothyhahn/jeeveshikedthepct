@@ -90,11 +90,14 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6b5cdab5-f2bc-4cbd-6ea6-0021997b1300",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/981e1dc5-0161-45fe-4bcf-15b9493c5500",
 "caption": "The first of many lizards we would see through the desert",
-},
+}
 ]} />
 
 After a quick stop in Lake Morena for hot food, despite still having too much in my pack, I met Dobby, and the rest of
@@ -242,11 +245,14 @@ before the water cache, which was immaculately maintained by local volunteers, i
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8ddac9d2-bccb-475e-8521-3edc46fb6200",
 "caption": "Leaving Scissor\'s crossing as the sun starts to dip",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d73f4e37-deae-4594-58a1-95cd39620400",
 "caption": "Some nice light before the dark",
-},
+}
 ]} />
 
 The next day, we passed the mile 100 marker and celebrated with a trip to Montezuma Market a mile later, where we

@@ -180,10 +180,13 @@ which I then shared with the rest of the group.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/11990821-ccd7-4440-91ea-476c782e4d00",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/02da0690-2f4d-4bc9-38ec-e80aa228d900",
-"caption": "Leaving via Kearsarge Pass"
+"caption": "Just before the cutoff to Kearsarge Pass"
 }
 ]} />
 

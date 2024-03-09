@@ -40,7 +40,7 @@
 
 <article class="min-h-[70vh] m">
 	<h2 class="text-4xl py-3 mb-6">{data.title}</h2>
-	<hr class="border-1 {horizontalRuleClass}" />
+	<hr class="border-1 mb-4 {horizontalRuleClass}" />
 
 	<svelte:component this={data.content} />
 </article>

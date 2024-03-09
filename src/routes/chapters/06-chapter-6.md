@@ -40,7 +40,10 @@ the sun started to set. We hid in our tents and attempted to dry off.
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/123e946c-b254-4872-f76f-1ebdeb798100",
 "caption": "Trying to stay dry"
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7e912da5-895b-4b93-662f-a59472bdf100",
 "caption": "Calm after the storm"
@@ -121,7 +124,10 @@ towards the pass.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/08d1c80e-33b1-4a1b-d6a1-4747809f7a00",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4a9c6a0c-cf5e-480b-1256-9d46d2b07800",
 "caption": "Milky Way over Palisades Lakes"
@@ -158,7 +164,10 @@ incredibly strenuous day.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/73b68318-6d50-44f8-a9df-103a78f8b200",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/476227f4-5185-4005-6884-0440552baa00",
 "caption": "Climb up to Muir Pass"
@@ -190,7 +199,10 @@ shell-shocked look on her face, she asked us simply "what the fuck was that?".
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c7a72a35-519b-419f-a4c8-0e1111ec5c00",
-},
+}
+]} />
+
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/bb5b6ce7-a486-4661-8dfd-9eebec4da200",
 "caption": "Looking down from Selden Pass"
