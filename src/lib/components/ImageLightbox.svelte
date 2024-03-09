@@ -2,8 +2,10 @@
 	import { displayImage } from '$lib/store';
 	import type { Image } from '$lib/image';
 	import { onDestroy, onMount } from 'svelte';
+	import { browser } from '$app/environment';
 
 	let image: Image | null;
+	let width: number;
 
 	const unsubscribe = displayImage.subscribe((img) => {
 		if (img) {
@@ -29,8 +31,12 @@
 		};
 	});
 
-	$: if (image) {
+	$: if (image && width >= 768) {
 		document.body.classList.add('overflow-hidden');
+	}
+
+	$: if (width < 768) {
+		closeImage();
 	}
 
 	function closeImage() {
@@ -40,10 +46,13 @@
 	}
 </script>
 
+<svelte:window bind:innerWidth={width}></svelte:window>
+
 {#if image}
+	<!-- Only open on sm and above -->
 	<div
 		id="modal"
-		class="fixed top-0 left-0 z-50 w-screen h-screen bg-gray-800 bg-opacity-90 flex justify-center items-center"
+		class="hidden fixed top-0 left-0 z-50 w-screen h-screen bg-gray-800 bg-opacity-90 sm:flex justify-center items-center"
 	>
 		<button class="fixed z-60 top-6 right-8 text-white text-5xl font-bold" on:click={closeImage}
 			>&times;

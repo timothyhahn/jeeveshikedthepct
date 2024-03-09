@@ -5,6 +5,8 @@
 	export let images: Image[];
 
 	function openImageModal(image: Image) {
+		// Only open on sm and above
+		if (window.innerWidth <= 768) return;
 		displayImage.set(image);
 	}
 </script>
@@ -15,7 +17,7 @@
 		{#each images as image}
 			<button
 				on:click={() => openImageModal(image)}
-				class="cursor-pointer relative basis-[300px] group"
+				class="cursor-default md:cursor-pointer relative basis-[300px] group"
 			>
 				<img
 					loading="lazy"
@@ -23,15 +25,16 @@
 					src={`${image.imageUri}/public`}
 					alt={image.caption}
 				/>
-				<div
-					class="absolute w-full h-full top-0 left-0 bg-jeeves-900 bg-opacity-50 scale-0 text-white rounded-sm p-3 flex items-center content-center group-hover:scale-100 font-display"
-				>
-					<span class="mx-auto">
-						{#if image.caption}
+
+				{#if image.caption}
+					<div
+						class="absolute w-full h-full top-0 left-0 bg-jeeves-900 bg-opacity-50 scale-0 text-white rounded-sm p-3 flex items-center content-center group-hover:scale-100 font-display"
+					>
+						<span class="mx-auto">
 							{image.caption}
-						{/if}
-					</span>
-				</div>
+						</span>
+					</div>
+				{/if}
 			</button>
 		{/each}
 	</span>
@@ -39,7 +42,7 @@
 	<span class="flex flex-wrap justify-center">
 		<button
 			on:click={() => openImageModal(images[0])}
-			class="cursor-pointer relative basis-[300px] md:basis-[610px] group"
+			class="cursor-default md:cursor-pointer relative basis-[300px] md:basis-[610px] group"
 		>
 			<img
 				loading="lazy"
@@ -47,15 +50,16 @@
 				src={`${images[0].imageUri}/public`}
 				alt={images[0].caption}
 			/>
-			<div
-				class="absolute w-full h-full top-0 left-0 bg-jeeves-900 bg-opacity-50 scale-0 text-white rounded-sm p-3 flex items-center content-center group-hover:scale-100 font-display"
-			>
-				<span class="mx-auto">
-					{#if images[0].caption}
+
+			{#if images[0].caption}
+				<div
+					class="absolute w-full h-full top-0 left-0 bg-jeeves-900 bg-opacity-50 scale-0 text-white rounded-sm p-3 flex items-center content-center group-hover:scale-100 font-display"
+				>
+					<span class="mx-auto">
 						{images[0].caption}
-					{/if}
-				</span>
-			</div>
+					</span>
+				</div>
+			{/if}
 		</button>
 	</span>
 {/if}
