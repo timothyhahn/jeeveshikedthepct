@@ -12,7 +12,9 @@
 		src="https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1527443-7a59-46d8-a79b-585801859700/medium"
 		alt="PCT Emblem"
 	/>
-	<div class="w-full absolute bottom-0 top-0 shadow-inner shadow-jeeves-100 dark:shadow-900"></div>
+	<div
+		class="w-full absolute bottom-0 top-0 shadow-inner shadow-jeeves-100 dark:shadow-jeeves-900"
+	></div>
 </div>
 
 <h1 class="text-4xl py-3">Introduction</h1>

@@ -16,7 +16,7 @@
 	let horizontalRuleClass = '';
 	let footerClass = '';
 	$: if (data.part === 'desert') {
-		horizontalRuleClass = 'border-desert-700 dark:border-desert-100';
+		horizontalRuleClass = 'border-desert-700 dark:border-desert-300';
 		footerClass =
 			'text-desert-800 hover:text-desert-900 dark:text-desert-100 dark:hover:text-desert-200';
 	} else if (data.part === 'sierras') {
@@ -27,10 +27,10 @@
 		footerClass = 'text-norcal-700 hover:text-norcal-800 dark:text-norcal-800';
 	} else if (data.part === 'cascades') {
 		horizontalRuleClass = 'border-cascades-500 dark:border-cascades-300';
-		footerClass = 'text-cascades-600 hover:text-cascades-800 dark:text-cascades-800';
+		footerClass = 'text-cascades-600 hover:text-cascades-800 dark:text-cascades-300';
 	} else if (data.part === 'end') {
-		horizontalRuleClass = 'border-end-200 dark:border-end-800';
-		footerClass = 'text-end-400 hover:text-end-500 dark:text-end-800';
+		horizontalRuleClass = 'border-end-200 dark:border-end-400';
+		footerClass = 'text-end-400 hover:text-end-500 dark:text-end-300';
 	}
 </script>
 

@@ -6,6 +6,7 @@ part: 'end'
 <script lang="ts">
 import Images from '$lib/components/Images.svelte';
 </script>
+
 >
 
 I returned to the highway where I rode into town, just as a storm started. Despite the dismal weather, I still ran into
@@ -162,11 +163,11 @@ who updated me on some of what my trail family had gotten up to since we were al
 
 I had gotten new shoes at Crater Lake and the new shoes were unfortunately causing major blisters. As I was so close to
 the end, however, I ignored the pain and a two days later I made it to Willamette Pass where Little Hamster, who had
-just moved to Portland, was waiting for me. 
+just moved to Portland, was waiting for me.
 
-The next section was now closed due to a new fire, so she drove me to Sisters, where I picked up my resupply and I 
-returned to trail at Santiam Pass. This technically skipped some open sections of trail between Devil's Lake Trailhead 
-and Santiam, but as I had hiked through the Three Sisters Wilderness many times before, I wasn't too concerned with 
+The next section was now closed due to a new fire, so she drove me to Sisters, where I picked up my resupply and I
+returned to trail at Santiam Pass. This technically skipped some open sections of trail between Devil's Lake Trailhead
+and Santiam, but as I had hiked through the Three Sisters Wilderness many times before, I wasn't too concerned with
 missing these miles.
 
 <Images images={[

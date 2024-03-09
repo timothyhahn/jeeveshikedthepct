@@ -1,6 +1,7 @@
 <script lang="ts">
 	import DropdownItem from '$lib/components/DropdownItem.svelte';
 	import Dropdown from '$lib/components/Dropdown.svelte';
+	import { type Chapter as ChapterPart } from '$lib';
 
 	type Chapter = {
 		meta: {
@@ -38,6 +39,21 @@
 	function closeMobileMenu() {
 		showMobileMenu = false;
 		document.body.classList.remove('overflow-hidden');
+	}
+
+	function getPartClass(id: ChapterPart) {
+		switch (id) {
+			case 'desert':
+				return 'text-desert-400';
+			case 'sierras':
+				return 'text-sierras-500';
+			case 'norcal':
+				return 'text-norcal-600';
+			case 'cascades':
+				return 'text-cascades-400';
+			case 'end':
+				return 'text-end-200';
+		}
 	}
 </script>
 
@@ -122,13 +138,13 @@
 					<div class="-my-6 divide-y divide-jeeves-500/10">
 						{#each parts as part}
 							<div class="py-6">
-								<div class="font-bold py-3">{part.name}</div>
+								<div class="font-bold py-3 {getPartClass(part.id)}">{part.name}</div>
 								{#each chaptersMap[part.id] as chapter}
 									<a
 										data-sveltekit-reload
 										href={`/chapters/${chapter.path}`}
 										on:click={() => (showMobileMenu = false)}
-										class="mx-5 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-jeeves-400 hover:bg-jeeves-50 hover:text-jeeves-800"
+										class="mx-5 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-jeeves-100 hover:bg-jeeves-50 hover:text-jeeves-800"
 										>{chapter.meta.title}</a
 									>
 								{/each}

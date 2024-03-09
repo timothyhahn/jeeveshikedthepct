@@ -7,18 +7,18 @@
 
 	let highlightClass = '';
 	$: if (part === 'desert') {
-		highlightClass = 'hover:bg-desert-400 dark:hover:bg-desert-800';
+		highlightClass = 'hover:bg-desert-200 dark:hover:bg-desert-900 dark:hover:text-jeeves-100';
 	} else if (part === 'sierras') {
-		highlightClass = 'hover:bg-sierras-400 dark:hover:bg-sierras-800';
+		highlightClass = 'hover:bg-sierras-800 dark:hover:bg-sierras-800 dark:hover:text-jeeves-100';
 	} else if (part === 'norcal') {
-		highlightClass = 'hover:bg-norcal-300 dark:hover:bg-norcal-800';
+		highlightClass = 'hover:bg-norcal-600 dark:hover:bg-norcal-800 dark:hover:text-jeeves-100';
 	} else if (part === 'cascades') {
-		highlightClass = 'hover:bg-cascades-200 dark:hover:bg-cascades-800';
+		highlightClass = 'hover:bg-cascades-600 dark:hover:bg-cascades-800 dark:hover:text-jeeves-100';
 	} else if (part === 'end') {
-		highlightClass = 'hover:bg-end-200 dark:hover:bg-end-800';
+		highlightClass = 'hover:bg-end-400 dark:hover:bg-end-500 dark:hover:text-jeeves-100';
 	}
 	const id = link.replace(/\//, ''); // Remove all slashes to get an ID
-	let activityClass = 'text-jeeves-300';
+	let activityClass = 'text-jeeves-900';
 	onMount(() => {
 		if (`${link}/` === location.pathname) {
 			activityClass = 'bg-jeeves-600 text-jeeves-100';

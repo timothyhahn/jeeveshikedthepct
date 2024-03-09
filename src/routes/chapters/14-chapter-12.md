@@ -7,7 +7,6 @@ part: 'cascades'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-
 Stehekin is inaccessible by roads and rests on the western shore of Lake Chelan. Typically, visitors take a ferry or
 seaplan from the eastern side, but hikers can walk in from the trail, which is on the west side of Stehekin. As the walk
 into town is fairly long, Stehekin provides a free shuttle from the trailhead which I made just in time. It briefly
