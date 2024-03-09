@@ -84,6 +84,10 @@ export default {
 					950: '#000000'
 				}
 			}
+		},
+		fontFamily: {
+			'display': ['Montserrat', 'sans-serif'],
+			'body': ['Merriweather', 'serif']
 		}
 	},
 	plugins: []

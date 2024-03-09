@@ -41,7 +41,7 @@
 </script>
 
 {#if image}
-	<div id="modal" class="fixed top-0 left-0 z-50 w-screen h-screen bg-gray-800 bg-opacity-90">
+	<div id="modal" class="fixed top-0 left-0 z-50 w-screen h-screen bg-gray-800 bg-opacity-90 font-display">
 		<button class="fixed z-60 top-6 right-8 text-white text-5xl font-bold" on:click={closeImage}
 			>&times;
 		</button>

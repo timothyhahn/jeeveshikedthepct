@@ -46,7 +46,7 @@
 </article>
 
 <!-- Page Navigation -->
-<nav class="flex items-center justify-between lg:px-32 mt-6" data-sveltekit-reload>
+<nav class="flex items-center justify-between lg:px-32 mt-6 font-display" data-sveltekit-reload>
 	{#if data.previousChapter}
 		<div class="-mt-px flex w-0 flex-1">
 			<a class={footerClass} href="/chapters/{data.previousChapter}">Previous</a>
