@@ -7,10 +7,10 @@ part: 'desert'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-The day before I started I, like many hundreds before me, I made my way through San Diego to the house of Scout and
+The day before I started I, like many hundreds before me, made my way through San Diego to the house of Scout and
 Frodo's, trail angels who have graciously allowed hikers to stay at their place and prepare for the journey ahead.
 
-There, I met Ant Man, Black Widow, Giggles, and Mug, along with many more prospective hikers who I'd meet again on my
+There, I met Ant Man, Black Widow, Giggles, and Mug, along with many more hikers who I'd meet again on my
 northbound hike.
 
 <Images images={[
@@ -63,9 +63,12 @@ vivacious Flamingo Kid, who quickly out hiked me.
 },
 ]} />
 
-Carrying far too much food and pushing myself during the heat, this first day was by far the hardest physically and I
-made it to the shade and protection of Hauser Creek, at the bottom of the climb to Lake Morena, with shoulders that
-doubted this entire endeavor. Here, I camped with Ant Man, Black Widow, her friend Willow, Giggles, Tiny Dancer, B&E,
+Carrying far too much food and pushing myself during the heat, this first day was by far the hardest physically. After
+hiking through the heat of the day, I
+made it to the shade and protection of Hauser Creek, at the bottom of the climb to Lake Morena with shoulders that
+doubted this entire endeavor.
+
+Here, I camped with Ant Man, Black Widow, her friend Willow, Giggles, Tiny Dancer, B&E,
 Flamingo Kid, and Misplaced. The day before we just met as strangers, that night we began our trail family.
 
 <Images className="mb-0" images={[
@@ -101,7 +104,7 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 ]} />
 
 After a quick stop in Lake Morena for hot food, despite still having too much in my pack, I met Dobby, and the rest of
-the group met Adventure Time who advised us to meet up with him later in the day at Kitchen Creek. There, we were able
+the group met Adventure Time, who advised us to meet up with him later in the day at Kitchen Creek. There, we were able
 to cool off after a long day of hiking in the creek, setup camp next to the waters, and sleep to the sound of croaking
 frogs.
 
@@ -147,7 +150,7 @@ frogs.
 ]} />
 
 We left the desert floor to enter the beautiful pine forests of Mount Laguna, where Black Widow, Giggles, and I shared a
-tiny home, cramming our sleeping pads next to each other, awaking with each crinkle as we tossed and turned.
+tiny home, cramming our sleeping pads next to each other, waking with each crinkle as we tossed and turned.
 
 The next day, we stepped north of town and looked over the Anza-Borrego desert, where we were about to enter.
 
