@@ -42,7 +42,11 @@
 </script>
 
 <header>
-	<nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global" data-sveltekit-reload>
+	<nav
+		class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8"
+		aria-label="Global"
+		data-sveltekit-reload
+	>
 		<!-- Title -->
 		<div class="flex lg:flex-1">
 			<a href="/"><h1 class="w-auto text-lg">Jeeves Hiked the PCT</h1></a>
@@ -51,9 +55,11 @@
 		<!-- Main Dropdown menus -->
 		<div class="lg:flex hidden">
 			{#each parts as part}
-				<Dropdown name={part.name}>
+				<Dropdown name={part.name} part={part.id}>
 					{#each chaptersMap[part.id] as chapter}
-						<DropdownItem link={`/chapters/${chapter.path}`}>{chapter.meta.title}</DropdownItem>
+						<DropdownItem link={`/chapters/${chapter.path}`} part={part.id}
+							>{chapter.meta.title}</DropdownItem
+						>
 					{/each}
 				</Dropdown>
 			{/each}
@@ -63,7 +69,7 @@
 		<div class="lg:hidden flex">
 			<button
 				type="button"
-				class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-100"
+				class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-jeeves-800 dark:text-jeeves-100"
 				on:click={() => {
 					showMobileMenu = true;
 				}}
@@ -91,12 +97,12 @@
 		<div class="lg:hidden" role="dialog" aria-modal="true">
 			<div class="fixed inset-0 z-10"></div>
 			<div
-				class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-gray-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10"
+				class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-jeeves-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-jeeves-900/10"
 			>
 				<div class="flex items-center justify-end">
 					<button
 						type="button"
-						class="-m-2.5 rounded-md p-2.5 text-gray-100"
+						class="-m-2.5 rounded-md p-2.5 text-jeeves-100"
 						on:click={closeMobileMenu}
 					>
 						<span class="sr-only">Close menu</span>
@@ -113,7 +119,7 @@
 					</button>
 				</div>
 				<div class="mt-6 flow-root">
-					<div class="-my-6 divide-y divide-gray-500/10">
+					<div class="-my-6 divide-y divide-jeeves-500/10">
 						{#each parts as part}
 							<div class="py-6">
 								<div class="font-bold py-3">{part.name}</div>
@@ -122,7 +128,7 @@
 										data-sveltekit-reload
 										href={`/chapters/${chapter.path}`}
 										on:click={() => (showMobileMenu = false)}
-										class="mx-5 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-400 hover:bg-gray-50 hover:text-gray-800"
+										class="mx-5 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-jeeves-400 hover:bg-jeeves-50 hover:text-jeeves-800"
 										>{chapter.meta.title}</a
 									>
 								{/each}

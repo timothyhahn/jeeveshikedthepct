@@ -12,10 +12,7 @@
 		src="https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1527443-7a59-46d8-a79b-585801859700/public"
 		alt="PCT Emblem"
 	/>
-	<div
-		class="w-full absolute bottom-0 top-0 ox"
-		style="box-shadow: inset -10px -10px 10px 20px rgb(31 41 55);"
-	></div>
+	<div class="w-full absolute bottom-0 top-0 shadow-inner shadow-jeeves-100 dark:shadow-900"></div>
 </div>
 
 <h1 class="text-4xl py-3">Introduction</h1>
@@ -108,3 +105,4 @@
 
 <a class="float-right mx-6 text-blue-400 hover:text-blue-600" href="/chapters/01-chapter-1">Start</a
 >
+<div class="clear-both" />

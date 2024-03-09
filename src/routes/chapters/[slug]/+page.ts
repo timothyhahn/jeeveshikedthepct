@@ -2,7 +2,7 @@ import { fetchMarkdownPosts } from '$lib/utils';
 
 export async function load({ params }) {
 	const chapter = await import(`../${params.slug}.md`);
-	const { title } = chapter.metadata;
+	const { title, part } = chapter.metadata;
 	const content = chapter.default;
 
 	// Calculate next and previous chapters
@@ -22,6 +22,7 @@ export async function load({ params }) {
 	return {
 		content,
 		title,
+		part,
 		nextChapter: nextChapter,
 		previousChapter: previousChapter
 	};

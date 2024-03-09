@@ -1,10 +1,26 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import type { Chapter } from '$lib';
 
 	export let name: string;
+	export let part: Chapter;
+
 	let show = false;
 	let dom: HTMLElement | null = null;
 	let subitem: HTMLElement | null = null;
+
+	let highlightClass = '';
+	$: if (part === 'desert') {
+		highlightClass = 'hover:bg-desert-400 dark:hover:bg-desert-800';
+	} else if (part === 'sierras') {
+		highlightClass = 'hover:bg-sierras-400 dark:hover:bg-sierras-800';
+	} else if (part === 'norcal') {
+		highlightClass = 'hover:bg-norcal-300 dark:hover:bg-norcal-800';
+	} else if (part === 'cascades') {
+		highlightClass = 'hover:bg-cascades-200 dark:hover:bg-cascades-800';
+	} else if (part === 'end') {
+		highlightClass = 'hover:bg-end-200 dark:hover:bg-end-800';
+	}
 
 	onMount(() => {
 		const handleOutsideClick = (event) => {
@@ -37,7 +53,9 @@
 	<div>
 		<button
 			type="button"
-			class="hover:cursor-pointer rounded bg-gray-800 px-2 py-1 text-xs font-semibold text-gray-200 hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+			class="hover:cursor-pointer rounded px-2 py-1 text-xs font-semibold bg-jeeves-100 text-jeeves-800 dark:bg-jeeves-800 dark:text-jeeves-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2
+			{highlightClass}
+			"
 			id="menu-button"
 			aria-expanded="true"
 			aria-haspopup="true"
@@ -48,7 +66,7 @@
 	</div>
 	{#if show}
 		<div
-			class="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-gray-700 text-gray-100 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
+			class="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-jeeves-700 text-jeeves-100 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
 			role="menu"
 			aria-orientation="vertical"
 			aria-labelledby="menu-button"
