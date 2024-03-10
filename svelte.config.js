@@ -17,7 +17,8 @@ const config = {
 		prerender: {
 			entries: ['/chapters/01-chapter-1', '/', '/api/chapters']
 		}
-	}
+	},
+	inlineStyleThreshold: 1024
 };
 
 export default config;
