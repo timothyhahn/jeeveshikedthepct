@@ -27,3 +27,5 @@ With all of that said, if I have conveyed anything to you, it's that the PCT has
 convince a single person to go out for a really long hike, I will have succeeded here.
 
 If you do, I hope that your long hike means everything to you too.
+
+-- Ask Jeeves
