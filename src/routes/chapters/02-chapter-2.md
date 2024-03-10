@@ -7,7 +7,9 @@ part: 'desert'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-Idyllwild gave us our first zero, a day hiking zero miles, where we met the mayor - a gorgeous dog named Max. He has since passed, may he rest in peace. On our way out, a man spotted us as he drove to the dump and once he was done, came back to drive us about an hour out of his way back to the trailhead we got off at.
+Idyllwild gave us our first zero, a day hiking zero miles, where we met the mayor - a gorgeous dog named Max. He has
+unfortunately since passed, may he rest in peace. On our way out, a man spotted us as he drove to the dump and once he
+was done, came back to drive us about an hour out of his way back to the trailhead we got off at.
 
 <Images images={[
 {
@@ -22,8 +24,8 @@ time we needed to resupply on water, we scrambled down steep side trails to reac
 trip.
 
 This Sisyphean task took us to the top of San Jacinto, where we met some tourists from Palm Springs who rode the tram
-up. On the other side, the rapid descent back to the desert floor punished my knees, where we were treated to incredible
-food and drinks from a large Filipino family.
+up. On the other side, the rapid descent back to the desert floor punished my knees, but we were also treated to incredible
+food and drinks from a large Filipino family who happened to me camping near the trail.
 
 <Images images={[
 {
@@ -205,10 +207,10 @@ Bernadino National Forest. Our first night out had us camping with a clear view 
 ]} />
 
 The trail followed Holcomb and Deep Creeks, giving us our first taste of truly reliable water. This was very much a
-luxury I did not take for granted. The trail ran past many high clearance dirt roads and were unfortunately packed with
+luxury I did not take for granted. We also crossed many high clearance dirt roads and were unfortunately packed with
 trash.
 
-This trend continued with an early wakeup to reach Deep Creek hot springs, which were right on trail, but unfortunately
+This trend continued with an early wakeup to reach Deep Creek hot springs, which was right on trail, but unfortunately
 had quite a few illegal campsites and trash strewn everywhere. We did our best to enjoy it and our spirits were buoyed
 by some nudists who came with trash bags and spent most of the morning cleaning up, as their cars were only a few
 miles away.

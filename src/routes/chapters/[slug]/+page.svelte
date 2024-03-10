@@ -60,3 +60,6 @@
 </nav>
 
 <ImageLightbox />
+
+<!-- Hack because mb-0 appears to be tree-shaken out of the final result -->
+<div class="hidden mb-0"></div>

@@ -32,7 +32,7 @@ northbound hike.
 },
 ]} />
 
-On May 1st, we quietly packed our bags well before the sun rose and made our ways into the cars of volunteers who drove
+On May 1st, we quietly packed our bags well before the sun rose and made our way into the cars of volunteers who drove
 us down to the Mexican border, where we began. On the first major climb out, I was overtaken by the charming and
 vivacious Flamingo Kid, who quickly out hiked me.
 
@@ -63,7 +63,7 @@ vivacious Flamingo Kid, who quickly out hiked me.
 },
 ]} />
 
-Carrying far too much food and pushing myself during the heat, this first day was by far the hardest physically. After
+Carrying far too much food, this first day ended up being one of the hardest for me physically. After
 hiking through the heat of the day, I
 made it to the shade and protection of Hauser Creek, at the bottom of the climb to Lake Morena with shoulders that
 doubted this entire endeavor.
@@ -104,8 +104,8 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 ]} />
 
 After a quick stop in Lake Morena for hot food, despite still having too much in my pack, I met Dobby, and the rest of
-the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek. There, we were able
-to cool off after a long day of hiking in the creek, setup camp next to the waters, and sleep to the sound of croaking
+the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek. After a long day of hiking  we were able
+to cool off in the creek, set up camp next to the waters, and sleep to the sound of croaking
 frogs.
 
 <Images images={[
@@ -221,14 +221,14 @@ under the bridge at Scissor's Crossing, where hikers sprawled around a water cac
 off the heat of the day.
 
 Eventually, we all got rides into Julian, including some of us from a legendary local trail angel named Ghost. Once in Julian, we
-immediately stopped by Mom's, who provided all hikers with a permit a free slice of pie, where I grabbed a table with
+immediately stopped by Mom's, who provided all hikers carrying a PCT permit a free slice of pie, where I grabbed a table with
 Adventure Time, White Stripe, Little Hamster, and Butters. Little Hamster, who I met under the bridge, and I convinced
 each other that we both had deserved a nice place in town to stay, so we grabbed separate rooms at a local AirBnB, while
 the rest of my gang stayed at the lodge. We all met up later for Cinco de Mayo margaritas and dinner.
 
 A local gear outfitter, Two Foot Adventures, arranged rides for us back to Scissor's Crossing, and unlike the rest of my
 group I waited until the sun started to set to hike. I passed my group setting up camp a few miles later, but as the
-climb to Third Gate water cache was notably brutal in the sun, I hiked well into the dark, passing Dobby's campsite in
+climb to Third Gate water cache was notably exposed I hiked well past sunset, almost tripping over Dobby's campsite in
 the dark. As the wind picked up, my nerves got the best of me and I called my friend from work, Elleen. Eventually, I
 camped just before the water cache, which was immaculately maintained by local volunteers, including Ghost.
 
@@ -258,7 +258,7 @@ camped just before the water cache, which was immaculately maintained by local v
 }
 ]} />
 
-The next day, we passed the mile 100 marker and celebrated with a trip to Montezuma Market a mile later, where we
+The next day, we passed the mile 100 marker and a mile later we celebrated with a trip to Montezuma Market. There, we
 snacked and drank outside the shop to our heart's content, meeting AKA.
 
 Past the cow fields, we set up camp at a dried out creek bed and agreed to do a quick out and back to Eagle Rock, where
@@ -315,7 +315,7 @@ we watched the sun set and the stars come out.
 At this point, I'd be remiss to not mention that my stomach was treating me poorly and I was unable to eat more than a
 thousand calories each day. The next few days were painful, as cramps wracked me with every step.
 
-Over the next two days met Dylan, a wildland firefighter carrying a full-size chainsaw to raise awareness for mental
+Over the next two days we met Dylan - a wildland firefighter carrying a full-size chainsaw to raise awareness for mental
 health among firefighters, gratefully got water from caches at Mike's and Mary's, received trail magic from Lifeguard
 and Zelda, and saw an abundance of rattlesnakes.
 

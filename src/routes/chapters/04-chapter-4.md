@@ -8,7 +8,7 @@ import Images from '$lib/components/Images.svelte';
 </script>
 
 Tehachapi was another zero and I spent most of the day recovering my feet and popping blisters. Cool Rocks brought over
-Carnation Instant Breakfast for Ant Man, and we hung out before saying our goodbyes, as she planned to stay in Tehachapi
+Carnation Instant Breakfast for Ant Man and we hung out before saying our goodbyes, as she planned to stay in Tehachapi
 one more day.
 
 <Images images={[
@@ -141,7 +141,7 @@ either contaminated with uranium, mosquito larvae, or flies. We picked the one s
 there before running out of water.
 
 At the top of the next climb, I found myself incredibly nauseous, possibly heat exhausted, and for the first time in a
-while I wasn't able to eat. The next day brought us to several fantastic water sources. Those, along with brief glimpses
+while I wasn't able to eat. Thankfully, the next day brought us to several fantastic water sources. Those, along with brief glimpses
 of the Sierra Nevadas, let us know that we were close to completing the desert.
 
 <Images images={[
@@ -177,7 +177,7 @@ of myself and knowing that if I could make it here, that I could finish the enti
 These emotions were amplified by a surprise reunion with the Filipino family we met after San Jacinto, who met us with
 cooked food and treats, which we gratefully accepted.
 
-Kennedy Meadows, not much more than two competing general store/restaurants, surrounded by ranches, was an odd outpost.
+Kennedy Meadows, not much more than two competing general stores/restaurants, surrounded by ranches, was an odd outpost.
 As it was the final resupply opportunity before entering the Sierras, however, it served as a chokepoint, and we were
 reunited with many of the hikers we hadn't seen in weeks. While there was very little to do, we decided to spend an
 extra day here to swap out gear in preparation for the rapid change in environment.

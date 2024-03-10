@@ -7,7 +7,7 @@ part: 'desert'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-The typical path into Wrightwood involves a steep two-mile climb down, so our group decided to try a hitch from the road
+The typical path into Wrightwood involves a steep two-mile climb down, so our group decided to instead try a hitch from the road
 a bit further down the trail. While I planned not to spend the night there, I did need some resupplies. We were picked
 up by a K-Drama obsessed local named Maria, who insisted on calling me "Oppa".
 
@@ -52,7 +52,7 @@ in working condition, just heavily scratched up.
 Mt Williamson was also fairly straightforward, and I ran into AKA, who also decided not to stay in Wrightwood just yet.
 His friend from the Appalachian Trail was also there and she had set up trail magic. With a stomach full of burgers and
 croquettes, I carefully navigated the next dozen or so miles that strayed from the PCT to avoid an endangered frog
-habitat and found the only safe spot in a burn to camp that night with Baby Sinclair.
+habitat and found the only safe spot in a burn to camp that night.
 
 The next day was Memorial Day, which I only realized once I reached a fire station that allowed hikers to rest and
 refill our water bottles on the side of a busy highway. I chatted briefly with OJ and Buggy, before pushing forward to
@@ -224,7 +224,7 @@ At around 4 AM, we found "the perfect" Joshua tree, where we took a photo with o
 afterward, we crashed in some bushes that we found out were infested with rattlesnakes.
 
 The next two days led us through some of the windiest parts of the trail, constantly fighting to stand up straight. I
-had also developed some painful blisters, and the final descent into the road where I'd hitch into Tehachapi found me
+had also developed some painful blisters and the final descent into the road where I'd hitch into Tehachapi found me
 slowed to a gentle crawl. Eventually, somehow, I made it to road crossing and limped into the town of Tehachapi.
 
 <Images images={[

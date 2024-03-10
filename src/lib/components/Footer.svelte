@@ -14,18 +14,19 @@
 				>
 					CC BY-SA 4.0
 					<img
+						loading="lazy"
 						class="h-6 w-6 ml-1 inline-block align-text-bottom"
 						src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
 						alt="Creative Commons CC"
 					/>
 					<img
-						style=""
+						loading="lazy"
 						class="h-6 w-6 ml-1 inline-block align-text-bottom"
 						src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
 						alt="Creative Commons By Attribution"
 					/>
 					<img
-						style=""
+						loading="lazy"
 						class="h-6 w-6 ml-1 inline-block align-text-bottom"
 						src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"
 						alt="Creative Commons Share Alike"
