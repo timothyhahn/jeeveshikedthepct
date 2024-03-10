@@ -3,7 +3,7 @@ title: 'Intermission 2 - Yakima'
 part: 'cascades'
 ---
 
-In Yakima, I finally had a chance to get checked out, who found I had mild stomach bleed. With a few more tests and
+In Yakima, I finally had a chance to get checked out and found I had mild stomach bleed. With a few more tests and
 probes, we eventually realized that the Ibuprofen I had been taking since Cispus Pass was causing issues for me. I've
 always had problems with NSAIDs, but I thought such a small amount of Advil, especially taken with food, wouldn't be an
 issue.

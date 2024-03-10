@@ -7,9 +7,7 @@ part: 'desert'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-Idyllwild gave us our first zero, a day hiking zero miles, where we met the mayor - a gorgeous dog named Max, may he
-rest in peace. On our way out, a man spotted us as he drove to the dump and once he was done, drove us about an hour out
-of his way to the trailhead.
+Idyllwild gave us our first zero, a day hiking zero miles, where we met the mayor - a gorgeous dog named Max. He has since passed, may he rest in peace. On our way out, a man spotted us as he drove to the dump and once he was done, came back to drive us about an hour out of his way back to the trailhead we got off at.
 
 <Images images={[
 {
@@ -123,8 +121,9 @@ ended up worrying everyone.
 
 The evening before we reached Big Bear, I was once again behind my group as the sun began to set. Out of the corner of
 my eye, I saw a figure flash quickly down the trail, about to overtake me. As I stepped to the side to let them pass, I
-realized it was Jupiter, a Youtuber whose videos I had thoroughly enjoyed over the years. We chatted for a while and let
-my trail family, who had set up camp right outside a private zoo, know that I was about to catch up.
+realized it was [Jupiter, a Youtuber whose videos](https://www.youtube.com/@JupiterHikes) I had thoroughly enjoyed over
+the years. We chatted for a while before he raced ahead. When I caught up to my trail family, who had set up camp right
+outside a private zoo, they let me know he had mentioned our encounter and that I was about to catch up.
 
 <Images images={[
 {
@@ -169,7 +168,7 @@ I accepted Elleen's offer to bring me a stove and food that I could more reliabl
 still causing me major stomach pains and fatigue.
 
 We took another zero in Big Bear Lake, with some fantastic bagel sandwiches, before heading westwards towards San
-Bernadino National Forest. Our first night out had us camped with a clear view of the upcoming valleys.
+Bernadino National Forest. Our first night out had us camping with a clear view of the upcoming valleys.
 
 <Images images={[
 {
@@ -211,7 +210,7 @@ trash.
 
 This trend continued with an early wakeup to reach Deep Creek hot springs, which were right on trail, but unfortunately
 had quite a few illegal campsites and trash strewn everywhere. We did our best to enjoy it and our spirits were buoyed
-by some nudists who came with trash bags and spent most of the morning cleaning up trash, as their cars were only a few
+by some nudists who came with trash bags and spent most of the morning cleaning up, as their cars were only a few
 miles away.
 
 <Images images={[
@@ -223,7 +222,7 @@ miles away.
 
 A few miles into the day, we received ice cold beverages, fruits, and medical supplies from Corgi Legs, who set up at a
 road crossing, and met Floss. A bit after that, our group had our first argument, as our camping plans were complicated
-by the inability to camp at Silverwood Lake in a few miles. We either would need to go well short of our mileage goals
+by a camping ban around Silverwood Lake in a few miles. We either would need to go well short of our mileage goals
 for the day, or well past. With the heat of the day pounding on everyone's nerves, we eventually agreed to find a
 campsite just before the camping ban boundary.
 
@@ -266,11 +265,12 @@ campsite just before the camping ban boundary.
 ]} />
 
 After Silverwood Lake, our next goal was the hilly Cajon Pass, where you descend from the desert hills to cross I-15. At
-Cajon Pass, we had our fill at the under renovation McDonalds and spent the night at the local inn before we made the
+Cajon Pass, we had our fill at the under renovation McDonald's and spent the night at the local inn before we made the
 steepest climb of the desert to the mountains overlooking Wrightwood.
 
 Despite carrying 7 liters of water, I found myself running out of water alarmingly fast. There was also no reliable
-water for this entire section, and worry started to set in. Thankfully, an overlanding vehicle offered us each a bottle of water and a few miles past that we found a water cache that likely should not have been there, but we were
+water for this entire section, and worry started to set in. Thankfully, an overlanding vehicle offered us each a bottle
+of water and a few miles past that we found a water cache that likely should not have been there, but we were
 excessively thankful for.
 
 After a day that dragged on, we reached the top of the climb as the sun began to set and the temperature finally started

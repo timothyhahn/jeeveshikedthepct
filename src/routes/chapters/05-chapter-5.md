@@ -10,7 +10,7 @@ import Images from '$lib/components/Images.svelte';
 The first few miles out of Kennedy Meadows felt suspiciously like the desert still. Once we entered Inyo National
 Forest, however, the landscape changed drastically, with beautiful meadows and creeks pressed up against the Sierras.
 
-Despite the added elevation gain and rugged terrain, entering the Sierra Nevadas was a rejuvenating experience. Early
+Despite the added elevation gain and rugged terrain, entering the Sierra Nevada was a rejuvenating experience. Early
 on, we met Gibb, who taught us about the flint all around us, as well as Shapes who shared some incredible banana bread
 his mother had sent him.
 
@@ -37,10 +37,10 @@ his mother had sent him.
 },
 ]} />
 
-A strong 45 miles into the Sierra Nevadas we pushed up to 12k feet of elevation, where the group finally started to feel
+A strong 45 miles into the Sierra Nevada we pushed up to 12k feet of elevation, where the group finally started to feel
 the elevation a bit. The temperature cooled dramatically, partially due to an incoming cold front. Here, however, we
-came across our first alpine lake; Chicken Springs Lake. The lake was freezing cold, but I still soaked my feet to help
-them reduce in size, as my foot size had grown a full size since starting.
+came across our first alpine lake: Chicken Springs Lake. The lake was freezing cold, but I still soaked my feet to help
+them reduce in size, as my foot size had grown a full size since starting. Ant Man and Giggles dove straight in.
 
 The lake was beautiful, but unfortunately a bit trashed due to being a popular spot. My first campsite choice quickly
 was discarded as I found fecal remains hidden among the rocks.
@@ -65,7 +65,7 @@ was discarded as I found fecal remains hidden among the rocks.
 
 The next morning was cloudy and frigid. This was the first day on trail without clear blue skies and we were glad for
 our warmer clothing. I unfortunately realized that I had eaten through my food much more quickly than I had expected,
-and while the exit to Bishop was only a few days away, we also wanted to add the optional trek to Mt Whitney, the
+and while the exit to Bishop was only a few days away, we also wanted to add the optional trek to Mt Whitney - the
 highest point in the continental US.
 
 At the junction to Crabtree Meadow, we took the turn towards Mt Whitney and set up camp at the base. We originally
@@ -78,13 +78,13 @@ began the steep climb up to the peak of Mt Whitney. Running out of food, I ate a
 food for the following days and used what little energy I could muster to trudge up Mt Whitney, desperate for the sun to
 come out.
 
-On the way up, I met quite a few JMT hikers, as Mt Whitney is the southern terminus of that trail, and I did my best to
-keep a smile on my face as I congratulated them for being so close to the end. Past Guitar Lake, we climbed up an
-endless series of steep switchbacks and cut across a ledge covered in ice.
+On the way up, I met quite a few John Muir Trail hikers, as Mt Whitney is the southern terminus of that trail, and I did
+my best to keep a smile on my face as I congratulated them for being so close to the end. Past Guitar Lake, we climbed
+up an endless series of steep switchbacks and cut across a ledge covered in ice.
 
 At the top, we reached 14,505 feet and the sun finally started to warm us up. I found Foxy and Trippy cuddled up under a
-sleeping bag, crying to their favorite soundtrack. All of us rested, exhausted, but before too long we needed to get
-back down as the weather worsened.
+sleeping bag, crying to their favorite soundtrack. All of us rested for a moment, exhausted, but before too long we
+needed to get back down as the weather worsened.
 
 <Images images={[
 {
@@ -192,16 +192,16 @@ which I then shared with the rest of the group.
 
 The next morning we reached Onion Valley trailhead and were able to get a ride down to Independence, where I ran into
 Flamingo Kid once again, but struggled to get a ride down the highway to Bishop. Once we did, I immediately ran over to
-the local car rental and borrowed a car and found hikers in Bishop who needed a ride back to Onion Valley. One said
+the local car rental and borrowed a car. I then found hikers in Bishop who needed a ride back to Onion Valley. One such
 hiker was Misplaced, who I hadn't seen since the early days of the PCT.
 
 For the next few days, we rested in Bishop while I drove multiple groups of hikers between Onion Valley and Bishop. The
 crowning achievement was when I was able to surprise Cool Rocks at the trailhead and take her into town.
 
-This gave us time to talk, and we decided to try hiking together. My trail family wanted to leave Bishop almost right
-away, but I needed some time to recuperate. I also wanted to take the next part of the Sierras slowly, which aligned
-more closely with Cool Rocks' goals. Finally, Cool Rocks had been hiking alone for most of the early Sierras and with
-her birthday coming up, I wanted to be there to celebrate with her. Everything just seemed to align better.
+This gave us time to talk, and we agreed to hike the next section together. My trail family wanted to leave Bishop
+almost right away, but I needed some time to recuperate. I also wanted to take the next part of the Sierras slowly,
+which aligned more closely with Cool Rocks' goals. Finally, Cool Rocks had been hiking alone for most of the early
+Sierras and with her birthday coming up, I wanted to be there to celebrate with her.
 
 I gave Gibb a haircut, dropped off my trail family off at the trailhead the day before I intended to leave, and hung out
 with Cool Rocks as we watched a storm roll in over the Sierras.

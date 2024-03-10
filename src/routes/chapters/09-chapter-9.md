@@ -7,7 +7,7 @@ part: 'norcal'
 import Images from '$lib/components/Images.svelte';
 </script>
 
-After leaving Chester I immediately entered another intense burn, this one owned by a private logging company that was
+After leaving Chester, I immediately entered another intense burn, this one owned by a private logging company that was
 actively removing burnt trees as I walked through. The trail itself, however, was pleasantly flat. This was incredibly
 welcome for my feet which were still healing.
 
@@ -25,8 +25,8 @@ without scaring her.
 
 Moo was a bit surprised by my gentle "hi", but she waved back and did her best to bathe in the shallow waters I was
 eating my dinner by. She had had a tough day and was looking forward to this chance. We chatted for a bit until another
-hiker stomped across the bridge. This was Pitstop, who I last saw in the Sierra Nevadas and had demanded if I had seen
-Moo or Danger Noodle.
+hiker stomped across the bridge. This was Pitstop, who I last saw in the Sierras demanding if I had seen Moo or Danger
+Noodle.
 
 I continued on my own towards the boundary of Lassen National Park. Due to there being very few safe camping spots in
 this area, when Moo and Pitstop showed up later that evening, I made room for them to sleep next to me.
@@ -80,9 +80,9 @@ tried to convince me to stay and play with water guns in town.
 
 I rushed past Burney Falls State Park, wanting to make up for time spent in town, but still rested at each creek I
 could, as the heat was oppressive. At the final creek for the day, I sat down for dinner and was joined by Rich and Ben,
-who I last saw early in the desert.
+who I last saw early in the desert. As we hiked on a bit more, McMansion and Honeybee caught up to us.
 
-The next day, we were climbing over a ridge, when wildfire smoke overtook us. I checked my phone to learn of the
+The next day we were climbing over a ridge when wildfire smoke overtook us. I checked my phone to learn of the
 McKinney fire, which had just broken out on the PCT north of us. This meant that the rest of Northern California after
 Soda Springs Road was now effectively closed. We digested this information over the next few days while we all made
 plans on what to do.
@@ -91,14 +91,14 @@ The day before making it to Soda Springs, where I planned to hitch into Mt Shast
 central Oregon, meaning that the majority of the trail in Oregon was closed, albeit in spotty sections, and the
 Lionshead burn from 2021 still closed parts of Northern Oregon.
 
-I decided that I was going to attempt to skip past almost of all of Oregon, to Timberline Lodge, finish out Washington,
+I decided that I was going to attempt to skip past almost of all of Oregon to Timberline Lodge, finish out Washington,
 and then come back to clean up any miles that reopened after I finished. I came across Moo and Danger Noodle and let
 them know my plan. I also had booked a hotel room in Mt Shasta and invited anyone who needed a place to stay, as most
 hotels in town were fully booked.
 
 Danger Noodle had family in the area she was going to stay with, but Moo asked if she could join me. A little bit later,
 Pitstop joined us and asked me what my plans was. Behind her, Moo gently shook her head, and this confirmed my long held
-suspicion that Moo and Danger Noodle had been trying to lose Pitstop for quite some time. I gave a non committal answer
+suspicion that Moo and Danger Noodle had been trying to lose Pitstop for quite some time. I gave a non-committal answer
 and wished Pitstop the best of luck.
 
 In Mt Shasta, I found Floss and Magma and invited them to stay with Moo and I. Magma also invited Shapes, who I last saw
@@ -124,9 +124,9 @@ situation.
 ]} />
 
 While I offered to go and do the group's laundry, I contacted Little Hamster. She had decided to quit the trail back in
-Idyllwild, but decided to rejoin for parts of it. Her leg injuries, however, eventually took her out. She was still
-hanging out around the trail, however, working and providing help whenever she could.
+Idyllwild, but later rejoined for parts of it. Her leg injuries, however, eventually took her out. Despite that, she was
+still hanging out around the trail, working and providing help whenever she could.
 
-Washington has almost no towns to resupply at, so I needed to resupply. The closest major city was Bend, Oregon, which
-has always been a favorite of mine. We coordinated a car rental and house rental in Bend, and she drove down to pick my
-new group up.
+Washington has almost no towns to resupply at, so I needed to send resupply boxes in advance. The closest major city was
+Bend, Oregon, which has always been a favorite of mine. We coordinated a car rental and house rental in Bend, and she
+drove down to pick my new group up.

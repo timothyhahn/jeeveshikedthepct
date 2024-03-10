@@ -19,7 +19,7 @@
 	} else if (part === 'cascades') {
 		highlightClass = 'hover:bg-cascades-200 dark:hover:bg-cascades-800';
 	} else if (part === 'end') {
-		highlightClass = 'hover:bg-end-200 dark:hover:bg-end-800';
+		highlightClass = 'hover:bg-end-200 dark:hover:bg-end-400';
 	}
 
 	onMount(() => {

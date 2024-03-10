@@ -104,7 +104,7 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 ]} />
 
 After a quick stop in Lake Morena for hot food, despite still having too much in my pack, I met Dobby, and the rest of
-the group met Adventure Time, who advised us to meet up with him later in the day at Kitchen Creek. There, we were able
+the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek. There, we were able
 to cool off after a long day of hiking in the creek, setup camp next to the waters, and sleep to the sound of croaking
 frogs.
 
@@ -215,22 +215,22 @@ opened a cooler full of ice.
 },
 ]} />
 
-We had one more day to Scissor's Crossing, where we were to attempt our first hitchhike into the town of Julian, but the
-group got a bit mixed up as several members took the wrong route in the dark of the early morning. We were reunited
+We had one more day to Scissor's Crossing, where we were to attempt our first hitchhike into the town of Julian. The
+group got a bit mixed up, however, as several members took the wrong route in the dark of the early morning. We were reunited
 under the bridge at Scissor's Crossing, where hikers sprawled around a water cache maintained by the locals, and slept
 off the heat of the day.
 
-Eventually, we all got rides into Julian, including some of us from a legendary local trail angel named Ghost, where we
+Eventually, we all got rides into Julian, including some of us from a legendary local trail angel named Ghost. Once in Julian, we
 immediately stopped by Mom's, who provided all hikers with a permit a free slice of pie, where I grabbed a table with
 Adventure Time, White Stripe, Little Hamster, and Butters. Little Hamster, who I met under the bridge, and I convinced
-each other that we both had deserved a nice place in town to stay and we grabbed separate rooms at a local AirBnB, while
+each other that we both had deserved a nice place in town to stay, so we grabbed separate rooms at a local AirBnB, while
 the rest of my gang stayed at the lodge. We all met up later for Cinco de Mayo margaritas and dinner.
 
-A local gear outfitter, Two Foot Adventure, arranged rides for us back to Scissor's Crossing, and unlike the rest of my
+A local gear outfitter, Two Foot Adventures, arranged rides for us back to Scissor's Crossing, and unlike the rest of my
 group I waited until the sun started to set to hike. I passed my group setting up camp a few miles later, but as the
-climb to third gate water cache was notably brutal in the sun, I hiked well into the dark, passing Dobby's campsite in
-the dark, and called my friend from work, Elleen, to ease my nerves as the wind picked up. Eventually, I camped just
-before the water cache, which was immaculately maintained by local volunteers, including Ghost.
+climb to Third Gate water cache was notably brutal in the sun, I hiked well into the dark, passing Dobby's campsite in
+the dark. As the wind picked up, my nerves got the best of me and I called my friend from work, Elleen. Eventually, I
+camped just before the water cache, which was immaculately maintained by local volunteers, including Ghost.
 
 <Images className="mb-0" images={[
 {
@@ -313,11 +313,11 @@ we watched the sun set and the stars come out.
 ]} />
 
 At this point, I'd be remiss to not mention that my stomach was treating me poorly and I was unable to eat more than a
-thousand calories each day and the next few days were painful, as cramps wracked me with every step.
+thousand calories each day. The next few days were painful, as cramps wracked me with every step.
 
 Over the next two days met Dylan, a wildland firefighter carrying a full-size chainsaw to raise awareness for mental
 health among firefighters, gratefully got water from caches at Mike's and Mary's, received trail magic from Lifeguard
-and Zelda, and saw more rattlesnakes each day than I had seen on trails up until now.
+and Zelda, and saw an abundance of rattlesnakes.
 
 After crawling into Paradise Valley Cafe, I ate the largest salad I could stomach, and we received a very kind hitch
 into the town of Idyllwild, where we were reunited with Flamingo Kid. Ant Man, AKA, Black Widow, Willow, Giggles, Little

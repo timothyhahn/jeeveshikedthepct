@@ -12,9 +12,9 @@ provided so many rides of my own while I was resting in Bishop. On our way over 
 ran into quite a few hikers who had struggled through the snow, hail, and lightning over the past few days. All of which
 I was happy to have avoided.
 
-To avoid a mild chance of our own bad weather, however, we hurried over Glen Pass and as we neared the top the weather
-turned from pleasant to warning of an imminent storm. Below us lay the gorgeous Rae Lakes, but we barely noticed them as
-thunder started roar in the distance and hail began.
+To avoid a slight chance of bad weather of our own, however, we hurried over Glen Pass and as we neared the top the
+sky turned from pleasant to warning of an imminent storm. Below us lay the gorgeous Rae Lakes, but we barely noticed
+them as thunder started roar in the distance and hail began.
 
 We ran from tree to tree, trying to get out of the hail, until the thunder became perilously close. At that point, the
 safest point was to get lower to Middle Rae Lakes and we ran, hearts pounding, to try and get to safety as lightning
@@ -50,12 +50,12 @@ the sun started to set. We hid in our tents and attempted to dry off.
 }
 ]} />
 
-Pinchot Pass was only 14 miles off, but the mosquitoes and creek crossings slowed us down. We carefully climbed towards
+Pinchot Pass was only 14 miles away, but the mosquitoes and creek crossings slowed us down. We carefully climbed towards
 treeline and were optimistic until dark clouds once again appeared on the horizon around 1 PM. Unsure if we would make
 it over the pass in time, and seeing plenty of evidence of lightning strikes at higher elevation, we sheepishly set up
 camp in a slightly safer spot just below treeline.
 
-For the next few hours we felt silly, as the sky around us was still calm. A hiker who joined us when we first hid
+For the next few hours we felt silly, as the surrounding sky was still calm. A hiker who joined us when we first hid
 decided the coast was clear, packed up, and continued the climb up. Not ten minutes later, we heard the first peals of
 thunder, and ten minutes after that we were caught in a downpour, with heavy thunder. Cool Rocks and I hunkered down for
 the evening and decided to make up the miles over the next few days.
@@ -85,7 +85,7 @@ Instead, I dodged the snow by jumping from boulder to boulder, only to have one 
 In order to avoid slipping down the side of the pass, I slammed myself down, landing hard on my knees, scrambling, and
 landing hard on my knees again. Instantly, the world grew dark and my head felt as though it were on fire. I lay down,
 with my head firmly stuck in the snow to cool off, and Cool Rocks made sure I was okay. Eventually, the adrenaline wore
-off, and when I finally made it off the side of Mather Pass, fatigue hit me like a freight train.
+off and when I finally made it off the side of Mather Pass, fatigue hit me like a freight train.
 
 I was able to stumble to Lower Palisades Lake, where everyone checked on me again. I insisted I was fine, and napped
 while the others fished nearby. When I awoke, it was dinner time and we all set up camp at the lake, with thankfully
@@ -134,17 +134,17 @@ towards the pass.
 }
 ]} />
 
-The next morning I felt fine and we climbed down the Golden Staircase to the King River and as we started our climb to
+The next morning I felt better and we climbed down the Golden Staircase to the King River. As we started our climb to
 Muir Pass, we decided to chance the freezing water to swim in the river for a little bit. The rest of the climb to Muir
 Pass was long and strenuous, with both of us needing to stop for the occasional break. About 4 miles from the top, near
-mid afternoon, we reached a beautiful meadow and were tempted to stop, but decided to send it.
+mid-afternoon, we reached a beautiful meadow and were tempted to stop, but decided to send it.
 
 The final mile to the top, however, was completely covered with snow, and finding the trail was hard. Several times I
-postholed through snow to nearly fall into the river below. Thankfully, another group of hikers, including Bandit, were
-always around me, so I felt relatively safe, if deeply fatigued.
+post-holed through snow to nearly fall into the river below. Thankfully, another group of hikers, including one named
+Bandit, were always around me, so I felt relatively safe, if deeply fatigued.
 
 On top of Muir Pass, I crawled into one of the few huts on the entire trail, and we all caught our breaths, after an
-incredibly strenuous day.
+incredibly tiring day.
 
 <Images className="mb-0" images={[
 {
@@ -174,15 +174,15 @@ incredibly strenuous day.
 }
 ]} />
 
-The next day we walked through Evolution basin and wanted to take our time, but instead suffered through intense
-mosquitoes and were joined by Guppy who borrowed some of my bug spray. We also had our only real water crossing of the
-Sierra Nevadas this year.
+The next day we walked through the Evolution Basin and wanted to take our time, but instead suffered through intense
+mosquitoes. We were joined by Guppy who borrowed some of my bug spray. Shortly after, we also had our only real water
+crossing of the Sierra Nevadas this year.
 
 Near the border between Kings Canyon and Sierra National Forest, I was waiting for Cool Rocks and hung out with
 Clementine and Abbey - two hikers who I had seen a few times but hadn't gotten to know yet. Before leaving, they let me
 know to keep an eye out for Brumby, whom they missed.
 
-Cool Rocks and I tackled Selden Pass to finish the day, and passed through a ferocious mosquito cloud during said climb.
+Cool Rocks and I tackled one last climb for the day and passed through a ferocious mosquito cloud as we did so.
 As we set up camp just past the mosquitoes, Bandit appeared from the trees where the mosquitoes were clustered. With a
 shell-shocked look on her face, she asked us simply "what the fuck was that?".
 
@@ -209,8 +209,8 @@ shell-shocked look on her face, she asked us simply "what the fuck was that?".
 }
 ]} />
 
-The next day was the evening before Cool Rocks' birthday, so we took a dip in Heart Lake just below Selden Pass, and
-back at the top of the pass we met Fish and Brumby. The pair decided to try and make it to the shuttle to Vermillion
+The next day was the evening before Cool Rocks' birthday, so we took a dip in Heart Lake just below Selden Pass.
+Back at the top of the pass we met Fish and Brumby. The pair decided to try to make it to the shuttle to Vermillion
 Valley Resort, which left at 5 PM. Cool Rocks and I were in.
 
 Looking at my maps, we found a shortcut that led Bear Creek Trailhead, where we could catch the shuttle and was separate
@@ -224,12 +224,12 @@ high-clearance only trailhead.
 
 As our hearts sank, however, a high-clearance vehicle made its way to us and a group who planned to camp here that night
 and hike the next morning let us know that we were really looking for Bear Creek Cutoff Trailhead. With us looking
-pathetic, the driver, Gary, gave us a ride over the steep technical road back to a dirt road where he flagged down a
-line of horses and mules.
+pathetic, the driver, Gary, gave us a ride over the steep technical road. We found out he was an environmental
+scientist whose wife had just passed and had come out here to remember her.
 
-A pickup following the line allowed us to ride in the back, as the driver, Zosha, was thankfully on the way to VVR. At
-VVR, we were reunited with Guppy, Aquawoman, Divebomb, Foxy, and Trippy, and together we celebrated Cool Rocks'
-birthday.
+After a bumpy drive, we reached a dirt road where Gary flagged down a line of horses and mules. A pickup following the
+line allowed us to ride in the back, as the driver, Zosha, was on the way to VVR. At VVR, we were reunited with Guppy,
+Aquawoman, Divebomb, Foxy, and Trippy, and together we celebrated Cool Rocks' birthday.
 
 As the birthday celebration raged on around me, however, I began to worry about my trail family, as it sounded like they
 were having their own struggles and challenges. Despite how much I enjoyed hiking with Cool Rocks, I missed my trail

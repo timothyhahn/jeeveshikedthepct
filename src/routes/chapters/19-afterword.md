@@ -23,7 +23,7 @@ I also didn't include every meaningful person I met, rather focusing on my main 
 guests who intertwined themselves into my story in interesting ways. And despite many rounds of editing, focusing on
 removing the unnecessary, this still ended up longer than I expected.
 
-Reflecting on my experiences has also been a challenge. I still struggle to read or watch anything related to the PCT.
-Too many feelings come rushing back and I find myself overwhelmed.
+With all of that said, if I have conveyed anything to you, it's that the PCT has meant everything to me. If I can
+convince a single person to go out for a really long hike, I will have succeeded here.
 
-With all of that said, if I have conveyed anything to you, it's that the PCT has meant everything to me.
+If you do, I hope that your long hike means everything to you too.

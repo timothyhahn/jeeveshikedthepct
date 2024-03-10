@@ -19,7 +19,7 @@ ordered pizza to her room and caught up on everything that had happened since we
 }
 ]} />
 
-The next day, I was supposed to get a ride with Cool Rocks out of town, but my throat hurt even more so I texted her to
+The next day, I was supposed to get a ride with Cool Rocks out of town, but my throat hurt even more, so I texted her to
 go on without me. I visited a local doctor who verified I was negative for both covid and strep. While he confirmed my
 tonsils were slightly enlarged and my throat was irritated, he also said he doubted I had an illness, and figured that
 breathing in wildfire smoke was instead the cause of my issues. As rain was continuing to fall on Oregon, he assured me
