@@ -83,13 +83,13 @@
 		<button class="fixed z-60 top-6 right-8 text-white text-5xl font-bold" on:click={closeImage}
 			>&times;
 		</button>
-		<div class="h-[100vh] my-auto grid" bind:this={display}>
-			<div class="text-center text-gray-50 text-xl h-[10%] mt-12 align-middle">
+		<div class="h-[100vh] my-auto flex flex-col" bind:this={display}>
+			<div class="text-center text-gray-50 text-xl h-[10%] mt-12 align-middle flex-shrink">
 				{#if image.caption}
 					{image.caption}
 				{/if}
 			</div>
-			<div class="h-[90%] mt-12">
+			<div class="mt-3 h-[80%] flex-grow">
 				<img
 					bind:this={modalImage}
 					class="mx-auto my-auto max-h-full z-50 align-middle shadow-jeeves-800 shadow-md rounded-sm"
