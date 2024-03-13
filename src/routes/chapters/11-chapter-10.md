@@ -56,7 +56,7 @@ take a long nap around noon. Shapes would take lots of breaks, due to knee troub
 could. I instead took a more leisurely pace, but hiked from sunrise to sunset. Somehow, this perfectly worked out with
 us camping most nights together and getting chances to eat meals together.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/82b772d3-0d7b-4cd3-8a46-c94a941d4600",
 "caption": "Cascade Locks"
@@ -83,10 +83,7 @@ us camping most nights together and getting chances to eat meals together.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c0b12031-a013-4995-d3f2-6f29487e2900",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/30c2c67e-7319-4775-2476-a0b5044d5e00",
 "caption": "Magma"
@@ -238,7 +235,7 @@ profusely. Elleen drove me, who had wanted to vomit this entire time, to the tow
 care. I sent her some money for her car window and thanked her for again saving me. I booked a hotel for a few days and
 booked a doctor's appointment.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e907bf6-8069-4ee7-f213-d9dadbb80600",
 },
@@ -256,10 +253,7 @@ booked a doctor's appointment.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5859016c-694f-447c-6d83-ba0f32ce4f00",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/229b3177-9609-43d0-be97-675ec563f400",
 "caption": "My favorite pic of Mt Rainier"

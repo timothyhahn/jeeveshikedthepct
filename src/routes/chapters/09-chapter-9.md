@@ -42,10 +42,7 @@ up to her.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c3333a06-caf2-4786-ee0c-4ef98ee48d00",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4e0f7b0a-8610-41e7-69f2-9c2fbf676800",
 "caption": "Entering Lassen National Park"

@@ -5,7 +5,7 @@
 	export let size: number;
 	export let mdSize: number = size;
 
-	export let imgElement: HTMLImageElement;
+	let imgElement: HTMLImageElement;
 
 	let loading = true;
 

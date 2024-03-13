@@ -137,7 +137,7 @@ flies here with me. I agreed, and I found out that Cool Rocks had been hiking wi
 Black Widow, Willow, Giggles, and Dylan, along with newcomer Hawkeye arrived. We decided to stay at a nearby ostrich
 farm and enjoyed our reunion.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e9a1aa97-42b1-415e-5e5c-8636735fea00",
 },
@@ -145,9 +145,6 @@ farm and enjoyed our reunion.
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a94b56e8-4a45-4e62-1159-a437ee8dc400",
 "caption": "The local jail at the ostrich farm"
 },
-]} />
-
-<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/455e2ce3-eea0-4bd5-d296-fa53a78a6300",
 "caption": "These are majestic and horrifyingly disgusting creatures"

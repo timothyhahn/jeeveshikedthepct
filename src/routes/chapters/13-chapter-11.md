@@ -197,10 +197,7 @@ Stehekin.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81fb7efd-593b-4fb6-bb89-c42b1af84c00",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00",
 "caption": "Grizzlies live here"

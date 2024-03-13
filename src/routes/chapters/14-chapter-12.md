@@ -116,7 +116,7 @@ end of my time on the PCT - I felt less than effective and instead chose to camp
 ran into Shapes, who had been just behind me. He planned on at least making it to the edge of the fire closure, but let
 me know to wait for him at Harts Pass.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3596e65e-1197-461f-12dd-bfcb31be6800",
 },
@@ -130,10 +130,7 @@ me know to wait for him at Harts Pass.
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3c09b7fb-c1a6-4206-761a-005deaad9300",
 "caption": "Leaving in the smoke"
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/010d518c-a77a-4fe4-23a1-cbed139bca00",
 "caption": "Asked to evacuate by rangers, I took a picture of my northernmost point"

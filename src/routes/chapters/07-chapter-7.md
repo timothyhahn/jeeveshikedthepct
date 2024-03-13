@@ -164,7 +164,7 @@ this section announced their intentions to quit once they reached South Lake Tah
 Eventually, however, I made it to Highway 50 and a minivan dropped me off at the hostel my trail family was staying at.
 The reunion was happy, but brief, as we swapped plans and realized we'd be splitting up once again.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e89b8e62-be3f-4f45-f4c6-9c6532422b00",
 },
@@ -178,10 +178,7 @@ The reunion was happy, but brief, as we swapped plans and realized we'd be split
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/79adec3d-8da2-4784-7a50-bb4e63172900",
 "caption": "Entering Northern California"
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e012aee3-894b-4f08-7836-1261eba95000",
 "caption": "Lake Tahoe is behind those mountains."

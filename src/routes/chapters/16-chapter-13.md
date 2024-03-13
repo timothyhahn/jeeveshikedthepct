@@ -26,7 +26,7 @@ storm, and I found myself running out of water with few water sources remaining.
 quite fascinating, as it was surrounded by carnivorous cobra lilies, but the rest of the trail between here and Etna had
 little reliable water.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ac8f7d05-9d94-4f14-5260-625c7435cd00",
 "caption": "Back at Castle Crags"
@@ -47,9 +47,6 @@ little reliable water.
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/24075a7d-2665-456b-c68b-b366580f5d00",
 },
-]} />
-
-<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f1346dfb-3b8e-4683-447e-92808c100400",
 "caption": "Camping with a great view of Mt Shasta"
@@ -91,7 +88,7 @@ nonstop for hours as we hiked together. She had already managed to resupply at E
 she was planning on going ahead. When I arrived at the usual hitching spot to Etna, the road was empty so I called
 Jerry.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d45c6ee-8e08-496a-f6c3-492100375f00",
 "caption": "Entering the Trinity Alps"
@@ -110,10 +107,7 @@ Jerry.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3d59997f-9e0d-4259-dbb1-c4c922476f00",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b5ad6db-90d3-4914-95b6-03c2d52a3100",
 "caption": "Only had Janika and these cows to chat with"

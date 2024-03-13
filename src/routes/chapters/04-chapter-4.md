@@ -187,7 +187,7 @@ time with the addition of Lefty who quickly fell into a trail romance with Willo
 much heavier packs, with long food carries, bear canister requirements, and warmer clothing. With one last look, we
 left the desert section behind us.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8cf18dd0-75ae-4405-4586-a0cf0bc88b00",
 },
@@ -230,10 +230,7 @@ left the desert section behind us.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c9975c81-ce76-40d1-f6f8-3847f73bb600",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/974347fe-f238-4307-8a4a-946dd4516000",
 "caption": "Ant Man, Willow, Cool Rocks, Jeeves, Black Widow, and Giggles - done with the desert"

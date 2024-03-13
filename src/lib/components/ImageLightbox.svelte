@@ -78,21 +78,23 @@
 	<div
 		id="modal"
 		bind:this={modal}
-		class="hidden fixed top-0 left-0 z-50 w-screen h-screen bg-gray-800 bg-opacity-90 sm:flex justify-center items-center"
+		class="hidden fixed top-0 left-0 z-50 w-screen h-screen bg-gray-900 bg-opacity-90 sm:flex justify-center items-center"
 	>
 		<button class="fixed z-60 top-1 right-3 text-white text-3xl font-bold" on:click={closeImage}
 			>&times
 		</button>
 		<div class="h-[100vh] my-auto flex flex-col" bind:this={display}>
-			<div class="text-center text-gray-50 text-xl h-[10%] mt-12 align-middle flex-shrink">
+			<div
+				class="text-center text-jeeves-100 text-xl h-[3%] mt-12 align-middle flex-shrink font-display"
+			>
 				{#if image.caption}
 					{image.caption}
 				{/if}
 			</div>
-			<div class="mt-3 h-[80%] flex-grow">
+			<div class="mt-3 h-[85%] flex-grow">
 				<img
 					bind:this={modalImage}
-					class="mx-auto my-auto max-h-full z-50 align-middle shadow-jeeves-800 shadow-md rounded-sm"
+					class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
 					src={`${image.imageUri}/large`}
 					alt={image.caption}
 				/>

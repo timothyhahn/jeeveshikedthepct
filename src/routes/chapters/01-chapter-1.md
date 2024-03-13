@@ -71,7 +71,7 @@ doubted this entire endeavor.
 Here, I camped with Ant Man, Black Widow, her friend Willow, Giggles, Tiny Dancer, B&E,
 Flamingo Kid, and Misplaced. The day before we just met as strangers, that night we began our trail family.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8c448d82-6d07-44b5-496c-6d03e0447c00",
 "caption": "Sweet Cakes and B&E, through the trees",
@@ -93,10 +93,7 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6b5cdab5-f2bc-4cbd-6ea6-0021997b1300",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/981e1dc5-0161-45fe-4bcf-15b9493c5500",
 "caption": "The first of many lizards we would see through the desert",
@@ -232,7 +229,7 @@ climb to Third Gate water cache was notably exposed I hiked well past sunset, al
 the dark. As the wind picked up, my nerves got the best of me and I called my friend from work, Elleen. Eventually, I
 camped just before the water cache, which was immaculately maintained by local volunteers, including Ghost.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/46b70ae7-b6ad-455b-f8fd-2bc624c88f00",
 "caption": "Chilling underneath Scissor\'s Crossing",
@@ -248,10 +245,7 @@ camped just before the water cache, which was immaculately maintained by local v
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8ddac9d2-bccb-475e-8521-3edc46fb6200",
 "caption": "Leaving Scissor\'s crossing as the sun starts to dip",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d73f4e37-deae-4594-58a1-95cd39620400",
 "caption": "Some nice light before the dark",

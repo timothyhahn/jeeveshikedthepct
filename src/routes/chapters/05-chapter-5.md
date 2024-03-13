@@ -167,7 +167,7 @@ After a quick descent to King's Canyon, we needed to climb up towards Kearsarge 
 campsites on our way out. That evening, I made the most of my final meal and miraculously found a few extra snacks,
 which I then shared with the rest of the group.
 
-<Images className="mb-0" images={[
+<Images images={[
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/19e83b9a-fe9a-4a0f-d6b6-d56aca8a8000",
 },
@@ -180,10 +180,7 @@ which I then shared with the rest of the group.
 },
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/11990821-ccd7-4440-91ea-476c782e4d00",
-}
-]} />
-
-<Images images={[
+},
 {
 "imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/02da0690-2f4d-4bc9-38ec-e80aa228d900",
 "caption": "Just before the cutoff to Kearsarge Pass"
