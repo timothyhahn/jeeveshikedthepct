@@ -13,7 +13,7 @@
 		alt="PCT Emblem"
 	/>
 	<div
-		class="w-full absolute bottom-0 top-0 shadow-inner shadow-jeeves-100 dark:shadow-jeeves-900"
+		class="w-full absolute bottom-0 top-0 shadow-[0_0_8px_8px_rgb(223,224,225,1.0)_inset] dark:shadow-[0_0_12px_12px_rgb(20,20,21,1.0)_inset]"
 	></div>
 </div>
 
