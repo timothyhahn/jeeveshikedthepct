@@ -80,8 +80,8 @@
 		bind:this={modal}
 		class="hidden fixed top-0 left-0 z-50 w-screen h-screen bg-gray-800 bg-opacity-90 sm:flex justify-center items-center"
 	>
-		<button class="fixed z-60 top-6 right-8 text-white text-5xl font-bold" on:click={closeImage}
-			>&times;
+		<button class="fixed z-60 top-1 right-3 text-white text-3xl font-bold" on:click={closeImage}
+			>&times
 		</button>
 		<div class="h-[100vh] my-auto flex flex-col" bind:this={display}>
 			<div class="text-center text-gray-50 text-xl h-[10%] mt-12 align-middle flex-shrink">
