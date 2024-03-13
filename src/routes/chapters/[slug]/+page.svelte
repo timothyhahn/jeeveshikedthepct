@@ -61,5 +61,5 @@
 
 <ImageLightbox />
 
-<!-- Hack because mb-0 appears to be tree-shaken out of the final result -->
-<div class="hidden mb-0"></div>
+<!-- Hack because these classes appears to be tree-shaken out of the final result -->
+<div class="hidden mb-0 w-[300px] h-[300px] md:w-[610px] md:h-[610px]"></div>
