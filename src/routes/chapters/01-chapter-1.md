@@ -104,7 +104,7 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 ]} />
 
 After a quick stop in Lake Morena for hot food, despite still having too much in my pack, I met Dobby, and the rest of
-the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek. After a long day of hiking  we were able
+the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek. After a long day of hiking we were able
 to cool off in the creek, set up camp next to the waters, and sleep to the sound of croaking
 frogs.
 
