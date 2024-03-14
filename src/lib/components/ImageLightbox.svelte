@@ -155,6 +155,11 @@
 					<img class="left-1/2 top-1/2 fixed -z-10" src="/puff.svg" alt="Loading indicator" />
 				{/if}
 			</div>
+			{#if images.length > 1}
+				<div class="left-1/2 bottom-0 fixed">
+					<p class="text-white text-xl font-display">{selectedIndex + 1}/{images.length}</p>
+				</div>
+			{/if}
 		</div>
 	</div>
 {/if}
