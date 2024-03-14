@@ -1,13 +1,16 @@
 <script lang="ts">
 	import type { Image } from '$lib/image';
-	import { displayImage } from '$lib/store';
+	import { createEventDispatcher } from 'svelte';
 	export let image: Image;
 	export let size: number;
 	export let mdSize: number = size;
+	export let index: number;
 
 	let imgElement: HTMLImageElement;
 
 	let loading = true;
+
+	const dispatch = createEventDispatcher();
 
 	$: if (imgElement) {
 		if (imgElement.complete) {
@@ -19,11 +22,11 @@
 		}
 	}
 
-	function openImageModal(event, image: Image) {
+	function openImageModal(event, index: number) {
 		event.preventDefault();
 		// Only open on sm and above
 		if (window.innerWidth <= 768) return;
-		displayImage.set(image);
+		dispatch('openImageModel', { index });
 	}
 </script>
 
@@ -31,7 +34,7 @@
 	href={`${image.imageUri}/large`}
 	target="_blank"
 	rel="noopener"
-	on:click={(event) => openImageModal(event, image)}
+	on:click={(event) => openImageModal(event, index)}
 	class="cursor-default md:cursor-pointer relative basis-[{mdSize}px] md:basis-[{mdSize}px] group"
 >
 	{#if image.caption}

@@ -1,18 +1,21 @@
 <script lang="ts">
-	import { displayImage } from '$lib/store';
+	import { displayImage, type DisplayImageInLightbox } from '$lib/store';
 	import type { Image } from '$lib/image';
 	import { onDestroy, onMount } from 'svelte';
 
-	let image: Image | null;
+	let images: Image[];
+	let selectedIndex: number;
 	let width: number;
 	let loading = true;
 	let modal: HTMLDivElement;
 	let modalImage: HTMLImageElement;
 	let display: HTMLDivElement;
 
-	const unsubscribe = displayImage.subscribe((img) => {
-		if (img) {
-			image = img;
+	const unsubscribe = displayImage.subscribe((displayImage: DisplayImageInLightbox | null) => {
+		if (displayImage) {
+			images = displayImage.images;
+			selectedIndex = displayImage.index;
+			loading = true;
 		}
 	});
 
@@ -21,9 +24,15 @@
 	});
 
 	onMount(() => {
-		const handleEscape = (event: KeyboardEvent) => {
+		const handleKeys = (event: KeyboardEvent) => {
 			if (event.key === 'Escape') {
-				closeImage();
+				closeImage(image);
+			}
+			if (event.key === 'ArrowLeft') {
+				goLeft(selectedIndex);
+			}
+			if (event.key === 'ArrowRight') {
+				goRight(selectedIndex);
 			}
 		};
 
@@ -32,25 +41,30 @@
 				return;
 			}
 			if (modal.contains(event.target as Node) && !display.contains(event.target as Node)) {
-				closeImage();
+				closeImage(image);
 			}
 		};
 
-		document.addEventListener('keyup', handleEscape, false);
+		document.addEventListener('keyup', handleKeys, false);
 		document.addEventListener('click', handleClick, false);
 
 		return () => {
-			document.removeEventListener('keyup', handleEscape, false);
+			document.removeEventListener('keyup', handleKeys, false);
 			document.removeEventListener('click', handleClick, false);
 		};
 	});
+	$: image = images?.[selectedIndex];
 
 	$: if (image && modalImage) {
 		if (modalImage.complete) {
-			loading = false;
+			setTimeout(() => {
+				loading = false;
+			}, 10000);
 		} else {
 			modalImage.addEventListener('load', () => {
-				loading = false;
+				setTimeout(() => {
+					loading = false;
+				}, 10000);
 			});
 		}
 	}
@@ -60,14 +74,33 @@
 	}
 
 	$: if (width < 768) {
-		closeImage();
+		closeImage(images);
 	}
 
-	function closeImage() {
+	function closeImage(_: Image[]) {
 		displayImage.set(null);
 		document.body.classList.remove('overflow-hidden');
+		images = [];
+		selectedIndex = 0;
 		image = null;
+	}
+
+	function goLeft(_: number) {
 		loading = true;
+		if (selectedIndex === 0) {
+			selectedIndex = images.length - 1;
+		} else {
+			selectedIndex--;
+		}
+	}
+
+	function goRight(_: number) {
+		loading = true;
+		if (selectedIndex === images.length - 1) {
+			selectedIndex = 0;
+		} else {
+			selectedIndex++;
+		}
 	}
 </script>
 
@@ -91,15 +124,35 @@
 					{image.caption}
 				{/if}
 			</div>
+			{#if images.length > 1}
+				<button
+					class="text-white fixed left-1.5 xl:left-12 top-12 xl:top-1/2"
+					on:click={() => {
+						goLeft(selectedIndex);
+					}}>&#60;</button
+				>
+			{/if}
+			{#if images.length > 1}
+				<button
+					class="text-white fixed right-1.5 xl:right-12 top-12 xl:top-1/2"
+					on:click={() => {
+						goRight(selectedIndex);
+					}}>&#62;</button
+				>
+			{/if}
 			<div class="mt-3 h-[85%] flex-grow">
-				<img
-					bind:this={modalImage}
-					class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
-					src={`${image.imageUri}/large`}
-					alt={image.caption}
-				/>
+				{#key selectedIndex}
+					<img
+						bind:this={modalImage}
+						id={image.imageUri}
+						class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
+						src={`${image.imageUri}/large`}
+						alt={image.caption}
+					/>
+				{/key}
+
 				{#if loading}
-					<img class="top-1/2 left-1/2 fixed -z-10" src="/puff.svg" alt="Loading indicator" />
+					<img class="left-1/2 top-1/2 fixed -z-10" src="/puff.svg" alt="Loading indicator" />
 				{/if}
 			</div>
 		</div>
