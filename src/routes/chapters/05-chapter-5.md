@@ -26,7 +26,6 @@ his mother had sent him.
 
 ![Starting to climb on up](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5df33b79-1afd-472b-65bb-e40315c44300/public)
 
-
 A strong 45 miles into the Sierra Nevada we pushed up to 12k feet of elevation, where the group finally started to feel
 the elevation a bit. The temperature cooled dramatically, partially due to an incoming cold front. Here, however, we
 came across our first alpine lake: Chicken Springs Lake. The lake was freezing cold, but I still soaked my feet to help
@@ -42,7 +41,6 @@ was discarded as I found fecal remains hidden among the rocks.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6cb33224-a5e4-4a09-9f78-71280bdda700/public)
 
 ![Freezing behind Lefty and Willow](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e0cd70f-db85-4e85-94cf-8f0297e61000/public)
-
 
 The next morning was cloudy and frigid. This was the first day on trail without clear blue skies and we were glad for
 our warmer clothing. I unfortunately realized that I had eaten through my food much more quickly than I had expected,
@@ -87,7 +85,6 @@ needed to get back down as the weather worsened.
 
 ![Made it to the top](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d7da3dc6-5b96-481f-a10f-cd7de7a37600/public)
 
-
 Once I returned to Crabtree Meadow, I was reunited briefly with Cool Rocks, before I made a weak effort to continue to
 the PCT and hiked a few miles on my own, before setting up camp.
 
@@ -111,7 +108,6 @@ I only had one more meal in my pack, with no other food.
 
 ![Jeeves, Willow, Giggles, Black Widow, Ant Man, and some guy](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/086c69f2-80d3-4ca8-89da-ca399fb45600/public)
 
-
 After a quick descent to King's Canyon, we needed to climb up towards Kearsarge Pass, stopping at one of the last
 campsites on our way out. That evening, I made the most of my final meal and miraculously found a few extra snacks,
 which I then shared with the rest of the group.
@@ -125,7 +121,6 @@ which I then shared with the rest of the group.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/11990821-ccd7-4440-91ea-476c782e4d00/public)
 
 ![Just before the cutoff to Kearsarge Pass](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/02da0690-2f4d-4bc9-38ec-e80aa228d900/public)
-
 
 The next morning we reached Onion Valley trailhead and were able to get a ride down to Independence, where I ran into
 Flamingo Kid once again, but struggled to get a ride down the highway to Bishop. Once we did, I immediately ran over to
@@ -146,4 +141,3 @@ with Cool Rocks as we watched a storm roll in over the Sierras.
 ![Bishop is just on the other side](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/df5c6278-81ef-41ae-ed4d-795294c1f400/public)
 
 ![Reunited with Flamingo Kid in Independence](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1d3d39f1-a94b-478b-aa16-3ddb387b8900/public)
-

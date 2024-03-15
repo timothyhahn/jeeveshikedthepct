@@ -40,7 +40,6 @@ little reliable water.
 
 ![Camping with a great view of Mt Shasta](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f1346dfb-3b8e-4683-447e-92808c100400/public)
 
-
 The heat brought out the rattlesnakes, who welcomed me back to California, but the beginning of September also saw the
 bears more active, as they attempted to find food before winter came. The sight of Mt Shasta kept me company, as the
 bears and I rode the ledges north into the Russian Wilderness.
@@ -90,7 +89,6 @@ Jerry.
 
 ![Only had Janika and these cows to chat with](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b5ad6db-90d3-4914-95b6-03c2d52a3100/public)
 
-
 About half an hour later, Jerry arrived to the trailhead with a fuel canister, ice cold sodas, and a few candy bars. I
 gratefully accepted his gift and we drove into the town of Etna. Here, I learned that there was a supposedly a new fire
 north of Seiad Valley, my next destination. Expecting this to close off the last little bit of Northern California and
@@ -131,7 +129,6 @@ well-used, but was completely empty when I spent the night there.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e39f7969-5584-42f3-f792-ec94bcabeb00/public)
 
-
 Early in the morning, I was packing up and perked up to the voice of Stellar Jay coming down the trail behind me. She
 introduced me to her hiking partner, Unfiltered, and I realized that I had already met Unfiltered. Not on the PCT, but
 during a winter hiking skills course in Colorado earlier that year.
@@ -159,4 +156,3 @@ California and the trail eventually took us to Highway 99, where I got a ride to
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/126948b6-fcce-4b39-41e4-35c4a384e100/public)
 
 ![Finally done with California](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/780153a6-b732-4615-3438-601fbe9e9e00/public)
-

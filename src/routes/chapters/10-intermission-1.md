@@ -22,6 +22,5 @@ Dobby. As I had shipped out my resupply and was ready to start hiking again, how
 
 ![Cooking in the backyard](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a431699c-b46a-4fe2-ea3e-f7c3b3a9fd00/public)
 
-
 Little Hamster graciously drove myself, Floss, Magma, and Shapes to Timberline Lodge, dropping Floss off at Government
 Camp on the way, where we once again restarted our hike northbound.

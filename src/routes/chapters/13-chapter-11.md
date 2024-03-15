@@ -39,7 +39,6 @@ avoid the lakes and stuck to running inlets as my water sources.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9509ca36-4082-4a95-5ac1-265137e5f200/public)
 
-
 At Snoqualmie, I hobbled down the ski slopes, wishing I could have used the lifts, and decided on a hotel room instead
 of the hiker hostel. This ended up becoming a good idea as quite a few hikers between White Pass and Snoqualamie had
 come down with something like norovirus. At the hostel, this became somewhat of a disaster. Floss too became ill just
@@ -81,7 +80,6 @@ up from Stevens Pass and brought me to the Bavarian themed town of Leavenworth.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fbf841ad-9440-4e6b-7f58-76b655311100/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/879fca15-0e1b-4133-5e93-5acc46bc4900/public)
-
 
 Shapes and I decided to take two zeroes in Leavenworth, due to being pretty beat up by the trail after Snoqualmie. We
 also knew that the trail would remain difficult up until the Canadian border, so we stayed off our feet and ate as much
@@ -125,7 +123,6 @@ the next pass and immediately regretted not camping up there, as the views were 
 
 ![EMERALD](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05e9c0f9-827d-4898-a972-aa07f7ec1300/public)
 
-
 The trail continued to physically crumble underneath me and lead through mazes of downed trees. I normally targeted
 about 20 miles by early afternoon to make 30 miles for the day, but without food, I found myself at around mile 17 by
 the time the sun was starting to set. I attempted to push on, but multiple days with little sleep left me exhausted and
@@ -157,4 +154,3 @@ Stehekin.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81fb7efd-593b-4fb6-bb89-c42b1af84c00/public)
 
 ![Grizzlies live here](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00/public)
-

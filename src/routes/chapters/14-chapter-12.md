@@ -15,7 +15,6 @@ run out of food the night before.
 
 ![The bakery in Stehekin, behind White Stripe](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2b385170-09fe-412c-0901-0c6580edf500/public)
 
-
 I intended to resupply in Stehekin, but once we reached Stehekin proper, the town was crowded. It had gotten to the
 point that rangers were asking any hikers who were able to leave to do so. I knew that in about a day, I'd reach Rainy
 Pass where I could maybe get a hitch to the tiny town of Mazama, so I packed out some extra bakery goods and returned to
@@ -33,7 +32,6 @@ up early.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d8ef7bb6-0276-4f94-b085-9e9af7ccf400/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81e807b1-3d53-4862-c9e4-ccacace6b500/public)
-
 
 Compared to the previous sections of trail, the final 15 miles to Rainy Pass were a breeze, and before too long I ran
 into Honeybee, sans-McMansion, and we hitched into Mazama. I stopped by the bakery and enjoyed it much more than the one
@@ -69,9 +67,7 @@ finish up the remainder of Washington the next day.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f56210d6-d83e-4e0e-bf49-2e35f0ce9b00/public)
 
-
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fd1b67ca-0d5d-419a-5938-8aeac2b75a00/public)
-
 
 Harts Pass, a difficult to reach pass by vehicle even in the best of times, had rangers organizing cars as a recent
 landslide had made access challenging. The rangers were also nervous, but optimistic about the fire situation, so I
@@ -104,7 +100,6 @@ me know to wait for him at Harts Pass.
 ![Leaving in the smoke](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3c09b7fb-c1a6-4206-761a-005deaad9300/public)
 
 ![Asked to evacuate by rangers, I took a picture of my northernmost point](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/010d518c-a77a-4fe4-23a1-cbed139bca00/public)
-
 
 At Harts Pass, locals from Wenatchee had set up a kitchen, providing pancakes and hot chocolate. Because Harts Pass
 was the closest road to the border, many hikers who were behind me stopped here. With that said, the difficult access to

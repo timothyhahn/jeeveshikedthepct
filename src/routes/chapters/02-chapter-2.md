@@ -13,7 +13,6 @@ was done, came back to drive us about an hour out of his way back to the trailhe
 
 ![Ant Man, AKA, Mayor Max, Willow, Giggles, Little Hamster, Jeeves, and Black Widow](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/156282a0-ccd7-4625-323a-737d33d89800/public)
 
-
 We climbed up towards the peak of San Jacinto as blowdowns hindered our every movement. Water, which was already tough
 to come by in the desert, had the unfortunate property of being near the bottom of the mountain. This meant that each
 time we needed to resupply on water, we scrambled down steep side trails to reach it, necessitating an onerous return
@@ -43,7 +42,6 @@ food and drinks from a large Filipino family who happened to me camping near the
 
 ![A magical Filipino family who gave us all the food and drinks we could take](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fde7e2df-ac18-4de7-3eec-b64bd4b26400/public)
 
-
 The hike from the base of San Jacinto to the I-10 underpass was short, but brutal, with incessant heat and unending
 winds aiding the slog through sand in sapping our strength. Once we reached the underpass, we stretched out and slept
 until Elleen and her mother drove from LA with groceries and food for the next leg of our journey. As the sun started to
@@ -68,7 +66,6 @@ set, we made our way to the Mesa Wind Farm under the flower moon.
 ![One of the crew up ahead of me](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d9510a67-7be6-42dc-ee36-38dce9a5b400/public)
 
 ![Entering San Gorgonio](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/436e8d92-e70d-46f8-88fb-3adf5b667a00/public)
-
 
 Briefly, we hung out at Whitewater Preserve, a paradise in the otherwise bone dry desert and met Rich and Ben, two
 Englishmen who were also hiking the trail. At Mission Creek, we attempted to get through the worst of it during the heat
@@ -102,7 +99,6 @@ outside a private zoo, they let me know he had mentioned our encounter and that 
 
 ![Looking over Death Valley to the north.](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/774b153d-6d85-4e3b-5b0c-41e32fb35e00/public)
 
-
 Right before Big Bear, we received some wonderful trail magic, as well as an easy ride into town. Once at Big Bear Lake,
 I accepted Elleen's offer to bring me a stove and food that I could more reliably stomach, as my inability to eat was
 still causing me major stomach pains and fatigue.
@@ -126,7 +122,6 @@ Bernadino National Forest. Our first night out had us camping with a clear view 
 
 ![Eager to get to Deep Creek hot springs](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/725d4405-267f-4787-6ae9-41a63c839200/public)
 
-
 The trail followed Holcomb and Deep Creeks, giving us our first taste of truly reliable water. This was very much a
 luxury I did not take for granted. We also crossed many high clearance dirt roads and were unfortunately packed with
 trash.
@@ -137,7 +132,6 @@ by some nudists who came with trash bags and spent most of the morning cleaning 
 miles away.
 
 ![Recovering in Deep Creek hot springs with Dylan, Ant Man, Black Widow, Jeeves, Giggles, AKA, and Willow](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ffecce36-15dc-4ca1-58dd-117a68447000/public)
-
 
 A few miles into the day, we received ice cold beverages, fruits, and medical supplies from Corgi Legs, who set up at a
 road crossing, and met Floss. A bit after that, our group had our first argument, as our camping plans were complicated
@@ -164,7 +158,6 @@ campsite just before the camping ban boundary.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/215922ac-a8ac-4216-6247-0e80bffe3600/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8c727a42-9503-4207-e13c-da9b3c8ea200/public)
-
 
 After Silverwood Lake, our next goal was the hilly Cajon Pass, where you descend from the desert hills to cross I-15. At
 Cajon Pass, we had our fill at the under renovation McDonald's and spent the night at the local inn before we made the
@@ -208,4 +201,3 @@ meaning I'd be leaving my group behind for some solo hiking.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/528f778f-f836-41b0-fd9a-176d579ef600/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b2e462d-77e7-4aec-b6d7-e283dd273100/public)
-

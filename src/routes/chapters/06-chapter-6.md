@@ -34,7 +34,6 @@ the sun started to set. We hid in our tents and attempted to dry off.
 
 ![Calm after the storm](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7e912da5-895b-4b93-662f-a59472bdf100/public)
 
-
 Pinchot Pass was only 14 miles away, but the mosquitoes and creek crossings slowed us down. We carefully climbed towards
 treeline and were optimistic until dark clouds once again appeared on the horizon around 1 PM. Unsure if we would make
 it over the pass in time, and seeing plenty of evidence of lightning strikes at higher elevation, we sheepishly set up
@@ -52,7 +51,6 @@ the evening and decided to make up the miles over the next few days.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/115b93f7-367c-4c75-9905-f39374d8ad00/public)
 
 ![Water crossings](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4a058477-4a7f-4447-4ca7-571752656800/public)
-
 
 We cleared Pinchot early the next morning and met Aquawoman. Tackling the pass early also meant we could press on
 towards Mather Pass. Before too long, Cool Rocks and I found ourselves caught up to a crowd climbing Mather. Mather was
@@ -91,7 +89,6 @@ towards the pass.
 
 ![Milky Way over Palisades Lakes](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4a9c6a0c-cf5e-480b-1256-9d46d2b07800/public)
 
-
 The next morning I felt better and we climbed down the Golden Staircase to the King River. As we started our climb to
 Muir Pass, we decided to chance the freezing water to swim in the river for a little bit. The rest of the climb to Muir
 Pass was long and strenuous, with both of us needing to stop for the occasional break. About 4 miles from the top, near
@@ -118,7 +115,6 @@ incredibly tiring day.
 
 ![Climb up to Muir Pass](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/476227f4-5185-4005-6884-0440552baa00/public)
 
-
 The next day we walked through the Evolution Basin and wanted to take our time, but instead suffered through intense
 mosquitoes. We were joined by Guppy who borrowed some of my bug spray. Shortly after, we also had our only real water
 crossing of the Sierra Nevadas this year.
@@ -140,7 +136,6 @@ shell-shocked look on her face, she asked us simply "what the fuck was that?".
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c7a72a35-519b-419f-a4c8-0e1111ec5c00/public)
 
 ![Looking down from Selden Pass](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/bb5b6ce7-a486-4661-8dfd-9eebec4da200/public)
-
 
 The next day was the evening before Cool Rocks' birthday, so we took a dip in Heart Lake just below Selden Pass.
 Back at the top of the pass we met Fish and Brumby. The pair decided to try to make it to the shuttle to Vermillion
@@ -179,4 +174,3 @@ family and decided that, due to them planning to take a side adventure to Yosemi
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b52f1803-428a-469a-5d28-8b7dc03de100/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/83fb2fbc-2634-434a-3f02-bdf65c0b2100/public)
-

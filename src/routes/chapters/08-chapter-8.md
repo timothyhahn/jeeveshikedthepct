@@ -50,7 +50,6 @@ ski lifts.
 
 ![Ski lifts](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/77ec8366-3acd-4bc9-9806-17d03ab66300/public)
 
-
 The day after we reached the infamous Donner Pass, where hikers are offered a free 40oz from the ranch. The ranch also
 had a buddy board, where people could leave each other drinks. I left a few drinks for hikers I hadn't seen in a while
 that I knew were behind me. Giggles and I trudged through sewage filled tunnels underneath Highway 80, before climbing
@@ -82,7 +81,6 @@ store, however, and purchased ice cream for the other hikers sitting outside the
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c8fbe4ae-29fb-41d8-ef95-a16b2c2ff200/public)
 
 ![Sierra City](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/51e82eda-29d2-490e-b611-13b30a999800/public)
-
 
 While we cleaned up a bit, I was reunited with Aquawoman, who I last saw at VVR, and Butters, who I last saw in Julian.
 We hiked out together and once again returned to incredibly painful scree.
@@ -128,7 +126,6 @@ joined by her father, so they weren't hiking together at the moment, but planned
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54a4033f-f41c-46a3-302d-f1745e513b00/public)
 
-
 I left Quincy and almost immediately walked into the burn. The effects of the burn were severe, and in some ways this
 was a positive in terms of safety. So much had burned that there was little to fall on me. The trail went steeply
 downhill to the tiny outpost of Belden, only to climb steeply out the other end through more burn and plenty of poison
@@ -149,7 +146,6 @@ oak.
 ![A burnt up bridge](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2e3630e6-5b39-4b3a-7c1b-74aa3eaafa00/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8a735a31-59ee-4d79-d105-98a186477900/public)
-
 
 My feet were still aching, so I took the next few days slowly, with Ant Man and Black Widow eventually catching up and
 passing me. At some point, I left the geologic end of the Sierra Nevada and entered the Cascade Range, which would make
@@ -178,7 +174,6 @@ here and Chester were off-limits for camping.
 ![Some beautiful ash artwork](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a5cc4386-9a0e-4685-e8c1-9595e47aaa00/public)
 
 ![Halfway done](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a9df621-7c78-4a41-e1d4-1a76b51bb000/public)
-
 
 Passing through private cow fields that graciously allowed hikers to pass through, I entered National Forest territory
 and checked my map for what sections I could camp on. Eventually, I found a tiny spot that would fit me, though it was

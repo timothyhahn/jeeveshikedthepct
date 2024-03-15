@@ -41,7 +41,6 @@ up to her.
 
 ![Entering Lassen National Park](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4e0f7b0a-8610-41e7-69f2-9c2fbf676800/public)
 
-
 At Old Station, I hung out with Clementine and Abbey, who I hadn't seen in over 500 miles. I then tackled the intensely
 hot Hat Creek Rim, nearly succumbing to heat exhaustion due to an ill-advised attempt to wait out the worst of the day
 in an extremely exposed position with minimal cell service. I was taking this opportunity to order new shoes to the next
@@ -53,7 +52,6 @@ however, as the muggy heat never dissipated.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5bd2761e-6150-443c-371c-0d4d5637f400/public)
 
 ![Taking a break at Cache 22](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/480fb12c-c884-4ea3-b269-f4e04ce34c00/public)
-
 
 On my way into town, I came across Moo and finally met Danger Noodle. A few miles past that, I was reunited with Magma
 and we got a hitch together into Burney, where I convinced her to hang out in town, especially with a record heat wave
@@ -97,7 +95,6 @@ situation.
 ![Castle Crags](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a1442671-dd61-4d50-07a7-483ac9846100/public)
 
 ![Floss, Jeeves, Shapes, Magma, and Moo at dinner](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1548b9b1-8d55-42cd-900d-ad9e82cb4600/public)
-
 
 While I offered to go and do the group's laundry, I contacted Little Hamster. She had decided to quit the trail back in
 Idyllwild, but later rejoined for parts of it. Her leg injuries, however, eventually took her out. Despite that, she was

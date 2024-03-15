@@ -105,6 +105,46 @@
 	questions not asked.
 </p>
 
-<a class="float-right mx-6 text-blue-400 hover:text-blue-600" href="/chapters/01-chapter-1">Start</a
+<p>If you'd like this in other forms, please check out one of the following versions:</p>
+<ul class="list-disc">
+	<li class="ml-12">
+		<a
+			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+			href="/jeeves-hiked-the-pct.epub">ePub</a
+		>
+	</li>
+	<li class="ml-12">
+		<a
+			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+			href="/jeeves-hiked-the-pct-without-images.epub">ePub (w/o images)</a
+		>
+	</li>
+	<!--<li class="ml-12">
+		<a class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline" href="/jeeves-hiked-the-pct.mobi">MOBI</a>
+	</li>
+	<li class="ml-12">
+		<a class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline" href="/jeeves-hiked-the-pct-without-images.mobi">ePub (w/o mobi)</a>
+	</li>-->
+	<li class="ml-12">
+		<a
+			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+			href="/jeeves-hiked-the-pct.pdf">PDF</a
+		>
+	</li>
+	<li class="ml-12">
+		<a
+			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+			href="/jeeves-hiked-the-pct-without-images.pdf">PDF (w/o images)</a
+		>
+	</li>
+	<li class="ml-12">
+		<a
+			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+			href="/jeeves-hiked-the-pct.md">Markdown</a
+		>
+	</li>
+</ul>
+
+<a class="float-right mx-6 text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline" href="/chapters/01-chapter-1">Start</a
 >
 <div class="clear-both" />

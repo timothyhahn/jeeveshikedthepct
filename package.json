@@ -13,7 +13,8 @@
 		"format": "prettier --write .",
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
-		"upload_images": "node scripts/upload_images.js"
+		"upload_images": "node scripts/upload_images.js",
+		"create_binaries": "node scripts/create_binaries.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",

@@ -21,7 +21,9 @@
 			});
 		}
 	}
-	$: publicImageUri = image.imageUri.includes('public') ? image.imageUri : `${image.imageUri}/public`;
+	$: publicImageUri = image.imageUri.includes('public')
+		? image.imageUri
+		: `${image.imageUri}/public`;
 	$: largeImageUri = `${image.imageUri.replace('/public', '')}/large`;
 
 	function openImageModal(event, index: number) {

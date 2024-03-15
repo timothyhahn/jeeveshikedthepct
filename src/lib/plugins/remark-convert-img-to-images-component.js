@@ -1,7 +1,7 @@
 import { visit } from 'unist-util-visit';
 
 function toImagesNode(images, position) {
-	let imagesComponent = "<Images images={[\n";
+	let imagesComponent = '<Images images={[\n';
 
 	images.forEach((image) => {
 		imagesComponent += '{\n';
@@ -16,7 +16,7 @@ function toImagesNode(images, position) {
 	return {
 		type: 'html',
 		value: imagesComponent,
-		position: position,
+		position: position
 	};
 }
 
@@ -43,6 +43,5 @@ export default function remarkConvertImgToImagesComponent() {
 			// Replace the images with the Images component
 			parent.children.splice(index, position - index, toImagesNode(images, index));
 		});
-	}
-
+	};
 }

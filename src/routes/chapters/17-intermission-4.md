@@ -14,7 +14,6 @@ ordered pizza to her room and caught up on everything that had happened since we
 
 ![Cool Rocks and I chilling in Ashland](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0df8efba-c255-4363-2fb4-0bf5ff545200/public)
 
-
 The next day, I was supposed to get a ride with Cool Rocks out of town, but my throat hurt even more, so I texted her to
 go on without me. I visited a local doctor who verified I was negative for both covid and strep. While he confirmed my
 tonsils were slightly enlarged and my throat was irritated, he also said he doubted I had an illness, and figured that

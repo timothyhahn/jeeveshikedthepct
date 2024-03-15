@@ -34,7 +34,6 @@ Eagle Creek.
 
 ![Magma can nap anywhere, even at Tunnel Falls](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7705542f-d519-430f-5344-add79edef300/public)
 
-
 Cascade Locks had a small store and way too many hikers, so I purchased snacks and ice creams for everyone. Together,
 Magma, Shapes, Foxy, Trippy, and Divebomb walked over the Bridge of the Gods, leaving Oregon for Washington.
 
@@ -61,7 +60,6 @@ us camping most nights together and getting chances to eat meals together.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c0b12031-a013-4995-d3f2-6f29487e2900/public)
 
 ![Magma](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/30c2c67e-7319-4775-2476-a0b5044d5e00/public)
-
 
 When we got to Panther Creek Campground, there were designated PCT hiker campsites that were free, but as the campsite
 was overflowing, I paid the hosts for extra campsites that were empty that evening and told them to direct other PCT
@@ -142,7 +140,6 @@ even worse, so I slowly made my way into White Pass, where hikers congregated at
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/99485b4d-1027-4c3e-4056-6a3beec7e900/public)
 
-
 As the next day was my birthday, Shapes and Magma offered to join me in Packwood, at least for a celebratory meal, but I
 was unable to stomach anything. I decided to crash at a motel in Packwood and despite both of them insisting they would
 make a few more miles that day, we all picked up a massive dinner I also couldn't eat and settled in for a peaceful
@@ -192,4 +189,3 @@ booked a doctor's appointment.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5859016c-694f-447c-6d83-ba0f32ce4f00/public)
 
 ![My favorite pic of Mt Rainier](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/229b3177-9609-43d0-be97-675ec563f400/public)
-

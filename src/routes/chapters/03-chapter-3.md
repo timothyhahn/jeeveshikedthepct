@@ -37,7 +37,6 @@ in working condition, just heavily scratched up.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fb0f3a3f-30b2-4099-7db1-ae610d9ca400/public)
 
-
 Mt Williamson was also fairly straightforward, and I ran into AKA, who also decided not to stay in Wrightwood just yet.
 His friend from the Appalachian Trail was also there and she had set up trail magic. With a stomach full of burgers and
 croquettes, I carefully navigated the next dozen or so miles that strayed from the PCT to avoid an endangered frog
@@ -88,7 +87,6 @@ met earlier that day. Yeezus and Ricochet were delighted by this gift and decide
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8bf8ba12-5908-4346-e38f-686df845c700/public)
 
-
 Once again, the trail took me by another fire station, where some hikers travel into Green Valley. I had no real reason
 to stop, so I kept hiking. By 2 PM I was nearly 17 miles in and stopped at a road leading into Lake Hughes, debating what
 to do next. While I had the energy for more miles, I was starting to feel the solitude, as I hadn't seen too many other
@@ -114,7 +112,6 @@ farm and enjoyed our reunion.
 ![The local jail at the ostrich farm](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a94b56e8-4a45-4e62-1159-a437ee8dc400/public)
 
 ![These are majestic and horrifyingly disgusting creatures](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/455e2ce3-eea0-4bd5-d296-fa53a78a6300/public)
-
 
 Past the ostrich farm we reached our 500th mile on trail, deep into a depressing burn, and hiked hard for the next two
 days to Hikertown. Hikertown marked the transition area between the Sonoran and Mojave desert, and before us lay an
@@ -152,7 +149,6 @@ empty expanse of almost nothing, as we would hike by the LA aqueduct, with no wa
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/647c5cfa-e1fc-47bb-78bf-3fdebed56000/public)
 
-
 Many at Hikertown choose to do this hike at night, so we attempted to sleep during the day and marched off into the
 night, following Hawkeye, Cool Rocks, and OJ and followed by Foxy, Trippy, and Divebomb, and joined by Wild Child. The
 night was spent hiking flat nothingness, until we reached the wind farms, where the eerie blinking glow of the windmills
@@ -188,4 +184,3 @@ slowed to a gentle crawl. Eventually, somehow, I made it to road crossing and li
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a89177ee-a058-46c8-bbef-fe74c90dc300/public)
 
 ![Almost to Tehachapi](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/473b3419-a876-4df3-c780-d6f49a820900/public)
-

@@ -37,7 +37,6 @@ sun began to set, and Elleen and I caught up before exhaustion sent us to our te
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9db27b5f-aaf8-49c6-082d-420cd7b13100/public)
 
-
 The next morning's sunrise found me racing down towards Red's Meadow, my knees pounding. Many hikers get off at Red's
 Meadow to resupply at the ski town of Mammoth, but as I had resupplied the day before at VVR, I packed out extra
 burgers, and only gave myself a little bit of time to catch my breath.
@@ -75,7 +74,6 @@ sleeping pad and bag, grateful to be in bed before it got fully dark.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c9d6c2d-94ea-4090-8c7e-7e2036e57e00/public)
 
-
 The next day started optimistic, but reality started to catch up to me as a few climbs later I was finding my pace slow
 dramatically. I took one of the first breaks I took on this stretch of trail and a hiker I had briefly met back at
 Kennedy Meadows, Cooking Mama, caught up to me. We hung out for a bit, before he raced ahead and I crawled my way up
@@ -108,7 +106,6 @@ behind that the High Sierras. Looking forward, I could see the reddish mountains
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b8440a02-0497-4263-4edd-434e37b17300/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c78ec42c-8742-4b65-0955-72f9422cee00/public)
-
 
 The approach to Sonora was treacherous, covered by snow on slim ledges, but the thought of catching up to my trail
 family pushed me forward. At Sonora Pass, I was lucky enough to get a quick hitch to Kennedy Meadows North, where I was
@@ -149,4 +146,3 @@ The reunion was happy, but brief, as we swapped plans and realized we'd be split
 ![Entering Northern California](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/79adec3d-8da2-4784-7a50-bb4e63172900/public)
 
 ![Lake Tahoe is behind those mountains.](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e012aee3-894b-4f08-7836-1261eba95000/public)
-

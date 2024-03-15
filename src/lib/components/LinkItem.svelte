@@ -8,7 +8,7 @@
 <li class="my-3">
 	<a
 		href={link}
-		class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500"
+		class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
 	>
 		{#if type === 'book'}
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon-book-open w-5 inline">

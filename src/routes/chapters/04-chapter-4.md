@@ -15,7 +15,6 @@ one more day.
 
 ![Cheesing with Cool Rocks](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/83d3bf06-ccd8-4eda-6d35-e147f1888600/public)
 
-
 For our final push through the desert, we got a hitch back to the PCT and were thrust into extreme winds and heat
 advisories. Here, Dylan decided to depart the group, while the rest of us stuck together tighter than ever, due to much
 longer water carries.
@@ -35,7 +34,6 @@ longer water carries.
 ![Black Widow coming down the trail](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6fe60055-4c5f-4ea0-d88d-72ee2503b800/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a788e02e-975a-40c8-f44c-6ec6f46ae800/public)
-
 
 The heat was relentless, but briefly broken up by a few key springs and water caches maintained by a trail angel named
 Devilfish. The blisters were coming back, but this time I was prepared with additional leukotape and careful attention
@@ -58,7 +56,6 @@ could think to do, apart from boiling our water.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a4416d9d-260c-4f9a-be75-5e5f4510f200/public)
 
 ![Setting up camp at a water cache](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7302bb4f-f84c-4f58-0424-efdfb4a03d00/public)
-
 
 As our morale dropped a few miles before Walker Pass, the only major road crossing in this section, I decided to hike
 ahead of the group and get a hitch into Inyokern. The campground at Walker Pass was bleak, so I went to the gas
@@ -90,7 +87,6 @@ them.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b07c9afd-8e63-46e9-e199-a32cb285dc00/public)
 
-
 The climb out of Walker Pass was one of the most brutal of the desert, with many water sources being marked as poor,
 either contaminated with uranium, mosquito larvae, or flies. We picked the one surrounded by flies and I barely made it
 there before running out of water.
@@ -110,7 +106,6 @@ of the Sierra Nevadas, let us know that we were close to completing the desert.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/145ecd4e-a64e-4a5a-e8f8-785897083500/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d1836911-a711-49ed-51a7-32724a7a6300/public)
-
 
 Our final night in the desert we camped about 10 miles away from Kennedy Meadows. Despite the heat, biting ants, and
 brutal landscape, we all soaked in the final hours of our time in the desert section of the PCT.
@@ -156,4 +151,3 @@ left the desert section behind us.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c9975c81-ce76-40d1-f6f8-3847f73bb600/public)
 
 ![Ant Man, Willow, Cool Rocks, Jeeves, Black Widow, and Giggles - done with the desert](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/974347fe-f238-4307-8a4a-946dd4516000/public)
-

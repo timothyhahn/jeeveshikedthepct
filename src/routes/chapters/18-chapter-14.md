@@ -30,7 +30,6 @@ also offered to make me breakfast, which I gratefully accepted, before heading o
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/888608a5-91b9-44dd-7d71-6ef4e868b000/public)
 
-
 The rain let up a bit and reliable water sources were lacking for this next section. Constant droughts in southern
 Oregon had caused once reliable springs to dry up.
 
@@ -45,7 +44,6 @@ attempting this challenge. As we were traveling in different directions, the reu
 were short, but sweet.
 
 ![Barad-dûr, just casually hanging out in Oregon](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/659d4591-257a-4e1b-dc52-3072e7f6f000/public)
-
 
 While the rain let up, I reached the South Brown Mountain shelter. Inside, however, quite a few hikers had already
 claimed most spots. The weather was improving, so I decided to setup my tent outside and made use of the fantastic water
@@ -73,7 +71,6 @@ for a very expensive Lyft ride back to trail.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/03e82a6f-3b55-4ae0-7294-2233e7c87b00/public)
 
-
 The climb up towards Mt McLoughlin was enjoyable until the sky grew dark as I left tree cover. Extremely nearby
 lightning strikes sent me back down to the tree line. My map indicated that the next few miles were at higher elevation,
 so I decided to hunker down until the storm weakened.
@@ -92,7 +89,6 @@ up camp in the middle of the burn, with too little energy to worry anymore.
 ![The fog rolls in after a heavy storm](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c8fc5bb7-20a4-4853-ed72-03839b2dee00/public)
 
 ![Ended up camping in this burn](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dadc7b9f-ec01-4c61-97fd-7b9308788500/public)
-
 
 Morning came as a cold shock and I hiked through the lonely burn, towards Crater Lake. Once again, I needed to make it
 to my resupply at Crater Lake National Park before it closed, so I did my best to ignore my fatigue and the cold and
@@ -115,7 +111,6 @@ likely made these otherwise miserable sections much more bearable.
 
 ![Wizard Island](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/892c1b24-d21e-4db3-c01f-bc4103928e00/public)
 
-
 Before the day was over, I ran into Yeezus going southbound, and we traded advice on the next sections. Soon after, I
 crept down to Thielson Creek and watched the stars under a frozen night. The next morning, I crossed passed with Lefty,
 who updated me on some of what my trail family had gotten up to since we were all separated by the wildfires.
@@ -123,7 +118,6 @@ who updated me on some of what my trail family had gotten up to since we were al
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/10319797-e6ee-4154-264e-9546689caf00/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cfc8f6e0-d4a5-460a-6c8b-f89292a6a100/public)
-
 
 I had gotten new shoes at Crater Lake and the new shoes were unfortunately causing major blisters. As I was so close to
 the end, however, I ignored the pain and a two days later I made it to Willamette Pass where Little Hamster, who had
@@ -150,7 +144,6 @@ missing these miles.
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1bf35b15-d5b2-4a8b-481e-30cfd7d62d00/public)
 
-
 For the next few days, I hiked through what felt like endless burns. The only part of the landscape that changed was the
 towering figure of Mt Jefferson as the trail went around it. Most days were eerily quiet and multiple times I awoke with
 a start, not due to a noise, but due to the realization that it was too quiet. Several nights I slept by a pond, hoping
@@ -167,7 +160,6 @@ for the slightest sound to prevent me from going crazy, but instead there was on
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1d638bbf-ff7b-49fc-8555-cdeaeecd0200/public)
 
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fb68ceac-e778-4c97-434c-77fab49c4a00/public)
-
 
 Past Ollalie, which was closing for the season, my feet went from excruciating pain to something even beyond that. There
 was no way to prevent blisters and the constant downpour made me concerned about trench foot. I reached Highway 35 in
@@ -190,4 +182,3 @@ wait for Little Hamster to pick me up and take me to the Portland airport.
 ![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fae9a0c0-5a0c-4fc3-7b85-c53de105bd00/public)
 
 ![Done](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2d74607a-8ec0-46d0-0a3b-326fa92e5600/public)
-
