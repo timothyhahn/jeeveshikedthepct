@@ -1,6 +1,8 @@
 import adapter from '@sveltejs/adapter-static';
 import sveltePreprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex';
+import remarkUnwrapImages from 'remark-unwrap-images'
+import remarkConvertImgToImagesComponent from './src/lib/plugins/remark-convert-img-to-images-component.js';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -8,7 +10,8 @@ const config = {
 		sveltePreprocess(),
 		mdsvex({
 			extensions: ['.md'],
-			smartypants: true
+			smartypants: true,
+			remarkPlugins: [remarkUnwrapImages, remarkConvertImgToImagesComponent],
 		})
 	],
 	extensions: ['.svelte', '.md'],

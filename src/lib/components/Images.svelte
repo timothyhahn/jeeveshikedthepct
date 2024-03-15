@@ -15,8 +15,7 @@
 {#if images.length % 2 === 0 && images.length > 1}
 	<span
 		class="flex flex-wrap justify-center gap-[10px] after:content-[''] after:basis-[300px] my-3 {className}"
-	>
-		{#each images as image, i}
+	> {#each images as image, i}
 			<Image {image} size={300} index={i} on:openImageModel={openImageModal} />
 		{/each}
 	</span>

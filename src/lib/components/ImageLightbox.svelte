@@ -54,6 +54,7 @@
 		};
 	});
 	$: image = images?.[selectedIndex];
+	$: largeImageUri = `${image?.imageUri.replace('/public', '')}/large`;
 
 	$: if (image && modalImage) {
 		if (modalImage.complete) {
@@ -146,7 +147,7 @@
 						bind:this={modalImage}
 						id={image.imageUri}
 						class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
-						src={`${image.imageUri}/large`}
+						src={largeImageUri}
 						alt={image.caption}
 					/>
 				{/key}

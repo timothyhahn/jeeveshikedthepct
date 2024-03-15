@@ -13,12 +13,8 @@ walk into town is fairly long, Stehekin provides a free shuttle from the trailhe
 stopped by Stehekin Valley Ranch, as well as the legendary Stehekin Bakery. Both were exceedingly welcome stops as I had
 run out of food the night before.
 
-<Images images={[
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2b385170-09fe-412c-0901-0c6580edf500",
-"caption": "The bakery in Stehekin, behind White Stripe"
-},
-]} />
+![The bakery in Stehekin, behind White Stripe](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2b385170-09fe-412c-0901-0c6580edf500/public)
+
 
 I intended to resupply in Stehekin, but once we reached Stehekin proper, the town was crowded. It had gotten to the
 point that rangers were asking any hikers who were able to leave to do so. I knew that in about a day, I'd reach Rainy
@@ -30,20 +26,14 @@ to camp in two specific campsites. I picked the one I thought I could make it to
 Upon reaching there, the campsite was also packed with hikers, so I found a small spot on the edge and planned to wake
 up early.
 
-<Images images={[
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9fdd95e0-2602-43fb-a691-911ace106700",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cb1d72bb-260b-49c3-ea5f-c5f24d76a200",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d8ef7bb6-0276-4f94-b085-9e9af7ccf400",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81e807b1-3d53-4862-c9e4-ccacace6b500",
-}
-]} />
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9fdd95e0-2602-43fb-a691-911ace106700/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cb1d72bb-260b-49c3-ea5f-c5f24d76a200/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d8ef7bb6-0276-4f94-b085-9e9af7ccf400/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81e807b1-3d53-4862-c9e4-ccacace6b500/public)
+
 
 Compared to the previous sections of trail, the final 15 miles to Rainy Pass were a breeze, and before too long I ran
 into Honeybee, sans-McMansion, and we hitched into Mazama. I stopped by the bakery and enjoyed it much more than the one
@@ -67,32 +57,21 @@ the valley and anxiety ran up and down the trail.
 I made it to Grasshopper Pass at sunset and setup for the night. I was only 37 miles away from the border and vowed to
 finish up the remainder of Washington the next day.
 
-<Images className="mb-0" images={[
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fbdea87e-efe4-4da7-3de8-49b8f9132e00",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/957ccd43-a8b3-410a-7a14-369913414300",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2f19b8fe-1b9a-4747-7171-a19687fd9100",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1c13ba6b-5e28-4f6f-7660-98389ddaa800",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35f0bf9d-cbac-49ba-2a06-90be8a04a100",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f56210d6-d83e-4e0e-bf49-2e35f0ce9b00",
-}
-]} />
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fbdea87e-efe4-4da7-3de8-49b8f9132e00/public)
 
-<Images images={[
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fd1b67ca-0d5d-419a-5938-8aeac2b75a00",
-}
-]} />
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/957ccd43-a8b3-410a-7a14-369913414300/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2f19b8fe-1b9a-4747-7171-a19687fd9100/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1c13ba6b-5e28-4f6f-7660-98389ddaa800/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35f0bf9d-cbac-49ba-2a06-90be8a04a100/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f56210d6-d83e-4e0e-bf49-2e35f0ce9b00/public)
+
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fd1b67ca-0d5d-419a-5938-8aeac2b75a00/public)
+
 
 Harts Pass, a difficult to reach pass by vehicle even in the best of times, had rangers organizing cars as a recent
 landslide had made access challenging. The rangers were also nervous, but optimistic about the fire situation, so I
@@ -116,26 +95,16 @@ end of my time on the PCT - I felt less than effective and instead chose to camp
 ran into Shapes, who had been just behind me. He planned on at least making it to the edge of the fire closure, but let
 me know to wait for him at Harts Pass.
 
-<Images images={[
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3596e65e-1197-461f-12dd-bfcb31be6800",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e1fc2e51-903c-47c9-795e-0c5ee1b0ac00",
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6bdccc5b-8cbd-47a3-6da8-e36e8f928200",
-"caption": "The fires in the distance"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3c09b7fb-c1a6-4206-761a-005deaad9300",
-"caption": "Leaving in the smoke"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/010d518c-a77a-4fe4-23a1-cbed139bca00",
-"caption": "Asked to evacuate by rangers, I took a picture of my northernmost point"
-}
-]} />
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3596e65e-1197-461f-12dd-bfcb31be6800/public)
+
+![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e1fc2e51-903c-47c9-795e-0c5ee1b0ac00/public)
+
+![The fires in the distance](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6bdccc5b-8cbd-47a3-6da8-e36e8f928200/public)
+
+![Leaving in the smoke](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3c09b7fb-c1a6-4206-761a-005deaad9300/public)
+
+![Asked to evacuate by rangers, I took a picture of my northernmost point](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/010d518c-a77a-4fe4-23a1-cbed139bca00/public)
+
 
 At Harts Pass, locals from Wenatchee had set up a kitchen, providing pancakes and hot chocolate. Because Harts Pass
 was the closest road to the border, many hikers who were behind me stopped here. With that said, the difficult access to

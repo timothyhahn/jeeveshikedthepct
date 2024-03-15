@@ -14,24 +14,14 @@ however, and enjoyed cooking for each other, as well as ordering meals we had be
 I also had the pleasure of meeting Morgan, of Blaze Physio, who crashed with us for a bit, and was also reunited with
 Dobby. As I had shipped out my resupply and was ready to start hiking again, however, I soon said goodbye.
 
-<Images images={[
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/33267bb3-64f0-438f-a46a-2f6300e04400",
-"caption": "My shopping cart for multiple resupplies"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1258744c-6a0b-4151-717d-7bb7d9a15900",
-"caption": "Magma, Floss, and Shapes packing up our resupply boxes in Bend"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b145b91-bb9e-4c26-7998-e31eb9d4a600",
-"caption": "Velcro, Little Hamster, and Morgan chilling while we pack up"
-},
-{
-"imageUri": "https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a431699c-b46a-4fe2-ea3e-f7c3b3a9fd00",
-"caption": "Cooking in the backyard"
-}
-]} />
+![My shopping cart for multiple resupplies](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/33267bb3-64f0-438f-a46a-2f6300e04400/public)
+
+![Magma, Floss, and Shapes packing up our resupply boxes in Bend](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1258744c-6a0b-4151-717d-7bb7d9a15900/public)
+
+![Velcro, Little Hamster, and Morgan chilling while we pack up](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b145b91-bb9e-4c26-7998-e31eb9d4a600/public)
+
+![Cooking in the backyard](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a431699c-b46a-4fe2-ea3e-f7c3b3a9fd00/public)
+
 
 Little Hamster graciously drove myself, Floss, Magma, and Shapes to Timberline Lodge, dropping Floss off at Government
 Camp on the way, where we once again restarted our hike northbound.

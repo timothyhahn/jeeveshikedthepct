@@ -21,6 +21,8 @@
 			});
 		}
 	}
+	$: publicImageUri = image.imageUri.includes('public') ? image.imageUri : `${image.imageUri}/public`;
+	$: largeImageUri = `${image.imageUri.replace('/public', '')}/large`;
 
 	function openImageModal(event, index: number) {
 		event.preventDefault();
@@ -31,7 +33,7 @@
 </script>
 
 <a
-	href={`${image.imageUri}/large`}
+	href={largeImageUri}
 	target="_blank"
 	rel="noopener"
 	on:click={(event) => openImageModal(event, index)}
@@ -63,7 +65,7 @@
 		bind:this={imgElement}
 		loading="lazy"
 		class="object-cover align-middle rounded-md h-[{size}px] w-[{size}px] md:h-[{mdSize}px] md:w-[{mdSize}px]"
-		src={`${image.imageUri}/public`}
+		src={publicImageUri}
 		alt={image.caption}
 	/>
 	{#if image.caption}
