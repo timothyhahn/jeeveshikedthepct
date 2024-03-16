@@ -8,7 +8,7 @@ import Images from '$lib/components/Images.svelte';
 </script>
 
 The day before I started I, like many hundreds before me, made my way through San Diego to the house of Scout and
-Frodo's, trail angels who have graciously allowed hikers to stay at their place and prepare for the journey ahead.
+Frodo's: trail angels who have graciously allowed hikers to stay at their place and prepare for the journey ahead.
 
 There, I met Ant Man, Black Widow, Giggles, and Mug, along with many more hikers who I'd meet again on my
 northbound hike.
@@ -23,7 +23,7 @@ northbound hike.
 
 On May 1st, we quietly packed our bags well before the sun rose and made our way into the cars of volunteers who drove
 us down to the Mexican border, where we began. On the first major climb out, I was overtaken by the charming and
-vivacious Flamingo Kid, who quickly out hiked me.
+vivacious Flamingo Kid, who quickly out-hiked me.
 
 ![Heading up to the border between Mexico and the US](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/75710689-2654-4d0f-db9a-8e53ccd47700/public)
 
@@ -39,8 +39,8 @@ vivacious Flamingo Kid, who quickly out hiked me.
 
 Carrying far too much food, this first day ended up being one of the hardest for me physically. After
 hiking through the heat of the day, I
-made it to the shade and protection of Hauser Creek, at the bottom of the climb to Lake Morena with shoulders that
-doubted this entire endeavor.
+made it to the shade and protection of Hauser Creek, which lay at the bottom of the climb to Lake Morena. My shoulders
+doubted this entire endeavor and I was barely able to sit up straight.
 
 Here, I camped with Ant Man, Black Widow, her friend Willow, Giggles, Tiny Dancer, B&E,
 Flamingo Kid, and Misplaced. The day before we just met as strangers, that night we began our trail family.
@@ -60,7 +60,8 @@ Flamingo Kid, and Misplaced. The day before we just met as strangers, that night
 ![The first of many lizards we would see through the desert](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/981e1dc5-0161-45fe-4bcf-15b9493c5500/public)
 
 After a quick stop in Lake Morena for hot food, despite still having too much in my pack, I met Dobby, and the rest of
-the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek. After a long day of hiking we were able
+the group met Adventure Time. Adventure Time advised us to meet up with him later in the day at Kitchen Creek.
+After a long day of hiking we were able
 to cool off in the creek, set up camp next to the waters, and sleep to the sound of croaking
 frogs.
 
@@ -84,7 +85,7 @@ frogs.
 
 ![Night comes to our mobile village](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a7fc6725-7106-4dea-a297-d600eac1ad00/public)
 
-We left the desert floor to enter the beautiful pine forests of Mount Laguna, where Black Widow, Giggles, and I shared a
+We left the desert floor to enter the beautiful pine forests of Mount Laguna where Black Widow, Giggles, and I shared a
 tiny home, cramming our sleeping pads next to each other, waking with each crinkle as we tossed and turned.
 
 The next day, we stepped north of town and looked over the Anza-Borrego desert, where we were about to enter.
@@ -127,11 +128,12 @@ group got a bit mixed up, however, as several members took the wrong route in th
 under the bridge at Scissor's Crossing, where hikers sprawled around a water cache maintained by the locals, and slept
 off the heat of the day.
 
-Eventually, we all got rides into Julian, including some of us from a legendary local trail angel named Ghost. Once in Julian, we
-immediately stopped by Mom's, who provided all hikers carrying a PCT permit a free slice of pie, where I grabbed a table with
-Adventure Time, White Stripe, Little Hamster, and Butters. Little Hamster, who I met under the bridge, and I convinced
-each other that we both had deserved a nice place in town to stay, so we grabbed separate rooms at a local AirBnB, while
-the rest of my gang stayed at the lodge. We all met up later for Cinco de Mayo margaritas and dinner.
+Eventually, we all got rides into Julian from local trail angels. One in particular who stood out to me was named Ghost.
+Once in Julian, we immediately stopped by Mom's, who provided all hikers carrying a PCT permit a free slice of pie,
+where I grabbed a table with Adventure Time, White Stripe, Little Hamster, and Butters. Little Hamster, who I met under
+the bridge, and I convinced each other that we both had deserved a nice place in town to stay, so we grabbed separate
+rooms at a local AirBnB, while the rest of my gang stayed at the lodge. We all met up later for Cinco de Mayo margaritas
+and dinner.
 
 A local gear outfitter, Two Foot Adventures, arranged rides for us back to Scissor's Crossing, and unlike the rest of my
 group I waited until the sun started to set to hike. I passed my group setting up camp a few miles later, but as the

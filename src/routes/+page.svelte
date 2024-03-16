@@ -116,7 +116,7 @@
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
-			href="/jeeves-hiked-the-pct-without-images.epub">ePub (w/o images)</a
+			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct-without-images.epub">ePub (w/o images)</a
 		>
 	</li>
 	<!--<li class="ml-12">
@@ -134,17 +134,19 @@
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
-			href="/jeeves-hiked-the-pct-without-images.pdf">PDF (w/o images)</a
+			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct-without-images.pdf">PDF (w/o images)</a
 		>
 	</li>
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
-			href="/jeeves-hiked-the-pct.md">Markdown</a
+			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct.md">Markdown</a
 		>
 	</li>
 </ul>
 
-<a class="float-right mx-6 text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline" href="/chapters/01-chapter-1">Start</a
+<a
+	class="float-right mx-6 text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+	href="/chapters/01-chapter-1">Start</a
 >
 <div class="clear-both" />

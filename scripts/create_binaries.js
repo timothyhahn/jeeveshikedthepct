@@ -19,6 +19,9 @@ let completeBookWithoutImages = frontmatter;
 // Add header fields
 markdownFiles.forEach((file) => {
 	const contents = fs.readFileSync(file, 'utf8').split('\n');
+
+	const chapterImages = [];
+
 	for (let i = 0; i < contents.length; i++) {
 		// Remove anything in between <script> and </script> tags, even over multiple lines
 		if (contents[i].includes('<script')) {
@@ -46,39 +49,55 @@ markdownFiles.forEach((file) => {
 			continue;
 		}
 
-		completeBook += contents[i] + '\n';
-		if (!contents[i].includes('![')) {
-			completeBookWithoutImages += contents[i] + '\n';
+		// Save images for later
+		if (contents[i].includes('![')) {
+			chapterImages.push(contents[i]);
+			i += 1;
+			continue;
 		}
+
+		completeBook += contents[i] + '\n';
+		completeBookWithoutImages += contents[i] + '\n';
 	}
+
+	// Write the chapter images at the end of the file
+	chapterImages.forEach((chapterImage) => {
+		completeBook += chapterImage + '\n\n';
+	});
 });
 
-// Write to /static/jeeves-hiked-the-pct.md
-console.log('Writing to /static/jeeves-hiked-the-pct.md');
-fs.writeFileSync('static/jeeves-hiked-the-pct.md', completeBook);
-fs.writeFileSync('static/jeeves-hiked-the-pct-without-images.md', completeBookWithoutImages);
+// Write to /outputs/jeeves-hiked-the-pct.md
+console.log('Writing to /outputs/jeeves-hiked-the-pct.md');
+fs.writeFileSync('outputs/jeeves-hiked-the-pct.md', completeBook);
+fs.writeFileSync('outputs/jeeves-hiked-the-pct-without-images.md', completeBookWithoutImages);
 
 // TODO: Make sure pandoc is actually installed, or find a Node solution
 // Convert the markdown file to an ePub
 console.log('Converting to ePub');
 execSync(
-	'pandoc static/jeeves-hiked-the-pct.md -o static/jeeves-hiked-the-pct.epub --epub-cover-image=static/cover.jpg --toc'
+	'pandoc outputs/jeeves-hiked-the-pct.md -o outputs/jeeves-hiked-the-pct.epub --epub-cover-image=static/cover.jpg --toc'
 );
 execSync(
-	'pandoc static/jeeves-hiked-the-pct-without-images.md -o static/jeeves-hiked-the-pct-without-images.epub --toc'
+	'pandoc outputs/jeeves-hiked-the-pct-without-images.md -o outputs/jeeves-hiked-the-pct-without-images.epub --toc'
 );
 
 // Convert the markdown file to a PDF
 console.log('Converting to PDF');
-execSync('pandoc static/jeeves-hiked-the-pct.md -o static/jeeves-hiked-the-pct.pdf --toc');
-execSync(
-	'pandoc static/jeeves-hiked-the-pct-without-images.md -o static/jeeves-hiked-the-pct-without-images.pdf --toc'
-);
+execSync(`pandoc outputs/jeeves-hiked-the-pct.md -o outputs/jeeves-hiked-the-pct.pdf --toc \
+--include-in-header modify.tex \
+-V mainfont="Merriweather"
+`);
+
+execSync(`pandoc outputs/jeeves-hiked-the-pct-without-images.md -o outputs/jeeves-hiked-the-pct-without-images.pdf --toc \
+--include-in-header modify.tex \
+-V mainfont="Merriweather" \
+--pdf-engine=xelatex
+`);
 
 // Use ebook-convert to convert the ePub to a mobi
 // Commenting out for now, since the resulting files are super unsatisfactory.
 /**
 console.log("Converting to MOBI");
-execSync('ebook-convert "static/jeeves-hiked-the-pct.epub" "static/jeeves-hiked-the-pct.mobi"');
-execSync('ebook-convert "static/jeeves-hiked-the-pct-without-images.epub" "static/jeeves-hiked-the-pct-without-images.mobi"');
+execSync('ebook-convert "outputs/jeeves-hiked-the-pct.epub" "outputs/jeeves-hiked-the-pct.mobi"');
+execSync('ebook-convert "outputs/jeeves-hiked-the-pct-without-images.epub" "outputs/jeeves-hiked-the-pct-without-images.mobi"');
 **/
