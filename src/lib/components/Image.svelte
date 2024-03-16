@@ -21,10 +21,10 @@
 			});
 		}
 	}
-	$: publicImageUri = image.imageUri.includes('public')
-		? image.imageUri
-		: `${image.imageUri}/public`;
-	$: largeImageUri = `${image.imageUri.replace('/public', '')}/large`;
+	$: publicImageUri = mdSize > 300 ? image.imageUri.replace('.jpeg', '-medium.jpeg') : image.imageUri;
+	$: publicImageAvif = publicImageUri.replace('.jpeg', '.avif');
+	$: publicImageWebp = publicImageUri.replace('.jpeg', '.webp');
+	$: largeImageUri = `${image.imageUri.replace('.jpeg', '-large.jpeg')}`;
 
 	function openImageModal(event, index: number) {
 		event.preventDefault();
@@ -63,13 +63,19 @@
 			/>
 		{/if}
 	</div>
-	<img
-		bind:this={imgElement}
-		loading="lazy"
-		class="object-cover align-middle rounded-md h-[{size}px] w-[{size}px] md:h-[{mdSize}px] md:w-[{mdSize}px]"
-		src={publicImageUri}
-		alt={image.caption}
-	/>
+	<picture
+	>
+		<source srcset={publicImageAvif} type="image/avif" />
+		<source srcset={publicImageWebp} type="image/webp" />
+		<source srcset={publicImageUri} type="image/jpeg" />
+		<img
+			loading="lazy"
+			class="object-cover align-middle rounded-md h-[{size}px] w-[{size}px] md:h-[{mdSize}px] md:w-[{mdSize}px]"
+			bind:this={imgElement}
+			src={publicImageUri}
+			alt={image.caption}
+		/>
+	</picture>
 	{#if image.caption}
 		<div
 			class="absolute w-full h-full top-0 left-0 bg-jeeves-900 bg-opacity-50 scale-0 text-white rounded-sm p-3 flex items-center content-center group-hover:scale-100 font-display"

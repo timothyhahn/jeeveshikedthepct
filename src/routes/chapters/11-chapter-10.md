@@ -22,17 +22,17 @@ to spend the night there. We originally hoped to finally set up our tents, befor
 they could squeeze in with us. As Sensei and Fluffy had a massive three person tent, we instead cowboy camped along
 Eagle Creek.
 
-![Following Magma and Shapes out of Timberline Lodge](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/78884ed2-a0df-4620-2b65-5b4d11b33400/public)
+![Following Magma and Shapes out of Timberline Lodge](https://cdn.jeeveshikedthepct.com/images/78884ed2-a0df-4620-2b65-5b4d11b33400.jpeg)
 
-![Shapes](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35000a17-8935-4727-e3be-e39af6abea00/public)
+![Shapes](https://cdn.jeeveshikedthepct.com/images/35000a17-8935-4727-e3be-e39af6abea00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/106e2da4-4f47-4ae8-0351-f5d761a8a900/public)
+![](https://cdn.jeeveshikedthepct.com/images/106e2da4-4f47-4ae8-0351-f5d761a8a900.jpeg)
 
-![Slug](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81ff237c-8719-40a8-2952-b9d845d6d800/public)
+![Slug](https://cdn.jeeveshikedthepct.com/images/81ff237c-8719-40a8-2952-b9d845d6d800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f19d7459-3143-4596-5103-433a5608de00/public)
+![](https://cdn.jeeveshikedthepct.com/images/f19d7459-3143-4596-5103-433a5608de00.jpeg)
 
-![Magma can nap anywhere, even at Tunnel Falls](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7705542f-d519-430f-5344-add79edef300/public)
+![Magma can nap anywhere, even at Tunnel Falls](https://cdn.jeeveshikedthepct.com/images/7705542f-d519-430f-5344-add79edef300.jpeg)
 
 Cascade Locks had a small store and way too many hikers, so I purchased snacks and ice creams for everyone. Together,
 Magma, Shapes, Foxy, Trippy, and Divebomb walked over the Bridge of the Gods, leaving Oregon for Washington.
@@ -43,23 +43,23 @@ take a long nap around noon. Shapes would take lots of breaks, due to knee troub
 could. I instead took a more leisurely pace, but hiked from sunrise to sunset. Somehow, this perfectly worked out with
 us camping most nights together and getting chances to eat meals together.
 
-![Cascade Locks](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/82b772d3-0d7b-4cd3-8a46-c94a941d4600/public)
+![Cascade Locks](https://cdn.jeeveshikedthepct.com/images/82b772d3-0d7b-4cd3-8a46-c94a941d4600.jpeg)
 
-![Foxy, Trippy, Divebomb, and Magma, crossing into Washington](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b495de8c-eced-4e37-9f7f-4e61066d4000/public)
+![Foxy, Trippy, Divebomb, and Magma, crossing into Washington](https://cdn.jeeveshikedthepct.com/images/b495de8c-eced-4e37-9f7f-4e61066d4000.jpeg)
 
-![The bridge over the Columbia river](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/89dfd07a-6a2c-4fa1-90a0-241a759c9f00/public)
+![The bridge over the Columbia river](https://cdn.jeeveshikedthepct.com/images/89dfd07a-6a2c-4fa1-90a0-241a759c9f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/615bceb1-e702-47a7-9254-ae0c0c29f500/public)
+![](https://cdn.jeeveshikedthepct.com/images/615bceb1-e702-47a7-9254-ae0c0c29f500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4c894c39-d29c-4545-2c4f-8dfa9b8be300/public)
+![](https://cdn.jeeveshikedthepct.com/images/4c894c39-d29c-4545-2c4f-8dfa9b8be300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/092d3b36-2c01-4973-a492-7a6c1aca7a00/public)
+![](https://cdn.jeeveshikedthepct.com/images/092d3b36-2c01-4973-a492-7a6c1aca7a00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6bb5d896-359c-4366-0b09-54f1760c8500/public)
+![](https://cdn.jeeveshikedthepct.com/images/6bb5d896-359c-4366-0b09-54f1760c8500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c0b12031-a013-4995-d3f2-6f29487e2900/public)
+![](https://cdn.jeeveshikedthepct.com/images/c0b12031-a013-4995-d3f2-6f29487e2900.jpeg)
 
-![Magma](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/30c2c67e-7319-4775-2476-a0b5044d5e00/public)
+![Magma](https://cdn.jeeveshikedthepct.com/images/30c2c67e-7319-4775-2476-a0b5044d5e00.jpeg)
 
 When we got to Panther Creek Campground, there were designated PCT hiker campsites that were free, but as the campsite
 was overflowing, I paid the hosts for extra campsites that were empty that evening and told them to direct other PCT
@@ -96,49 +96,49 @@ starting to feel ill, but assured Magma was fine, and she hiked on ahead.
 I slept that night on top of an incredibly windy ridge, with incredible views of Mt Rainier. Waking up, however, I felt
 even worse, so I slowly made my way into White Pass, where hikers congregated at the gas station.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/09c4c2d2-d1ff-43de-07c9-2e8a810cb700/public)
+![](https://cdn.jeeveshikedthepct.com/images/09c4c2d2-d1ff-43de-07c9-2e8a810cb700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b262988e-2020-408d-9304-73fa5764b000/public)
+![](https://cdn.jeeveshikedthepct.com/images/b262988e-2020-408d-9304-73fa5764b000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/02b306b5-6fff-4fa1-af8e-d4e2f8a03600/public)
+![](https://cdn.jeeveshikedthepct.com/images/02b306b5-6fff-4fa1-af8e-d4e2f8a03600.jpeg)
 
-![I always see a face when I look back](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0b170fc7-5287-47fe-87e1-2e09284ccd00/public)
+![I always see a face when I look back](https://cdn.jeeveshikedthepct.com/images/0b170fc7-5287-47fe-87e1-2e09284ccd00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ce7b6b60-2216-4998-105b-2b5b61600f00/public)
+![](https://cdn.jeeveshikedthepct.com/images/ce7b6b60-2216-4998-105b-2b5b61600f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a9b32101-efd7-4527-34cf-a8cb14094600/public)
+![](https://cdn.jeeveshikedthepct.com/images/a9b32101-efd7-4527-34cf-a8cb14094600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a2a00664-79c2-4b04-aa78-e647fdd62200/public)
+![](https://cdn.jeeveshikedthepct.com/images/a2a00664-79c2-4b04-aa78-e647fdd62200.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2316930c-3fb7-455c-22e5-823df795f500/public)
+![](https://cdn.jeeveshikedthepct.com/images/2316930c-3fb7-455c-22e5-823df795f500.jpeg)
 
-![A perfect campsite](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2ef7cbee-468d-4151-fcec-39afa8e17100/public)
+![A perfect campsite](https://cdn.jeeveshikedthepct.com/images/2ef7cbee-468d-4151-fcec-39afa8e17100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/be5752b0-c525-4990-91c7-53a6f6e8bb00/public)
+![](https://cdn.jeeveshikedthepct.com/images/be5752b0-c525-4990-91c7-53a6f6e8bb00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/26ede1de-832c-49ce-893b-d72b2b3d5100/public)
+![](https://cdn.jeeveshikedthepct.com/images/26ede1de-832c-49ce-893b-d72b2b3d5100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/64a7c720-1edb-4d02-4cb3-632e8b3ded00/public)
+![](https://cdn.jeeveshikedthepct.com/images/64a7c720-1edb-4d02-4cb3-632e8b3ded00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9bcb4f6e-912d-4a23-4596-d9c0c46e4f00/public)
+![](https://cdn.jeeveshikedthepct.com/images/9bcb4f6e-912d-4a23-4596-d9c0c46e4f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/71d7d519-3776-4d00-9e2a-24b5d27ef600/public)
+![](https://cdn.jeeveshikedthepct.com/images/71d7d519-3776-4d00-9e2a-24b5d27ef600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dc5a7b7b-c8c2-4288-ee5f-aee202a8e400/public)
+![](https://cdn.jeeveshikedthepct.com/images/dc5a7b7b-c8c2-4288-ee5f-aee202a8e400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d2993bbc-e1ce-4db0-d059-4d0bd359b300/public)
+![](https://cdn.jeeveshikedthepct.com/images/d2993bbc-e1ce-4db0-d059-4d0bd359b300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/eaa161a7-2846-4e57-9bb1-76be11853000/public)
+![](https://cdn.jeeveshikedthepct.com/images/eaa161a7-2846-4e57-9bb1-76be11853000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/218b5895-7c3e-43d3-3d72-8950aba52100/public)
+![](https://cdn.jeeveshikedthepct.com/images/218b5895-7c3e-43d3-3d72-8950aba52100.jpeg)
 
-![Climbing Old Snowy](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/69cbda27-fea1-4852-441d-3c1385181100/public)
+![Climbing Old Snowy](https://cdn.jeeveshikedthepct.com/images/69cbda27-fea1-4852-441d-3c1385181100.jpeg)
 
-![Knife's Edge](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/30b462fc-ccca-46ae-a66f-7fb623fd8b00/public)
+![Knife's Edge](https://cdn.jeeveshikedthepct.com/images/30b462fc-ccca-46ae-a66f-7fb623fd8b00.jpeg)
 
-![Magma in Goat Rocks](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1bccafe2-eb32-4ff6-8ce3-626bce181a00/public)
+![Magma in Goat Rocks](https://cdn.jeeveshikedthepct.com/images/1bccafe2-eb32-4ff6-8ce3-626bce181a00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/99485b4d-1027-4c3e-4056-6a3beec7e900/public)
+![](https://cdn.jeeveshikedthepct.com/images/99485b4d-1027-4c3e-4056-6a3beec7e900.jpeg)
 
 As the next day was my birthday, Shapes and Magma offered to join me in Packwood, at least for a celebratory meal, but I
 was unable to stomach anything. I decided to crash at a motel in Packwood and despite both of them insisting they would
@@ -176,16 +176,16 @@ profusely. Elleen drove me, who had wanted to vomit this entire time, to the tow
 care. I sent her some money for her car window and thanked her for again saving me. I booked a hotel for a few days and
 booked a doctor's appointment.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e907bf6-8069-4ee7-f213-d9dadbb80600/public)
+![](https://cdn.jeeveshikedthepct.com/images/8e907bf6-8069-4ee7-f213-d9dadbb80600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9ba5b763-6e0d-44eb-3d57-b8c7c8063700/public)
+![](https://cdn.jeeveshikedthepct.com/images/9ba5b763-6e0d-44eb-3d57-b8c7c8063700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/01fb2e9f-fd3b-4808-f82e-7c75d73f3900/public)
+![](https://cdn.jeeveshikedthepct.com/images/01fb2e9f-fd3b-4808-f82e-7c75d73f3900.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4b99bc79-68f3-4030-db25-33136aa8b300/public)
+![](https://cdn.jeeveshikedthepct.com/images/4b99bc79-68f3-4030-db25-33136aa8b300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/539bde1e-ab35-473c-ce3d-7cc8556a3100/public)
+![](https://cdn.jeeveshikedthepct.com/images/539bde1e-ab35-473c-ce3d-7cc8556a3100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5859016c-694f-447c-6d83-ba0f32ce4f00/public)
+![](https://cdn.jeeveshikedthepct.com/images/5859016c-694f-447c-6d83-ba0f32ce4f00.jpeg)
 
-![My favorite pic of Mt Rainier](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/229b3177-9609-43d0-be97-675ec563f400/public)
+![My favorite pic of Mt Rainier](https://cdn.jeeveshikedthepct.com/images/229b3177-9609-43d0-be97-675ec563f400.jpeg)

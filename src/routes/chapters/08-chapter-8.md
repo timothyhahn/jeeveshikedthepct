@@ -34,21 +34,21 @@ Leaving the Sierras, the views were still beautiful, but lacked the grandeur of 
 few weeks hiking through. The trail led through meadows and out of season ski resorts, where we set up camp under some
 ski lifts.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/de38ad66-fedc-4b7f-1807-5b29fc22ca00/public)
+![](https://cdn.jeeveshikedthepct.com/images/de38ad66-fedc-4b7f-1807-5b29fc22ca00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d5e028c1-892a-4698-0c2f-f41dba545c00/public)
+![](https://cdn.jeeveshikedthepct.com/images/d5e028c1-892a-4698-0c2f-f41dba545c00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c2ba0a4-5712-4770-1be6-30a6ce9cba00/public)
+![](https://cdn.jeeveshikedthepct.com/images/0c2ba0a4-5712-4770-1be6-30a6ce9cba00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/594f423c-ac37-4351-5df4-8b04e509d900/public)
+![](https://cdn.jeeveshikedthepct.com/images/594f423c-ac37-4351-5df4-8b04e509d900.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cbb721ca-e621-4a53-ed79-47d9b83e2c00/public)
+![](https://cdn.jeeveshikedthepct.com/images/cbb721ca-e621-4a53-ed79-47d9b83e2c00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/515fc7de-d69c-4488-5918-64783c722d00/public)
+![](https://cdn.jeeveshikedthepct.com/images/515fc7de-d69c-4488-5918-64783c722d00.jpeg)
 
-![Following the trail through ski resorts with Giggles](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/899e11d0-ecf4-4b4e-6708-f41fa0a94000/public)
+![Following the trail through ski resorts with Giggles](https://cdn.jeeveshikedthepct.com/images/899e11d0-ecf4-4b4e-6708-f41fa0a94000.jpeg)
 
-![Ski lifts](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/77ec8366-3acd-4bc9-9806-17d03ab66300/public)
+![Ski lifts](https://cdn.jeeveshikedthepct.com/images/77ec8366-3acd-4bc9-9806-17d03ab66300.jpeg)
 
 The day after we reached the infamous Donner Pass, where hikers are offered a free 40oz from the ranch. The ranch also
 had a buddy board, where people could leave each other drinks. I left a few drinks for hikers I hadn't seen in a while
@@ -66,21 +66,21 @@ I did my best to resupply at the local store, but finding solid sources of prote
 planning to next resupply at Chester in 6 days, but I was skeptical about my chances. I decided to make the best of the
 store, however, and purchased ice cream for the other hikers sitting outside the store.
 
-![Camping just above Lake Tahoe](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1440b4a5-ba50-4d1d-3399-6d7e999ab500/public)
+![Camping just above Lake Tahoe](https://cdn.jeeveshikedthepct.com/images/1440b4a5-ba50-4d1d-3399-6d7e999ab500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/33d620e3-4d24-4c81-dff1-251942df8b00/public)
+![](https://cdn.jeeveshikedthepct.com/images/33d620e3-4d24-4c81-dff1-251942df8b00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/787dcf9d-c954-4d7e-0a20-cc2422928300/public)
+![](https://cdn.jeeveshikedthepct.com/images/787dcf9d-c954-4d7e-0a20-cc2422928300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4b0098b3-c56d-4d7b-0a2d-83e4ee76c500/public)
+![](https://cdn.jeeveshikedthepct.com/images/4b0098b3-c56d-4d7b-0a2d-83e4ee76c500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f5c0e152-bd6b-400a-747d-1e1b890bcc00/public)
+![](https://cdn.jeeveshikedthepct.com/images/f5c0e152-bd6b-400a-747d-1e1b890bcc00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/aaae1f06-c081-4fb0-c5ef-c5140cb83100/public)
+![](https://cdn.jeeveshikedthepct.com/images/aaae1f06-c081-4fb0-c5ef-c5140cb83100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c8fbe4ae-29fb-41d8-ef95-a16b2c2ff200/public)
+![](https://cdn.jeeveshikedthepct.com/images/c8fbe4ae-29fb-41d8-ef95-a16b2c2ff200.jpeg)
 
-![Sierra City](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/51e82eda-29d2-490e-b611-13b30a999800/public)
+![Sierra City](https://cdn.jeeveshikedthepct.com/images/51e82eda-29d2-490e-b611-13b30a999800.jpeg)
 
 While we cleaned up a bit, I was reunited with Aquawoman, who I last saw at VVR, and Butters, who I last saw in Julian.
 We hiked out together and once again returned to incredibly painful scree.
@@ -114,38 +114,38 @@ In Quincy, I was briefly reunited with Yeezus, who helped me bring my groceries 
 and on my way out I saw Cooking Mama. He had temporarily been joined by his girlfriend and Magma had temporarily been
 joined by her father, so they weren't hiking together at the moment, but planned to reunite later down the trail.
 
-![Endless scree](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c01523e-594f-46ce-fcb8-8441876c7f00/public)
+![Endless scree](https://cdn.jeeveshikedthepct.com/images/0c01523e-594f-46ce-fcb8-8441876c7f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fd7d03d7-74b0-4fa1-59d7-dd40b095b000/public)
+![](https://cdn.jeeveshikedthepct.com/images/fd7d03d7-74b0-4fa1-59d7-dd40b095b000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/658bf072-9ccf-4baf-cd36-9615da930100/public)
+![](https://cdn.jeeveshikedthepct.com/images/658bf072-9ccf-4baf-cd36-9615da930100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0bd56e6c-7da6-4594-8b70-7e10905ed400/public)
+![](https://cdn.jeeveshikedthepct.com/images/0bd56e6c-7da6-4594-8b70-7e10905ed400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/73ef9fbf-e6e5-4ab0-3722-1e9b5ec5d100/public)
+![](https://cdn.jeeveshikedthepct.com/images/73ef9fbf-e6e5-4ab0-3722-1e9b5ec5d100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54a4033f-f41c-46a3-302d-f1745e513b00/public)
+![](https://cdn.jeeveshikedthepct.com/images/54a4033f-f41c-46a3-302d-f1745e513b00.jpeg)
 
 I left Quincy and almost immediately walked into the burn. The effects of the burn were severe, and in some ways this
 was a positive in terms of safety. So much had burned that there was little to fall on me. The trail went steeply
 downhill to the tiny outpost of Belden, only to climb steeply out the other end through more burn and plenty of poison
 oak.
 
-![Entering the largest burn of the PCT](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e283cf2c-8e2a-499f-b5e1-064234a32e00/public)
+![Entering the largest burn of the PCT](https://cdn.jeeveshikedthepct.com/images/e283cf2c-8e2a-499f-b5e1-064234a32e00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6ce34000-f976-4fe7-9f70-f32cf0023500/public)
+![](https://cdn.jeeveshikedthepct.com/images/6ce34000-f976-4fe7-9f70-f32cf0023500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/189ada95-e2fb-42f4-7e54-1bc1e5bb7300/public)
+![](https://cdn.jeeveshikedthepct.com/images/189ada95-e2fb-42f4-7e54-1bc1e5bb7300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cb2dfdf7-fdc5-4a5e-ddba-02141678a200/public)
+![](https://cdn.jeeveshikedthepct.com/images/cb2dfdf7-fdc5-4a5e-ddba-02141678a200.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9ec2c057-cce7-48b6-0a3c-fdac58ebdc00/public)
+![](https://cdn.jeeveshikedthepct.com/images/9ec2c057-cce7-48b6-0a3c-fdac58ebdc00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/77a154ec-8286-4d14-6f50-dd712a801c00/public)
+![](https://cdn.jeeveshikedthepct.com/images/77a154ec-8286-4d14-6f50-dd712a801c00.jpeg)
 
-![A burnt up bridge](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2e3630e6-5b39-4b3a-7c1b-74aa3eaafa00/public)
+![A burnt up bridge](https://cdn.jeeveshikedthepct.com/images/2e3630e6-5b39-4b3a-7c1b-74aa3eaafa00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8a735a31-59ee-4d79-d105-98a186477900/public)
+![](https://cdn.jeeveshikedthepct.com/images/8a735a31-59ee-4d79-d105-98a186477900.jpeg)
 
 My feet were still aching, so I took the next few days slowly, with Ant Man and Black Widow eventually catching up and
 passing me. At some point, I left the geologic end of the Sierra Nevada and entered the Cascade Range, which would make
@@ -161,19 +161,19 @@ at the halfway mark of my journey. I was still a little rattled by the camper at
 were killing me. I was also very nervous about where to camp that evening, as much of the remainder of the trail between
 here and Chester were off-limits for camping.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5a6dd4c5-4859-4b64-a58f-375a80491200/public)
+![](https://cdn.jeeveshikedthepct.com/images/5a6dd4c5-4859-4b64-a58f-375a80491200.jpeg)
 
-![Entering the Cascades](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/72e2f76f-f3a3-4be0-e720-841e2eedc600/public)
+![Entering the Cascades](https://cdn.jeeveshikedthepct.com/images/72e2f76f-f3a3-4be0-e720-841e2eedc600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b751cf39-026d-4524-4d23-334f9b8e5900/public)
+![](https://cdn.jeeveshikedthepct.com/images/b751cf39-026d-4524-4d23-334f9b8e5900.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e0dad785-fd15-4e7f-149e-1bfc3a333400/public)
+![](https://cdn.jeeveshikedthepct.com/images/e0dad785-fd15-4e7f-149e-1bfc3a333400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b37996b1-dfeb-4141-9fa7-e8d6ba7d5700/public)
+![](https://cdn.jeeveshikedthepct.com/images/b37996b1-dfeb-4141-9fa7-e8d6ba7d5700.jpeg)
 
-![Some beautiful ash artwork](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a5cc4386-9a0e-4685-e8c1-9595e47aaa00/public)
+![Some beautiful ash artwork](https://cdn.jeeveshikedthepct.com/images/a5cc4386-9a0e-4685-e8c1-9595e47aaa00.jpeg)
 
-![Halfway done](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a9df621-7c78-4a41-e1d4-1a76b51bb000/public)
+![Halfway done](https://cdn.jeeveshikedthepct.com/images/2a9df621-7c78-4a41-e1d4-1a76b51bb000.jpeg)
 
 Passing through private cow fields that graciously allowed hikers to pass through, I entered National Forest territory
 and checked my map for what sections I could camp on. Eventually, I found a tiny spot that would fit me, though it was

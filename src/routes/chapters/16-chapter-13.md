@@ -26,19 +26,19 @@ storm, and I found myself running out of water with few water sources remaining.
 quite fascinating, as it was surrounded by carnivorous cobra lilies, but the rest of the trail between here and Etna had
 little reliable water.
 
-![Back at Castle Crags](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ac8f7d05-9d94-4f14-5260-625c7435cd00/public)
+![Back at Castle Crags](https://cdn.jeeveshikedthepct.com/images/ac8f7d05-9d94-4f14-5260-625c7435cd00.jpeg)
 
-![Carnivorous cobra lilies](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a47de5e1-b77d-49d3-69c1-b4a47d591f00/public)
+![Carnivorous cobra lilies](https://cdn.jeeveshikedthepct.com/images/a47de5e1-b77d-49d3-69c1-b4a47d591f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cddd3b8e-2264-467d-33b3-d6fad724c000/public)
+![](https://cdn.jeeveshikedthepct.com/images/cddd3b8e-2264-467d-33b3-d6fad724c000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b7a9f7e8-d437-4800-02f7-623a02599600/public)
+![](https://cdn.jeeveshikedthepct.com/images/b7a9f7e8-d437-4800-02f7-623a02599600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/57f0eea3-18b4-49c6-0217-de65e6b3c000/public)
+![](https://cdn.jeeveshikedthepct.com/images/57f0eea3-18b4-49c6-0217-de65e6b3c000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/24075a7d-2665-456b-c68b-b366580f5d00/public)
+![](https://cdn.jeeveshikedthepct.com/images/24075a7d-2665-456b-c68b-b366580f5d00.jpeg)
 
-![Camping with a great view of Mt Shasta](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f1346dfb-3b8e-4683-447e-92808c100400/public)
+![Camping with a great view of Mt Shasta](https://cdn.jeeveshikedthepct.com/images/f1346dfb-3b8e-4683-447e-92808c100400.jpeg)
 
 The heat brought out the rattlesnakes, who welcomed me back to California, but the beginning of September also saw the
 bears more active, as they attempted to find food before winter came. The sight of Mt Shasta kept me company, as the
@@ -75,19 +75,19 @@ nonstop for hours as we hiked together. She had already managed to resupply at E
 she was planning on going ahead. When I arrived at the usual hitching spot to Etna, the road was empty so I called
 Jerry.
 
-![Entering the Trinity Alps](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d45c6ee-8e08-496a-f6c3-492100375f00/public)
+![Entering the Trinity Alps](https://cdn.jeeveshikedthepct.com/images/6d45c6ee-8e08-496a-f6c3-492100375f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b90def16-09e4-4a3e-ba76-35665b004600/public)
+![](https://cdn.jeeveshikedthepct.com/images/b90def16-09e4-4a3e-ba76-35665b004600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/42b3b801-efe4-42f5-6e3e-b4cf5944e200/public)
+![](https://cdn.jeeveshikedthepct.com/images/42b3b801-efe4-42f5-6e3e-b4cf5944e200.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e4071d74-17c5-4403-7724-2a0a6d5d2100/public)
+![](https://cdn.jeeveshikedthepct.com/images/e4071d74-17c5-4403-7724-2a0a6d5d2100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/58fb8b7a-fe19-4172-e481-8acedbd1ea00/public)
+![](https://cdn.jeeveshikedthepct.com/images/58fb8b7a-fe19-4172-e481-8acedbd1ea00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/3d59997f-9e0d-4259-dbb1-c4c922476f00/public)
+![](https://cdn.jeeveshikedthepct.com/images/3d59997f-9e0d-4259-dbb1-c4c922476f00.jpeg)
 
-![Only had Janika and these cows to chat with](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8b5ad6db-90d3-4914-95b6-03c2d52a3100/public)
+![Only had Janika and these cows to chat with](https://cdn.jeeveshikedthepct.com/images/8b5ad6db-90d3-4914-95b6-03c2d52a3100.jpeg)
 
 About half an hour later, Jerry arrived to the trailhead with a fuel canister, ice cold sodas, and a few candy bars. I
 gratefully accepted his gift and we drove into the town of Etna. Here, I learned that there was a supposedly a new fire
@@ -109,25 +109,25 @@ off the side of the trail.
 Eventually, I made it past the poison oak to an established campsite right outside Seiad. The campsite was large and
 well-used, but was completely empty when I spent the night there.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cf88ee2d-8c27-47cd-6b50-227ac9fa3e00/public)
+![](https://cdn.jeeveshikedthepct.com/images/cf88ee2d-8c27-47cd-6b50-227ac9fa3e00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8c83e0a5-7893-4a8a-afb9-1d62ea328200/public)
+![](https://cdn.jeeveshikedthepct.com/images/8c83e0a5-7893-4a8a-afb9-1d62ea328200.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05c8e476-8155-4056-881f-74ef1d71e700/public)
+![](https://cdn.jeeveshikedthepct.com/images/05c8e476-8155-4056-881f-74ef1d71e700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d17c50a0-6b94-4415-dd81-45485abd4900/public)
+![](https://cdn.jeeveshikedthepct.com/images/d17c50a0-6b94-4415-dd81-45485abd4900.jpeg)
 
-![Bear buddy](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b375f361-c3e5-40ee-12c9-77ea0a9c2900/public)
+![Bear buddy](https://cdn.jeeveshikedthepct.com/images/b375f361-c3e5-40ee-12c9-77ea0a9c2900.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/31bba1f1-d5e3-414a-e924-53c79044f700/public)
+![](https://cdn.jeeveshikedthepct.com/images/31bba1f1-d5e3-414a-e924-53c79044f700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b2f7b67c-05ee-4514-30be-6e4e8c89d400/public)
+![](https://cdn.jeeveshikedthepct.com/images/b2f7b67c-05ee-4514-30be-6e4e8c89d400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e7f6842-b99b-4f49-384a-64374e8da600/public)
+![](https://cdn.jeeveshikedthepct.com/images/8e7f6842-b99b-4f49-384a-64374e8da600.jpeg)
 
-![Annoying AF deer](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e4fa5fe4-dbb2-4356-f558-5965cbc41600/public)
+![Annoying AF deer](https://cdn.jeeveshikedthepct.com/images/e4fa5fe4-dbb2-4356-f558-5965cbc41600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e39f7969-5584-42f3-f792-ec94bcabeb00/public)
+![](https://cdn.jeeveshikedthepct.com/images/e39f7969-5584-42f3-f792-ec94bcabeb00.jpeg)
 
 Early in the morning, I was packing up and perked up to the voice of Stellar Jay coming down the trail behind me. She
 introduced me to her hiking partner, Unfiltered, and I realized that I had already met Unfiltered. Not on the PCT, but
@@ -149,10 +149,10 @@ As I made the final climb out of California to the Oregon border, I was reunited
 prolonged time until Unfiltered and Stellar Jay joined us. After reflecting for a little bit more, we raced out of
 California and the trail eventually took us to Highway 99, where I got a ride to Ashland.
 
-![Seiad Valley](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0fa0fec7-0695-4451-3caa-9d2a450a2800/public)
+![Seiad Valley](https://cdn.jeeveshikedthepct.com/images/0fa0fec7-0695-4451-3caa-9d2a450a2800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/307d5f01-af4d-47cb-856d-c4e26af62c00/public)
+![](https://cdn.jeeveshikedthepct.com/images/307d5f01-af4d-47cb-856d-c4e26af62c00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/126948b6-fcce-4b39-41e4-35c4a384e100/public)
+![](https://cdn.jeeveshikedthepct.com/images/126948b6-fcce-4b39-41e4-35c4a384e100.jpeg)
 
-![Finally done with California](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/780153a6-b732-4615-3438-601fbe9e9e00/public)
+![Finally done with California](https://cdn.jeeveshikedthepct.com/images/780153a6-b732-4615-3438-601fbe9e9e00.jpeg)

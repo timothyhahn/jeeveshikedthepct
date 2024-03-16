@@ -27,17 +27,17 @@ to get torn up and had once again swollen another shoe size past what they alrea
 I also came across many day hikers, which wasn't common so far on the PCT. Because of this, I made extra precautions to
 avoid the lakes and stuck to running inlets as my water sources.
 
-![Leaving Chinook Pass](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/53040767-3f96-4f00-03ba-ea1900404700/public)
+![Leaving Chinook Pass](https://cdn.jeeveshikedthepct.com/images/53040767-3f96-4f00-03ba-ea1900404700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/73bebbbd-8e54-409c-6059-2bb45d2f3400/public)
+![](https://cdn.jeeveshikedthepct.com/images/73bebbbd-8e54-409c-6059-2bb45d2f3400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c23624a2-ad41-471a-fc84-486b060e0100/public)
+![](https://cdn.jeeveshikedthepct.com/images/c23624a2-ad41-471a-fc84-486b060e0100.jpeg)
 
-![Such blowdowns](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dd3cb72c-4cd4-4cfa-401d-1ffa8067cc00/public)
+![Such blowdowns](https://cdn.jeeveshikedthepct.com/images/dd3cb72c-4cd4-4cfa-401d-1ffa8067cc00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b55db947-f4fa-41d3-069b-474e5764f400/public)
+![](https://cdn.jeeveshikedthepct.com/images/b55db947-f4fa-41d3-069b-474e5764f400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9509ca36-4082-4a95-5ac1-265137e5f200/public)
+![](https://cdn.jeeveshikedthepct.com/images/9509ca36-4082-4a95-5ac1-265137e5f200.jpeg)
 
 At Snoqualmie, I hobbled down the ski slopes, wishing I could have used the lifts, and decided on a hotel room instead
 of the hiker hostel. This ended up becoming a good idea as quite a few hikers between White Pass and Snoqualamie had
@@ -57,29 +57,29 @@ Pass' ski lifts and got service again. I found out that Magma was actually behin
 but Shapes was in Leavenworth, just down the highway from Stevens Pass. His family is from Washington and they picked me
 up from Stevens Pass and brought me to the Bavarian themed town of Leavenworth.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6d6f8a7b-9798-436b-caa0-87af0bd73800/public)
+![](https://cdn.jeeveshikedthepct.com/images/6d6f8a7b-9798-436b-caa0-87af0bd73800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/10095b95-ea34-44f6-9315-82b8de67fa00/public)
+![](https://cdn.jeeveshikedthepct.com/images/10095b95-ea34-44f6-9315-82b8de67fa00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/444f247f-7794-49fb-e446-8a1a07d47f00/public)
+![](https://cdn.jeeveshikedthepct.com/images/444f247f-7794-49fb-e446-8a1a07d47f00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0323ff16-92d9-4a7d-74c8-1797b937e100/public)
+![](https://cdn.jeeveshikedthepct.com/images/0323ff16-92d9-4a7d-74c8-1797b937e100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/850adfd8-07a6-4ab5-7a36-32a516987400/public)
+![](https://cdn.jeeveshikedthepct.com/images/850adfd8-07a6-4ab5-7a36-32a516987400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9d8643b9-b271-464f-cf7a-98aa923a5200/public)
+![](https://cdn.jeeveshikedthepct.com/images/9d8643b9-b271-464f-cf7a-98aa923a5200.jpeg)
 
-![Emerald](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/50b6d9a7-8f45-47c5-c2fa-53e6b05f9700/public)
+![Emerald](https://cdn.jeeveshikedthepct.com/images/50b6d9a7-8f45-47c5-c2fa-53e6b05f9700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2a5b7695-4ff1-45f9-ba0b-b0c3ac51e600/public)
+![](https://cdn.jeeveshikedthepct.com/images/2a5b7695-4ff1-45f9-ba0b-b0c3ac51e600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/864acd02-96a6-4aa6-284e-c0cd2e9c9300/public)
+![](https://cdn.jeeveshikedthepct.com/images/864acd02-96a6-4aa6-284e-c0cd2e9c9300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/822ec8f3-6ef3-45f8-9697-c8306abdd400/public)
+![](https://cdn.jeeveshikedthepct.com/images/822ec8f3-6ef3-45f8-9697-c8306abdd400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fbf841ad-9440-4e6b-7f58-76b655311100/public)
+![](https://cdn.jeeveshikedthepct.com/images/fbf841ad-9440-4e6b-7f58-76b655311100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/879fca15-0e1b-4133-5e93-5acc46bc4900/public)
+![](https://cdn.jeeveshikedthepct.com/images/879fca15-0e1b-4133-5e93-5acc46bc4900.jpeg)
 
 Shapes and I decided to take two zeroes in Leavenworth, due to being pretty beat up by the trail after Snoqualmie. We
 also knew that the trail would remain difficult up until the Canadian border, so we stayed off our feet and ate as much
@@ -111,17 +111,17 @@ the evening, so I cowboy camped in the trees just south of it.
 Early the next morning, I approached Fire Creek for water, only to find it completely empty. I then reached the top of
 the next pass and immediately regretted not camping up there, as the views were spectacular and the ground was flat.
 
-![More marmots!](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b409a149-370e-44d3-bbe7-d0a6301ebc00/public)
+![More marmots!](https://cdn.jeeveshikedthepct.com/images/b409a149-370e-44d3-bbe7-d0a6301ebc00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b837f645-a5cf-4d16-8128-d535d5b24000/public)
+![](https://cdn.jeeveshikedthepct.com/images/b837f645-a5cf-4d16-8128-d535d5b24000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7baa5c35-0ff3-4d8c-d9ec-4aea1334d600/public)
+![](https://cdn.jeeveshikedthepct.com/images/7baa5c35-0ff3-4d8c-d9ec-4aea1334d600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/dfdb3702-1ee4-4199-057a-38f5a46e7300/public)
+![](https://cdn.jeeveshikedthepct.com/images/dfdb3702-1ee4-4199-057a-38f5a46e7300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/54e6c545-2a61-4e12-752c-af536c27c100/public)
+![](https://cdn.jeeveshikedthepct.com/images/54e6c545-2a61-4e12-752c-af536c27c100.jpeg)
 
-![EMERALD](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05e9c0f9-827d-4898-a972-aa07f7ec1300/public)
+![EMERALD](https://cdn.jeeveshikedthepct.com/images/05e9c0f9-827d-4898-a972-aa07f7ec1300.jpeg)
 
 The trail continued to physically crumble underneath me and lead through mazes of downed trees. I normally targeted
 about 20 miles by early afternoon to make 30 miles for the day, but without food, I found myself at around mile 17 by
@@ -141,16 +141,16 @@ The remainder of the day was a gentle descent, as fighter jets practiced overhea
 Stripe, neither of whom I'd seen in months, who introduced me to Stellar Jay, and we made it just shy of the cutoff to
 Stehekin.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/014d04e8-f681-4642-a5b6-2b8e78d64400/public)
+![](https://cdn.jeeveshikedthepct.com/images/014d04e8-f681-4642-a5b6-2b8e78d64400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/52f8fb15-5246-4052-7544-53a314d87300/public)
+![](https://cdn.jeeveshikedthepct.com/images/52f8fb15-5246-4052-7544-53a314d87300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/112a4d70-e21e-488f-efa3-1c107f450800/public)
+![](https://cdn.jeeveshikedthepct.com/images/112a4d70-e21e-488f-efa3-1c107f450800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d78107c8-dfeb-43d9-ca57-a54e77a18400/public)
+![](https://cdn.jeeveshikedthepct.com/images/d78107c8-dfeb-43d9-ca57-a54e77a18400.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1b950f9a-4f35-43b3-fd0d-17af05917700/public)
+![](https://cdn.jeeveshikedthepct.com/images/1b950f9a-4f35-43b3-fd0d-17af05917700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/81fb7efd-593b-4fb6-bb89-c42b1af84c00/public)
+![](https://cdn.jeeveshikedthepct.com/images/81fb7efd-593b-4fb6-bb89-c42b1af84c00.jpeg)
 
-![Grizzlies live here](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00/public)
+![Grizzlies live here](https://cdn.jeeveshikedthepct.com/images/844f9b88-dc5d-4d39-cf80-2b4ba81a7b00.jpeg)

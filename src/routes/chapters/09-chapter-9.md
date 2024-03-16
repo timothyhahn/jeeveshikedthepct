@@ -35,11 +35,11 @@ Lassen National Park had been heavily burned by the fires, and despite the flat 
 only by tepid and gross ponds for water. I did hear that Magma was just ahead, however, so I pushed on to try and catch
 up to her.
 
-![Picking up trees like massive asparagus](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35070aee-1041-4161-d5c6-f332fa837100/public)
+![Picking up trees like massive asparagus](https://cdn.jeeveshikedthepct.com/images/35070aee-1041-4161-d5c6-f332fa837100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c3333a06-caf2-4786-ee0c-4ef98ee48d00/public)
+![](https://cdn.jeeveshikedthepct.com/images/c3333a06-caf2-4786-ee0c-4ef98ee48d00.jpeg)
 
-![Entering Lassen National Park](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4e0f7b0a-8610-41e7-69f2-9c2fbf676800/public)
+![Entering Lassen National Park](https://cdn.jeeveshikedthepct.com/images/4e0f7b0a-8610-41e7-69f2-9c2fbf676800.jpeg)
 
 At Old Station, I hung out with Clementine and Abbey, who I hadn't seen in over 500 miles. I then tackled the intensely
 hot Hat Creek Rim, nearly succumbing to heat exhaustion due to an ill-advised attempt to wait out the worst of the day
@@ -49,9 +49,9 @@ town, which I desperately needed, but the infuriating spottiness of my cell serv
 Eventually, Hat Creek Rim came to an end, aided by the incredible water source "Cache 22". The evenings were difficult,
 however, as the muggy heat never dissipated.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/5bd2761e-6150-443c-371c-0d4d5637f400/public)
+![](https://cdn.jeeveshikedthepct.com/images/5bd2761e-6150-443c-371c-0d4d5637f400.jpeg)
 
-![Taking a break at Cache 22](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/480fb12c-c884-4ea3-b269-f4e04ce34c00/public)
+![Taking a break at Cache 22](https://cdn.jeeveshikedthepct.com/images/480fb12c-c884-4ea3-b269-f4e04ce34c00.jpeg)
 
 On my way into town, I came across Moo and finally met Danger Noodle. A few miles past that, I was reunited with Magma
 and we got a hitch together into Burney, where I convinced her to hang out in town, especially with a record heat wave
@@ -88,13 +88,13 @@ In Mt Shasta, I found Floss and Magma and invited them to stay with Moo and I. M
 the day I first met Pitstop, and the six of us crammed into the same hotel room, doing our best to make the best of the
 situation.
 
-![My first view of Mt Shasta](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/91abc1a3-6cd1-44c8-fa68-6d8bbd234c00/public)
+![My first view of Mt Shasta](https://cdn.jeeveshikedthepct.com/images/91abc1a3-6cd1-44c8-fa68-6d8bbd234c00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0e58a7e1-4c45-4d47-07b1-f627bb156b00/public)
+![](https://cdn.jeeveshikedthepct.com/images/0e58a7e1-4c45-4d47-07b1-f627bb156b00.jpeg)
 
-![Castle Crags](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a1442671-dd61-4d50-07a7-483ac9846100/public)
+![Castle Crags](https://cdn.jeeveshikedthepct.com/images/a1442671-dd61-4d50-07a7-483ac9846100.jpeg)
 
-![Floss, Jeeves, Shapes, Magma, and Moo at dinner](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1548b9b1-8d55-42cd-900d-ad9e82cb4600/public)
+![Floss, Jeeves, Shapes, Magma, and Moo at dinner](https://cdn.jeeveshikedthepct.com/images/1548b9b1-8d55-42cd-900d-ad9e82cb4600.jpeg)
 
 While I offered to go and do the group's laundry, I contacted Little Hamster. She had decided to quit the trail back in
 Idyllwild, but later rejoined for parts of it. Her leg injuries, however, eventually took her out. Despite that, she was

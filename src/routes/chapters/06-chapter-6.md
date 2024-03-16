@@ -24,15 +24,15 @@ Despite a few close calls, the storm eventually passed and a group of hikers who
 shelters to enjoy the beauty of the lakes. This enjoyment was quick, however, as the mosquitoes came out in force and
 the sun started to set. We hid in our tents and attempted to dry off.
 
-![Leaving Bishop behind Cool Rocks](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d47a6cf6-5cfc-4e19-ac8c-aa128da2ca00/public)
+![Leaving Bishop behind Cool Rocks](https://cdn.jeeveshikedthepct.com/images/d47a6cf6-5cfc-4e19-ac8c-aa128da2ca00.jpeg)
 
-![Cool Rocks in all her elegance](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b6a1eaae-f9d0-4e0b-cf94-426a8a829700/public)
+![Cool Rocks in all her elegance](https://cdn.jeeveshikedthepct.com/images/b6a1eaae-f9d0-4e0b-cf94-426a8a829700.jpeg)
 
-![Descending to Rae Lake](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/05cdf13f-1c9a-4004-567c-5860fc505400/public)
+![Descending to Rae Lake](https://cdn.jeeveshikedthepct.com/images/05cdf13f-1c9a-4004-567c-5860fc505400.jpeg)
 
-![Trying to stay dry](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/123e946c-b254-4872-f76f-1ebdeb798100/public)
+![Trying to stay dry](https://cdn.jeeveshikedthepct.com/images/123e946c-b254-4872-f76f-1ebdeb798100.jpeg)
 
-![Calm after the storm](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7e912da5-895b-4b93-662f-a59472bdf100/public)
+![Calm after the storm](https://cdn.jeeveshikedthepct.com/images/7e912da5-895b-4b93-662f-a59472bdf100.jpeg)
 
 Pinchot Pass was only 14 miles away, but the mosquitoes and creek crossings slowed us down. We carefully climbed towards
 treeline and were optimistic until dark clouds once again appeared on the horizon around 1 PM. Unsure if we would make
@@ -44,13 +44,13 @@ decided the coast was clear, packed up, and continued the climb up. Not ten minu
 thunder, and ten minutes after that we were caught in a downpour, with heavy thunder. Cool Rocks and I hunkered down for
 the evening and decided to make up the miles over the next few days.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/48c6b59d-0cf5-4d85-c1ab-f60b19e78300/public)
+![](https://cdn.jeeveshikedthepct.com/images/48c6b59d-0cf5-4d85-c1ab-f60b19e78300.jpeg)
 
-![What a great morning](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f9311095-290c-494a-f089-0a2ea74cd200/public)
+![What a great morning](https://cdn.jeeveshikedthepct.com/images/f9311095-290c-494a-f089-0a2ea74cd200.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/115b93f7-367c-4c75-9905-f39374d8ad00/public)
+![](https://cdn.jeeveshikedthepct.com/images/115b93f7-367c-4c75-9905-f39374d8ad00.jpeg)
 
-![Water crossings](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4a058477-4a7f-4447-4ca7-571752656800/public)
+![Water crossings](https://cdn.jeeveshikedthepct.com/images/4a058477-4a7f-4447-4ca7-571752656800.jpeg)
 
 We cleared Pinchot early the next morning and met Aquawoman. Tackling the pass early also meant we could press on
 towards Mather Pass. Before too long, Cool Rocks and I found ourselves caught up to a crowd climbing Mather. Mather was
@@ -67,27 +67,27 @@ while the others fished nearby. When I awoke, it was dinner time and we all set 
 fewer mosquitoes. As the night grew dark, Cool Rocks and I decided to take a picture at Palisades Lake, looking back
 towards the pass.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/2c779679-ac42-432d-6c13-c86702a73800/public)
+![](https://cdn.jeeveshikedthepct.com/images/2c779679-ac42-432d-6c13-c86702a73800.jpeg)
 
-![Jeeves after mile 800](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/f14dc60c-00d2-4900-ae87-bcc45611c800/public)
+![Jeeves after mile 800](https://cdn.jeeveshikedthepct.com/images/f14dc60c-00d2-4900-ae87-bcc45611c800.jpeg)
 
-![Cool Rocks crossing](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/61dfab05-b7f1-46c0-ee62-ccdcaa1b5c00/public)
+![Cool Rocks crossing](https://cdn.jeeveshikedthepct.com/images/61dfab05-b7f1-46c0-ee62-ccdcaa1b5c00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/315bbf37-be07-41d5-770f-4c803fca0700/public)
+![](https://cdn.jeeveshikedthepct.com/images/315bbf37-be07-41d5-770f-4c803fca0700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/fcdf1271-19b9-4cbb-2c97-3459a7469300/public)
+![](https://cdn.jeeveshikedthepct.com/images/fcdf1271-19b9-4cbb-2c97-3459a7469300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8240ba0a-ccdd-4836-691a-8898d979a600/public)
+![](https://cdn.jeeveshikedthepct.com/images/8240ba0a-ccdd-4836-691a-8898d979a600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/36a69d4b-3848-47dc-383c-7aec83d6f900/public)
+![](https://cdn.jeeveshikedthepct.com/images/36a69d4b-3848-47dc-383c-7aec83d6f900.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4e9fb7b0-6425-4e2a-a0f4-fdf9b6bbd800/public)
+![](https://cdn.jeeveshikedthepct.com/images/4e9fb7b0-6425-4e2a-a0f4-fdf9b6bbd800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e767387b-b90b-4adf-ca92-b857100c9a00/public)
+![](https://cdn.jeeveshikedthepct.com/images/e767387b-b90b-4adf-ca92-b857100c9a00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/08d1c80e-33b1-4a1b-d6a1-4747809f7a00/public)
+![](https://cdn.jeeveshikedthepct.com/images/08d1c80e-33b1-4a1b-d6a1-4747809f7a00.jpeg)
 
-![Milky Way over Palisades Lakes](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4a9c6a0c-cf5e-480b-1256-9d46d2b07800/public)
+![Milky Way over Palisades Lakes](https://cdn.jeeveshikedthepct.com/images/4a9c6a0c-cf5e-480b-1256-9d46d2b07800.jpeg)
 
 The next morning I felt better and we climbed down the Golden Staircase to the King River. As we started our climb to
 Muir Pass, we decided to chance the freezing water to swim in the river for a little bit. The rest of the climb to Muir
@@ -101,19 +101,19 @@ Bandit, were always around me, so I felt relatively safe, if deeply fatigued.
 On top of Muir Pass, I crawled into one of the few huts on the entire trail, and we all caught our breaths, after an
 incredibly tiring day.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8329d3d2-c96c-4f9d-f5ab-89b3c8279700/public)
+![](https://cdn.jeeveshikedthepct.com/images/8329d3d2-c96c-4f9d-f5ab-89b3c8279700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/35fb0430-00ed-45f6-3a64-a822f1bea700/public)
+![](https://cdn.jeeveshikedthepct.com/images/35fb0430-00ed-45f6-3a64-a822f1bea700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7abfbc64-0292-42cb-a711-3921c17a8300/public)
+![](https://cdn.jeeveshikedthepct.com/images/7abfbc64-0292-42cb-a711-3921c17a8300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6862b20e-e29d-4ddf-ba82-9392c7c1d000/public)
+![](https://cdn.jeeveshikedthepct.com/images/6862b20e-e29d-4ddf-ba82-9392c7c1d000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/d9b5440e-fe75-4c0f-bfa3-23fda17de600/public)
+![](https://cdn.jeeveshikedthepct.com/images/d9b5440e-fe75-4c0f-bfa3-23fda17de600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/73b68318-6d50-44f8-a9df-103a78f8b200/public)
+![](https://cdn.jeeveshikedthepct.com/images/73b68318-6d50-44f8-a9df-103a78f8b200.jpeg)
 
-![Climb up to Muir Pass](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/476227f4-5185-4005-6884-0440552baa00/public)
+![Climb up to Muir Pass](https://cdn.jeeveshikedthepct.com/images/476227f4-5185-4005-6884-0440552baa00.jpeg)
 
 The next day we walked through the Evolution Basin and wanted to take our time, but instead suffered through intense
 mosquitoes. We were joined by Guppy who borrowed some of my bug spray. Shortly after, we also had our only real water
@@ -127,15 +127,15 @@ Cool Rocks and I tackled one last climb for the day and passed through a ferocio
 As we set up camp just past the mosquitoes, Bandit appeared from the trees where the mosquitoes were clustered. With a
 shell-shocked look on her face, she asked us simply "what the fuck was that?".
 
-![Entering Evolution Basin](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e3fd7abe-4e99-406e-129f-660f5fc4e700/public)
+![Entering Evolution Basin](https://cdn.jeeveshikedthepct.com/images/e3fd7abe-4e99-406e-129f-660f5fc4e700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/802be386-04ee-4321-340a-d3adcc188d00/public)
+![](https://cdn.jeeveshikedthepct.com/images/802be386-04ee-4321-340a-d3adcc188d00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/082c75b7-f96c-4f97-4961-4bc32754bd00/public)
+![](https://cdn.jeeveshikedthepct.com/images/082c75b7-f96c-4f97-4961-4bc32754bd00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c7a72a35-519b-419f-a4c8-0e1111ec5c00/public)
+![](https://cdn.jeeveshikedthepct.com/images/c7a72a35-519b-419f-a4c8-0e1111ec5c00.jpeg)
 
-![Looking down from Selden Pass](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/bb5b6ce7-a486-4661-8dfd-9eebec4da200/public)
+![Looking down from Selden Pass](https://cdn.jeeveshikedthepct.com/images/bb5b6ce7-a486-4661-8dfd-9eebec4da200.jpeg)
 
 The next day was the evening before Cool Rocks' birthday, so we took a dip in Heart Lake just below Selden Pass.
 Back at the top of the pass we met Fish and Brumby. The pair decided to try to make it to the shuttle to Vermillion
@@ -163,14 +163,14 @@ As the birthday celebration raged on around me, however, I began to worry about 
 were having their own struggles and challenges. Despite how much I enjoyed hiking with Cool Rocks, I missed my trail
 family and decided that, due to them planning to take a side adventure to Yosemite, I could catch up to them.
 
-![Foxy, Cool Rocks, and Trippy](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/6508fbb4-5563-4616-6c13-0983c6402600/public)
+![Foxy, Cool Rocks, and Trippy](https://cdn.jeeveshikedthepct.com/images/6508fbb4-5563-4616-6c13-0983c6402600.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cbd664b5-94b9-4c40-3dab-153940af4f00/public)
+![](https://cdn.jeeveshikedthepct.com/images/cbd664b5-94b9-4c40-3dab-153940af4f00.jpeg)
 
-![Fish and Brumby](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/7a78ffba-4952-4366-16fa-e65c80ac5100/public)
+![Fish and Brumby](https://cdn.jeeveshikedthepct.com/images/7a78ffba-4952-4366-16fa-e65c80ac5100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/57aaef87-724a-47b9-fc40-5177c64a8500/public)
+![](https://cdn.jeeveshikedthepct.com/images/57aaef87-724a-47b9-fc40-5177c64a8500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b52f1803-428a-469a-5d28-8b7dc03de100/public)
+![](https://cdn.jeeveshikedthepct.com/images/b52f1803-428a-469a-5d28-8b7dc03de100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/83fb2fbc-2634-434a-3f02-bdf65c0b2100/public)
+![](https://cdn.jeeveshikedthepct.com/images/83fb2fbc-2634-434a-3f02-bdf65c0b2100.jpeg)

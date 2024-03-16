@@ -25,17 +25,17 @@ As I was too proud to ask them to slow down for me, I said nothing about my plan
 that I'd need to be pushing a bit over 30 miles a day to catch them before Sonora Pass. I arrived at Purple Lake as the
 sun began to set, and Elleen and I caught up before exhaustion sent us to our tents.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e4b5503d-7f8a-4968-4aea-7e4f69d82900/public)
+![](https://cdn.jeeveshikedthepct.com/images/e4b5503d-7f8a-4968-4aea-7e4f69d82900.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/aef1e0dd-2617-4a1f-93f7-cfd04fe79500/public)
+![](https://cdn.jeeveshikedthepct.com/images/aef1e0dd-2617-4a1f-93f7-cfd04fe79500.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ad8883d5-a2aa-408d-5614-76458fc44800/public)
+![](https://cdn.jeeveshikedthepct.com/images/ad8883d5-a2aa-408d-5614-76458fc44800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a678c9cc-ed80-408b-a0d8-52d5fb39b700/public)
+![](https://cdn.jeeveshikedthepct.com/images/a678c9cc-ed80-408b-a0d8-52d5fb39b700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/8e1eb6f3-7f47-4d56-55e5-5a48c9455800/public)
+![](https://cdn.jeeveshikedthepct.com/images/8e1eb6f3-7f47-4d56-55e5-5a48c9455800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/9db27b5f-aaf8-49c6-082d-420cd7b13100/public)
+![](https://cdn.jeeveshikedthepct.com/images/9db27b5f-aaf8-49c6-082d-420cd7b13100.jpeg)
 
 The next morning's sunrise found me racing down towards Red's Meadow, my knees pounding. Many hikers get off at Red's
 Meadow to resupply at the ski town of Mammoth, but as I had resupplied the day before at VVR, I packed out extra
@@ -66,13 +66,13 @@ around Tuolumne Meadows, I needed to push myself once again to make my miles. Ju
 spotted a small path leading up to a ledge. On the ledge was a perfect little campsite and I crashed into just my
 sleeping pad and bag, grateful to be in bed before it got fully dark.
 
-![Thousand Island Lakes](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/08329cdc-d980-411e-ffda-96ca07cb1700/public)
+![Thousand Island Lakes](https://cdn.jeeveshikedthepct.com/images/08329cdc-d980-411e-ffda-96ca07cb1700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/cf54dbc4-7390-4934-6651-494f959bd100/public)
+![](https://cdn.jeeveshikedthepct.com/images/cf54dbc4-7390-4934-6651-494f959bd100.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/12bb0c91-3a19-41e4-948e-71093e3e2800/public)
+![](https://cdn.jeeveshikedthepct.com/images/12bb0c91-3a19-41e4-948e-71093e3e2800.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/0c9d6c2d-94ea-4090-8c7e-7e2036e57e00/public)
+![](https://cdn.jeeveshikedthepct.com/images/0c9d6c2d-94ea-4090-8c7e-7e2036e57e00.jpeg)
 
 The next day started optimistic, but reality started to catch up to me as a few climbs later I was finding my pace slow
 dramatically. I took one of the first breaks I took on this stretch of trail and a hiker I had briefly met back at
@@ -95,17 +95,17 @@ Just past Dorothy Pass was the 1,000-mile marker on the PCT. I wanted to celebra
 had come back in fury, so I instead focused on making it to Sonora Pass. Looking behind me I could see Yosemite, and
 behind that the High Sierras. Looking forward, I could see the reddish mountains of Northern California.
 
-![Dorothy Lake](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/a2342589-d550-40c1-1bb6-5b390e503000/public)
+![Dorothy Lake](https://cdn.jeeveshikedthepct.com/images/a2342589-d550-40c1-1bb6-5b390e503000.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/91c24517-9044-4afc-5093-adf8c4c0fd00/public)
+![](https://cdn.jeeveshikedthepct.com/images/91c24517-9044-4afc-5093-adf8c4c0fd00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/4f54db8c-6716-48cf-9ef6-36dee75edd00/public)
+![](https://cdn.jeeveshikedthepct.com/images/4f54db8c-6716-48cf-9ef6-36dee75edd00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1b9640b4-4ae6-4a83-2564-7c08f2220700/public)
+![](https://cdn.jeeveshikedthepct.com/images/1b9640b4-4ae6-4a83-2564-7c08f2220700.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/b8440a02-0497-4263-4edd-434e37b17300/public)
+![](https://cdn.jeeveshikedthepct.com/images/b8440a02-0497-4263-4edd-434e37b17300.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/c78ec42c-8742-4b65-0955-72f9422cee00/public)
+![](https://cdn.jeeveshikedthepct.com/images/c78ec42c-8742-4b65-0955-72f9422cee00.jpeg)
 
 The approach to Sonora was treacherous, covered by snow on slim ledges, but the thought of catching up to my trail
 family pushed me forward. At Sonora Pass, I was lucky enough to get a quick hitch to Kennedy Meadows North, where I was
@@ -137,12 +137,12 @@ this section announced their intentions to quit once they reached South Lake Tah
 Eventually, however, I made it to Highway 50 and a minivan dropped me off at the hostel my trail family was staying at.
 The reunion was happy, but brief, as we swapped plans and realized we'd be splitting up once again.
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e89b8e62-be3f-4f45-f4c6-9c6532422b00/public)
+![](https://cdn.jeeveshikedthepct.com/images/e89b8e62-be3f-4f45-f4c6-9c6532422b00.jpeg)
 
-![](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/ce133f16-c37a-499d-c7c7-ed1467c0f500/public)
+![](https://cdn.jeeveshikedthepct.com/images/ce133f16-c37a-499d-c7c7-ed1467c0f500.jpeg)
 
-![Looking back at the Sierras one last time](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/1f1ee4f3-7e95-4eb6-f888-a351e409c600/public)
+![Looking back at the Sierras one last time](https://cdn.jeeveshikedthepct.com/images/1f1ee4f3-7e95-4eb6-f888-a351e409c600.jpeg)
 
-![Entering Northern California](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/79adec3d-8da2-4784-7a50-bb4e63172900/public)
+![Entering Northern California](https://cdn.jeeveshikedthepct.com/images/79adec3d-8da2-4784-7a50-bb4e63172900.jpeg)
 
-![Lake Tahoe is behind those mountains.](https://imagedelivery.net/dYSa6ZWs-G98WVtkaZGBFQ/e012aee3-894b-4f08-7836-1261eba95000/public)
+![Lake Tahoe is behind those mountains.](https://cdn.jeeveshikedthepct.com/images/e012aee3-894b-4f08-7836-1261eba95000.jpeg)

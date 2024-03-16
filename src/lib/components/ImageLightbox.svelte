@@ -54,7 +54,9 @@
 		};
 	});
 	$: image = images?.[selectedIndex];
-	$: largeImageUri = `${image?.imageUri.replace('/public', '')}/large`;
+	$: largeImageUri = `${image?.imageUri.replace('.jpeg', '-large.jpeg')}`;
+	$: largeImageAvif = `${largeImageUri?.replace('.jpeg', '.avif')}`;
+	$: largeImageWebp = `${largeImageUri?.replace('.jpeg', '.webp')}`;
 
 	$: if (image && modalImage) {
 		if (modalImage.complete) {
@@ -143,13 +145,18 @@
 			{/if}
 			<div class="mt-3 h-[85%] flex-grow">
 				{#key selectedIndex}
-					<img
-						bind:this={modalImage}
-						id={image.imageUri}
-						class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
-						src={largeImageUri}
-						alt={image.caption}
-					/>
+					<picture>
+						<source srcset={largeImageAvif} type="image/avif" />
+						<source srcset={largeImageWebp} type="image/webp" />
+						<source srcset={largeImageUri} type="image/jpeg" />
+						 <img
+							 	bind:this={modalImage}
+								id={image.imageUri}
+								class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
+								src={largeImageUri}
+								alt={image.caption}
+						 />
+					</picture>
 				{/key}
 
 				{#if loading}
