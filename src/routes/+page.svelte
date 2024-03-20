@@ -131,13 +131,13 @@
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
 			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct.pdf">PDF</a
 		>
-	</li>
+	</li> -->
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
 			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct-without-images.pdf">PDF (w/o images)</a
 		>
-	</li> -->
+	</li>
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
