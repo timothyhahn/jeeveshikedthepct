@@ -14,7 +14,7 @@ briefly, but I had a goal in mind and bid goodbye.
 
 My friend Elleen, who had helped me out so much early on the trail, was doing the John Muir Trail southbound. As the PCT
 and JMT intersected for significant portions, I knew that if I made it 20 miles that day, despite not starting until
-around 11 AM that day, I could reach Purple Lake, where we should be able to meet up.
+around 11 AM that day, I could reach Purple Lake, where we should be able to meet up before dark.
 
 Goodale Pass was short, but surprisingly steep, and on the descent I slipped a few times before reminding myself to be
 careful as I was now on my own. As I pushed myself hard to make up the miles to Purple Lake, almost running on some
@@ -39,7 +39,7 @@ set, and Elleen and I caught up before exhaustion sent us to our tents.
 
 The next morning's sunrise found me racing down towards Red's Meadow, my knees pounding. Many hikers get off at Red's
 Meadow to resupply at the ski town of Mammoth, but as I had resupplied the day before at VVR, I packed out extra burgers
-and only gave myself a little of time to catch my breath.
+and only gave myself an hour to catch my breath.
 
 I threaded my way through the crowds who were visiting Devil's Postpile, and the dusty trail clung to me, filling my
 nostrils. On the long climb up to Thousand Island Lake, I passed by Bandit and her group. I was also briefly joined by
