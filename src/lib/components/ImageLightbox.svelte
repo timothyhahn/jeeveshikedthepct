@@ -143,7 +143,7 @@
 					}}>&#62;</button
 				>
 			{/if}
-			<div class="mt-3 h-[85%] flex-grow">
+			<div class="mt-3 h-[85%] flex-grow flex justify-center">
 				{#key selectedIndex}
 					<picture>
 						<source srcset={largeImageAvif} type="image/avif" />
@@ -152,7 +152,7 @@
 						<img
 							bind:this={modalImage}
 							id={image.imageUri}
-							class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
+							class="mx-auto my-auto max-h-[93%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
 							src={largeImageUri}
 							alt={image.caption}
 						/>
