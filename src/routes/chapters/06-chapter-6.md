@@ -92,10 +92,10 @@ pass.
 The next morning I felt better, and we climbed down the Golden Staircase to the King River. As we started our climb to
 Muir Pass, we chanced the freezing water to swim in the river for a bit. The rest of the climb to Muir Pass was long and
 strenuous, with both of us needing to stop for the occasional break. About 4 miles from the top, near mid-afternoon, we
-reached a beautiful meadow and felt tempted to stop, but we decided to send it.
+reached a beautiful meadow and felt tempted to stop, but we instead decidedto send it.
 
 Snow completely covered the final mile to the top, making it hard to find the trail. Several times I post-holed through
-snow to nearly fall into the river below. Thankfully, another group of hikers, including one named Bandit, were always
+snow to nearly fall into the icy river below. Thankfully, another group of hikers, including one named Bandit, was always
 around me, so I felt relatively safe, if deeply fatigued.
 
 On top of Muir Pass, I crawled into one of the few huts on the entire trail, and we all caught our breaths after an
