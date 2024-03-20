@@ -130,8 +130,7 @@ the local car rental and borrowed a car. I then found hikers in Bishop, who need
 hiker was Misplaced, who I hadn't seen since the early days of the PCT.
 
 For the next few days, we rested in Bishop while I drove multiple groups of hikers between Onion Valley and Bishop. The
-crowning achievement was when I was able to surprise Cool Rocks at the trailhead and take her into town. I also ran into
-Sweet Cakes, who I hadn't seen since Julian.
+crowning achievement was when I was able to surprise Cool Rocks at the trailhead and take her into town.
 
 This gave us time to talk, and we agreed to hike the next section together. My trail family wanted to leave Bishop
 almost right away, but I needed some time to recuperate. I also wanted to take the next part of the Sierras slowly,
