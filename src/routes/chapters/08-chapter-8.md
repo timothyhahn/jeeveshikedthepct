@@ -112,7 +112,7 @@ Butters and Aquawoman.
 
 In Quincy, I was briefly reunited with Yeezus, who helped me bring my groceries back to my hotel. I rested an extra day,
 and on my way out I saw Cooking Mama. He had temporarily been joined by his girlfriend and Magma had temporarily been
-joined by her father, so they weren't hiking together at the moment, but planned to reunite later down the trail..
+joined by her father, so they weren't hiking together at the moment, but planned to reunite later down the trail.
 
 ![Endless scree](https://cdn.jeeveshikedthepct.com/images/0c01523e-594f-46ce-fcb8-8441876c7f00.jpeg)
 
