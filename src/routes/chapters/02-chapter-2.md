@@ -8,19 +8,20 @@ import Images from '$lib/components/Images.svelte';
 </script>
 
 Idyllwild gave us our first zero, a day hiking zero miles, where we met the mayor - a gorgeous dog named Max. He has
-unfortunately since passed, may he rest in peace. On our way out, a man spotted us as he drove to the dump and once he
-was done, came back to drive us about an hour out of his way back to the trailhead we got off at.
+unfortunately since passed; may he rest in peace.
+
+On our way out, a man spotted us as he drove to the dump and apologized that he was busy. Once he was done, however, he
+came back to drive us about an hour out of his way back to the trailhead we got off at.
 
 ![Ant Man, AKA, Mayor Max, Willow, Giggles, Little Hamster, Jeeves, and Black Widow](https://cdn.jeeveshikedthepct.com/images/156282a0-ccd7-4625-323a-737d33d89800.jpeg)
 
 We climbed up towards the peak of San Jacinto as blowdowns hindered our every movement. Water, which was already tough
 to come by in the desert, had the unfortunate property of being near the bottom of the mountain. This meant that each
-time we needed to resupply on water, we scrambled down steep side trails to reach it, necessitating an onerous return
-trip.
+time we needed to resupply on water, we scrambled down steep side trails to reach it, causing an onerous return trip.
 
 This Sisyphean task took us to the top of San Jacinto, where we met some tourists from Palm Springs who rode the tram
-up. On the other side, the rapid descent back to the desert floor punished my knees, but we were also treated to incredible
-food and drinks from a large Filipino family who happened to me camping near the trail.
+up. On the other side, the rapid descent back to the desert floor punished my knees, but we also received incredible
+food and drinks from a large Filipino family who was camping near the trail.
 
 ![Starting the climb up San Jacinto](https://cdn.jeeveshikedthepct.com/images/81368ced-520e-48c1-07a8-6952728d6800.jpeg)
 
@@ -43,9 +44,9 @@ food and drinks from a large Filipino family who happened to me camping near the
 ![A magical Filipino family who gave us all the food and drinks we could take](https://cdn.jeeveshikedthepct.com/images/fde7e2df-ac18-4de7-3eec-b64bd4b26400.jpeg)
 
 The hike from the base of San Jacinto to the I-10 underpass was short, but brutal, with incessant heat and unending
-winds aiding the slog through sand in sapping our strength. Once we reached the underpass, we stretched out and slept
-until Elleen and her mother drove from LA with groceries and food for the next leg of our journey. As the sun started to
-set, we made our way to the Mesa Wind Farm under the flower moon.
+winds hampering the slog through sand in sapping our strength. Once we reached the underpass, we stretched out and slept
+until Elleen and her mother drove from LA with groceries and food for the next leg of our journey. As the sun set, we
+made our way to the Mesa Wind Farm under the flower moon.
 
 ![Overlooking Cabazon and the I-10 underpass, Ant Man snapping a pic](https://cdn.jeeveshikedthepct.com/images/e5fa1f30-181d-4b25-9a43-70d6adf8d400.jpeg)
 
@@ -69,15 +70,15 @@ set, we made our way to the Mesa Wind Farm under the flower moon.
 
 Briefly, we hung out at Whitewater Preserve, a paradise in the otherwise bone dry desert and met Rich and Ben, two
 Englishmen who were also hiking the trail. At Mission Creek, we attempted to get through the worst of it during the heat
-of the day. I found myself straying from the group and letting them know that I would wait it out until it got dark to
-catch up to them. This had me route finding through a narrow and confusing canyon in near pitch black conditions, which
-ended up worrying everyone.
+of the day. I diverged from the group and let them know I would wait it out until it got dark to catch up to them. This
+had me route finding through a narrow and confusing canyon in near pitch black conditions, which ended up worrying
+everyone.
 
-The evening before we reached Big Bear, I was once again behind my group as the sun began to set. Out of the corner of
-my eye, I saw a figure flash quickly down the trail, about to overtake me. As I stepped to the side to let them pass, I
-realized it was [Jupiter, a Youtuber whose videos](https://www.youtube.com/@JupiterHikes) I had thoroughly enjoyed over
-the years. We chatted for a while before he raced ahead. When I caught up to my trail family, who had set up camp right
-outside a private zoo, they let me know he had mentioned our encounter and that I was about to catch up.
+The evening before we reached Big Bear, I was once again behind my group as the sun set. Out of the corner of my eye, I
+saw a figure flash quickly down the trail, about to overtake me. As I stepped to the side to let them pass, I realized
+it was Jupiter, a Youtuber whose videos I had thoroughly enjoyed over the years. We chatted for a while before he raced
+ahead. When I caught up to my trail family, who had set up camp right outside a private zoo, they let me know he had
+mentioned our encounter and that I was about to catch up.
 
 ![](https://cdn.jeeveshikedthepct.com/images/04191f6c-56b0-4840-fb34-0fbc3f2deb00.jpeg)
 
@@ -104,7 +105,7 @@ I accepted Elleen's offer to bring me a stove and food that I could more reliabl
 still causing me major stomach pains and fatigue.
 
 We took another zero in Big Bear Lake, with some fantastic bagel sandwiches, before heading westwards towards San
-Bernadino National Forest. Our first night out had us camping with a clear view of the upcoming valleys.
+Bernardino National Forest. Our first night out had us camping with a clear view of the upcoming valleys.
 
 ![Giggles, Ant Man, and Willow heading towards San Bernadino](https://cdn.jeeveshikedthepct.com/images/b961a80c-203f-4101-35b7-9ea547295c00.jpeg)
 
@@ -123,21 +124,20 @@ Bernadino National Forest. Our first night out had us camping with a clear view 
 ![Eager to get to Deep Creek hot springs](https://cdn.jeeveshikedthepct.com/images/725d4405-267f-4787-6ae9-41a63c839200.jpeg)
 
 The trail followed Holcomb and Deep Creeks, giving us our first taste of truly reliable water. This was very much a
-luxury I did not take for granted. We also crossed many high clearance dirt roads and were unfortunately packed with
-trash.
+luxury I did not take for granted. We crossed many high clearance dirt roads that were unfortunately packed with trash.
 
-This trend continued with an early wakeup to reach Deep Creek hot springs, which was right on trail, but unfortunately
-had quite a few illegal campsites and trash strewn everywhere. We did our best to enjoy it and our spirits were buoyed
-by some nudists who came with trash bags and spent most of the morning cleaning up, as their cars were only a few
-miles away.
+This trend continued with an early wake up to reach Deep Creek hot springs, which was right on the trail, but
+unfortunately had quite a few illegal campsites and trash strewn everywhere. We did our best to enjoy it and some
+nudists buoyed our spirits by coming with trash bags and spending most of the morning cleaning up, as their cars were
+only a few miles away.
 
 ![Recovering in Deep Creek hot springs with Dylan, Ant Man, Black Widow, Jeeves, Giggles, AKA, and Willow](https://cdn.jeeveshikedthepct.com/images/ffecce36-15dc-4ca1-58dd-117a68447000.jpeg)
 
 A few miles into the day, we received ice cold beverages, fruits, and medical supplies from Corgi Legs, who set up at a
-road crossing, and met Floss. A bit after that, our group had our first argument, as our camping plans were complicated
-by a camping ban around Silverwood Lake in a few miles. We either would need to go well short of our mileage goals
-for the day, or well past. With the heat of the day pounding on everyone's nerves, we eventually agreed to find a
-campsite just before the camping ban boundary.
+road crossing, and met Floss. A bit after that, our group had our first argument, as a camping ban around Silverwood
+Lake complicated our camping plans in a few miles. We either would need to go well short of our mileage goals for the
+day, or well past. With the heat of the day pounding on everyone's nerves, we eventually agreed to find a campsite just
+before the camping ban boundary.
 
 ![Continuing to follow Deep Creek](https://cdn.jeeveshikedthepct.com/images/dd9f32ee-10d0-4ad5-9b6d-a7b475f5f600.jpeg)
 
@@ -164,9 +164,9 @@ Cajon Pass, we had our fill at the under renovation McDonald's and spent the nig
 steepest climb of the desert to the mountains overlooking Wrightwood.
 
 Despite carrying 7 liters of water, I found myself running out of water alarmingly fast. There was also no reliable
-water for this entire section, and worry started to set in. Thankfully, an overlanding vehicle offered us each a bottle
-of water and a few miles past that we found a water cache that likely should not have been there, but we were
-excessively thankful for.
+water for this entire section, and worry set in. Thankfully, an overlanding vehicle offered us each a bottle of water
+and a few miles past that we found a water cache that likely should not have been there, but we were excessively
+thankful for.
 
 After a day that dragged on, we reached the top of the climb as the sun began to set and the temperature finally started
 to cool. Below us, the lights of Wrightwood twinkled and I made the decision to not spend the following night in town,

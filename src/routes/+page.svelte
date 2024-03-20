@@ -37,7 +37,7 @@
 <p>A few quick notes before we start.</p>
 
 <p>
-	First, I’m going to do my best to keep my writing short. Normally, my writing style is quite
+	First, I'm going to do my best to keep my writing short. Normally, my writing style is quite
 	effusive, but I mostly wanted to share what was unique to my trip, as well as some photographs I
 	took along the way.
 </p>
@@ -50,7 +50,7 @@
 </p>
 
 <p>
-	If you’re interested in more detailed accounts of what the PCT is like, feel free to check out the
+	If you're interested in more detailed accounts of what the PCT is like, feel free to check out the
 	following, all of which inspired this hike:
 </p>
 
@@ -89,12 +89,12 @@
 </p>
 
 <p>
-	To save you from that, I’ve rewritten the entire experience from scratch. You may also assume from
+	To save you from that, I've rewritten the entire experience from scratch. You may also assume from
 	here on out that I woke up early, unless otherwise noted.
 </p>
 
 <p>
-	Finally, I will be using everyone’s “trail names”, where applicable. Trail names are a long
+	Finally, I will be using everyone's “trail names”, where applicable. Trail names are a long
 	distance hiking tradition, where instead of sharing our real names, we give each other nicknames
 	based on some attribute or anecdote from the trail.
 </p>
@@ -116,7 +116,8 @@
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
-			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct-without-images.epub">ePub (w/o images)</a
+			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct-without-images.epub"
+			>ePub (w/o images)</a
 		>
 	</li>
 	<!--<li class="ml-12">
@@ -125,7 +126,7 @@
 	<li class="ml-12">
 		<a class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline" href="/jeeves-hiked-the-pct-without-images.mobi">ePub (w/o mobi)</a>
 	</li>-->
-	<li class="ml-12">
+	<!--<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
 			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct.pdf">PDF</a
@@ -136,7 +137,7 @@
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
 			href="https://cdn.jeeveshikedthepct.com/jeeves-hiked-the-pct-without-images.pdf">PDF (w/o images)</a
 		>
-	</li>
+	</li> -->
 	<li class="ml-12">
 		<a
 			class="text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"

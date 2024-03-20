@@ -21,7 +21,8 @@
 			});
 		}
 	}
-	$: publicImageUri = mdSize > 300 ? image.imageUri.replace('.jpeg', '-medium.jpeg') : image.imageUri;
+	$: publicImageUri =
+		mdSize > 300 ? image.imageUri.replace('.jpeg', '-medium.jpeg') : image.imageUri;
 	$: publicImageAvif = publicImageUri.replace('.jpeg', '.avif');
 	$: publicImageWebp = publicImageUri.replace('.jpeg', '.webp');
 	$: largeImageUri = `${image.imageUri.replace('.jpeg', '-large.jpeg')}`;
@@ -63,8 +64,7 @@
 			/>
 		{/if}
 	</div>
-	<picture
-	>
+	<picture>
 		<source srcset={publicImageAvif} type="image/avif" />
 		<source srcset={publicImageWebp} type="image/webp" />
 		<source srcset={publicImageUri} type="image/jpeg" />

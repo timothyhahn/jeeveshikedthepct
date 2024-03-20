@@ -1,6 +1,10 @@
 import { fetchMarkdownPosts } from '$lib/utils';
+import { error } from '@sveltejs/kit';
 
 export async function load({ params }) {
+	if (params.slug === '00-introduction') {
+		error(404);
+	}
 	const chapter = await import(`../${params.slug}.md`);
 	const { title, part } = chapter.metadata;
 	const content = chapter.default;

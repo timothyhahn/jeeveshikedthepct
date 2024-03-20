@@ -149,13 +149,13 @@
 						<source srcset={largeImageAvif} type="image/avif" />
 						<source srcset={largeImageWebp} type="image/webp" />
 						<source srcset={largeImageUri} type="image/jpeg" />
-						 <img
-							 	bind:this={modalImage}
-								id={image.imageUri}
-								class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
-								src={largeImageUri}
-								alt={image.caption}
-						 />
+						<img
+							bind:this={modalImage}
+							id={image.imageUri}
+							class="mx-auto my-auto max-h-[99%] z-50 align-middle shadow-jeeves-900 shadow-xl rounded-md"
+							src={largeImageUri}
+							alt={image.caption}
+						/>
 					</picture>
 				{/key}
 
