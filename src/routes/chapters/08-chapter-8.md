@@ -32,7 +32,7 @@ northwards. Here, my mosquito protection failed me and I reached our first camps
 
 Leaving the Sierras, the views were still beautiful, but lacked the grandeur of the lofty peaks I had just spent the
 last few weeks hiking through. The trail led through meadows and out of season ski resorts, where we set up camp under
-some ski lifts..
+some ski lifts.
 
 ![](https://cdn.jeeveshikedthepct.com/images/de38ad66-fedc-4b7f-1807-5b29fc22ca00.jpeg)
 
