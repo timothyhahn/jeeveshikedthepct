@@ -141,7 +141,7 @@ A local gear outfitter, Two Foot Adventures, arranged rides for us back to Sciss
 group, I waited until the sun set to hike. I passed my group setting up camp a few miles later, but as the climb to
 Third Gate water cache was notably exposed, I hiked well past sunset, almost tripping over Dobby's campsite in the dark.
 As the wind picked up, my nerves got the best of me and I called my friend from work, Elleen. Eventually, I camped just
-before the water cache, which was immaculately maintained by local volunteers, including Ghost.\_
+before the water cache, which was immaculately maintained by local volunteers, including Ghost.
 
 ![Chilling underneath Scissor's Crossing](https://cdn.jeeveshikedthepct.com/images/46b70ae7-b6ad-455b-f8fd-2bc624c88f00.jpeg)
 
