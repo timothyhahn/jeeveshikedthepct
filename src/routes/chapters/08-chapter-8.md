@@ -159,7 +159,7 @@ once I heard them cackling to themselves.
 Just past the creek, I crossed the midpoint of the PCT and did my best to take a celebratory photograph at the halfway
 mark of my journey. I was still a little rattled by the camper at Soldier Creek, however, and my feet were killing me. I
 was also very nervous about where to camp that evening, as much of the remainder of the trail between here and Chester
-were off-limits for camping.
+was off-limits for camping.
 
 ![](https://cdn.jeeveshikedthepct.com/images/5a6dd4c5-4859-4b64-a58f-375a80491200.jpeg)
 
