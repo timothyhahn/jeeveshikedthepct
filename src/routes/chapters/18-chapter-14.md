@@ -76,7 +76,7 @@ lightning strikes sent me back down to the tree line. My map showed that the nex
 I hunkered down until the storm weakened.
 
 A hiker coming from the north spotted me and I waved back at him. I asked him if the next few miles were better
-sheltered than the trees I was in and he said that there was a brief mile long gap that was exposed, but everything
+sheltered than the trees I was in and he said that there was a brief mile-long gap that was exposed, but everything
 after that seemed much safer than where I was. I thanked him and continued, attempting to run past the exposed section
 as fast as possible. As I reached the end of that section, the storm came back with hail and lightning and I reached the
 "safer" section, only to realize that I was now in a burn, which was significantly less safe than where I was previously

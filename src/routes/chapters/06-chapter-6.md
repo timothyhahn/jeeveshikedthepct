@@ -92,7 +92,7 @@ pass.
 The next morning I felt better, and we climbed down the Golden Staircase to the King River. As we started our climb to
 Muir Pass, we chanced the freezing water to swim in the river for a bit. The rest of the climb to Muir Pass was long and
 strenuous, with both of us needing to stop for the occasional break. About 4 miles from the top, near mid-afternoon, we
-reached a beautiful meadow and felt tempted to stop, but we instead decidedto send it.
+reached a beautiful meadow and felt tempted to stop, but we instead decided to send it.
 
 Snow completely covered the final mile to the top, making it hard to find the trail. Several times I post-holed through
 snow to nearly fall into the icy river below. Thankfully, another group of hikers, including one named Bandit, was always
@@ -125,7 +125,7 @@ know to keep an eye out for Brumby, whom they missed.
 
 Cool Rocks and I tackled one last climb for the day and passed through a ferocious mosquito cloud as we did so. As we
 set up camp just past the mosquitoes, Bandit appeared from the trees where the mosquitoes were clustered. With a
-shell-shocked look on her face, she asked us simply, "what the fuck was that?".
+shell-shocked look on her face, she asked us simply, “what the fuck was that?”.
 
 ![Entering Evolution Basin](https://cdn.jeeveshikedthepct.com/images/e3fd7abe-4e99-406e-129f-660f5fc4e700.jpeg)
 

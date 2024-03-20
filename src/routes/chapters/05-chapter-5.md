@@ -127,7 +127,8 @@ I then shared with the rest of the group.
 The next morning we reached Onion Valley trailhead and were able to get a ride down to Independence, where I ran into
 Flamingo Kid once again, but struggled to get a ride down the highway to Bishop. Once we did, I immediately ran over to
 the local car rental and borrowed a car. I then found hikers in Bishop, who needed a ride back to Onion Valley. One such
-hiker was Misplaced, who I hadn't seen since the early days of the PCT.
+hiker was Misplaced, who I hadn't seen since the early days of the PCT. I also ran into Sweet Cakes, who I last saw in
+Julian.
 
 For the next few days, we rested in Bishop while I drove multiple groups of hikers between Onion Valley and Bishop. The
 crowning achievement was when I was able to surprise Cool Rocks at the trailhead and take her into town.

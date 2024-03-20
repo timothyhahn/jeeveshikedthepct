@@ -117,8 +117,8 @@ cooked food and treats, which we gratefully accepted.
 
 Kennedy Meadows, not much more than two competing general stores/restaurants surrounded by ranches, was an odd outpost.
 As it was the final resupply opportunity before entering the Sierras, however, it served as a chokepoint, and we
-reunited with many of the hikers we hadn't seen in weeks. While there was very little to do, we spent an extra day here
-to swap out gear to prepare for the rapid change in environment.
+reunited with many of the hikers we hadn't seen in weeks. I even mock fainted when I ran into Flamingo Kid again. While
+there was very little to do, we spent an extra day here to swap out gear to prepare for the rapid change in environment.
 
 Cool Rocks joined us the day after, and we all hung out briefly before our group once again headed out, this time with
 the addition of Lefty, who quickly fell into a trail romance with Willow at Kennedy Meadows. We carried out much heavier
