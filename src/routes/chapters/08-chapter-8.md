@@ -23,8 +23,8 @@ to hike through, leaving us at risk for several days.
 Willow and Lefty were undecided about what to do. Ant Man and Black Widow wanted to skip some of the worst parts of the
 burn. Giggles, however, wanted to do all of it. Surprisingly, I also wanted to.
 
-While Giggles and I didn't always see eye to eye, the trail family felt more comfortable about us hiking through the
-burns if we hiked together, so after grabbing dinner with a coworker, Giggles and I left South Lake Tahoe and entered
+The trail family felt more comfortable about us hiking through the
+burns if we hiked together, so after I grabbed dinner with a coworker, Giggles and I left South Lake Tahoe and entered
 the Desolation Wilderness.
 
 For a few dozen miles, we followed the Tahoe Rim Trail, along the shores of Aloha Lake and Lake Tahoe, before turning
