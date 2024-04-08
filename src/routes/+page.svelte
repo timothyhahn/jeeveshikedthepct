@@ -147,7 +147,7 @@
 </ul>
 
 <a
-	class="float-right mx-6 text-blue-700 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 hover:underline"
+	class="float-right mx-6 text-desert-800 hover:text-desert-900 dark:text-desert-100 dark:hover:text-desert-200 hover:underline"
 	href="/chapters/01-chapter-1">Start</a
 >
 <div class="clear-both" />

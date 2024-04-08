@@ -27,11 +27,11 @@ mother had sent him.
 ![Starting to climb on up](https://cdn.jeeveshikedthepct.com/images/5df33b79-1afd-472b-65bb-e40315c44300.jpeg)
 
 A strong 45 miles into the Sierra Nevada, we pushed up to 12k feet of elevation, where the group finally felt the
-elevation a bit. The temperature cooled dramatically, partially because of an incoming cold front.
+lack of oxygen. The temperature cooled dramatically, partially because of an incoming cold front.
 
 Here, however, we came across our first alpine lake: Chicken Springs Lake. The lake was freezing cold, but I still
-soaked my feet to help them reduce in size, as my foot size had grown a full size since starting. Ant Man and Giggles
-dove straight in.
+soaked my feet to help them reduce in size, as my foot size had grown a full size since starting. Ant Man and Giggles,
+being insane, dove straight in.
 
 The lake was beautiful, but unfortunately a bit trashed due to being a popular spot. Upon finding fecal remains hidden
 among the rocks, I quickly discarded my first campsite choice.
@@ -50,14 +50,14 @@ and while the exit to Bishop was only a few days away, we also wanted to add the
 highest point in the continental US.
 
 At the junction to Crabtree Meadow, we took the turn towards Mt Whitney and set up camp at the base. We originally
-planned to do the climb shortly after midnight to reach the peak at sunrise, but as the temperature plummeted quickly to
+planned to start the climb shortly after midnight to reach the peak at sunrise, but as the temperature plummeted quickly to
 20 degrees and multiple climbers of Mt Whitney the day before our ascent required medical assistance due to hypothermia,
 we thought better of our original plan.
 
-Instead, we woke to a frozen meadow and gingerly packed every extra layer of clothing and insulation we could as we
-began the steep climb up to the peak of Mt Whitney. Running out of food, I ate a single poptart and saved the rest of my
-food for the following days and used what little energy I could muster to trudge up Mt Whitney, desperate for the sun to
-come out.
+Instead, we woke to a frozen and dark meadow just before sunrise and gingerly packed every extra layer of clothing and
+insulation we could as we began the steep climb up to the peak of Mt Whitney. Running out of food, I ate a single 
+poptart and saved the rest of my food for the following days and used what little energy I could muster to trudge up Mt 
+Whitney, desperate for the sun to come out.
 
 On the way up, I met quite a few John Muir Trail hikers, as Mt Whitney is the southern terminus of that trail, and I did
 my best to keep a smile on my face as I congratulated them for being so close to the end. Past Guitar Lake, we climbed
@@ -88,11 +88,11 @@ get back down as the weather worsened.
 ![Made it to the top](https://cdn.jeeveshikedthepct.com/images/d7da3dc6-5b96-481f-a10f-cd7de7a37600.jpeg)
 
 Once I returned to Crabtree Meadow, I briefly reunited with Cool Rocks before I weakly attempted to continue to the PCT.
-I hiked a few miles on my own before setting up camp.
+I hiked a few miles on my own before setting up camp alone.
 
-The next day grew even colder, cold enough to kill Ant Man's phone, and we trudged on towards Forester Pass, the highest
-point directly on the PCT. The stunning views from the top rewarded us for the day, while I tried not to think about how
-I only had one more meal in my pack, with no other food.
+The next day grew even colder, cold enough to kill Ant Man's phone, and after I caught up to the group, we trudged on 
+towards Forester Pass, the highest point directly on the PCT. The stunning views from the top rewarded us for the day, 
+while I tried not to think about how I only had one more meal in my pack, with no other food.
 
 ![Gorgeous views in every direction](https://cdn.jeeveshikedthepct.com/images/3b814eb1-1cca-4018-9c60-3cf023f06a00.jpeg)
 
@@ -110,9 +110,9 @@ I only had one more meal in my pack, with no other food.
 
 ![Jeeves, Willow, Giggles, Black Widow, Ant Man, and some guy](https://cdn.jeeveshikedthepct.com/images/086c69f2-80d3-4ca8-89da-ca399fb45600.jpeg)
 
-After a quick descent to King's Canyon, we needed to climb up towards Kearsarge Pass, stopping at one of the last
-campsites on our way out. That evening, I made the most of my last meal and miraculously found a few extra snacks, which
-I then shared with the rest of the group.
+After a quick descent to King's Canyon, past beautiful glacier melt waterfalls, we needed to climb up towards Kearsarge 
+Pass, stopping at one of the last campsites on our way out. That evening, I made the most of my last meal and 
+miraculously found a few extra snacks, which I then shared with Gibb and Sandals, who also had run out of food.
 
 ![](https://cdn.jeeveshikedthepct.com/images/19e83b9a-fe9a-4a0f-d6b6-d56aca8a8000.jpeg)
 
@@ -126,7 +126,7 @@ I then shared with the rest of the group.
 
 The next morning we reached Onion Valley trailhead and were able to get a ride down to Independence, where I ran into
 Flamingo Kid once again, but struggled to get a ride down the highway to Bishop. Once we did, I immediately ran over to
-the local car rental and borrowed a car. I then found hikers in Bishop, who needed a ride back to Onion Valley. One such
+the local Enterprise and borrowed a car. I then found hikers in Bishop, who needed a ride back to Onion Valley. One such
 hiker was Misplaced, who I hadn't seen since the early days of the PCT. I also ran into Sweet Cakes, who I last saw in
 Julian.
 

@@ -15,8 +15,8 @@ Tehachapi one more day.
 
 ![Cheesing with Cool Rocks](https://cdn.jeeveshikedthepct.com/images/83d3bf06-ccd8-4eda-6d35-e147f1888600.jpeg)
 
-For our final push through the desert, we got a hitch back to the PCT and were thrust into extreme winds and heat
-advisories. Here, Dylan departed the group, while the rest of us stuck together tighter than ever, due to much longer
+For our final push through the desert, we got a hitch back to the PCT and were immediately met by extreme winds and heat
+advisories. Here, Dylan departed the group, while the rest of us stuck together tighter than ever, thanks to much longer
 water carries.
 
 ![Returning to the trail](https://cdn.jeeveshikedthepct.com/images/6c5af36b-4214-4789-4efe-7e41fba8a700.jpeg)
@@ -36,10 +36,10 @@ water carries.
 ![](https://cdn.jeeveshikedthepct.com/images/a788e02e-975a-40c8-f44c-6ec6f46ae800.jpeg)
 
 The heat was relentless, but briefly broken up by a few key springs and water caches maintained by a trail angel named
-Devilfish. The blisters were coming back, but this time I was prepared with additional leukotape and careful attention
+Devilfish. The blisters were coming back, but this time I was prepared with additional leukotape and paid careful attention
 to my feet. At one water cache, while replacing the bandages on my feet, I turned on my phone to get warnings from Cool
 Rocks that several of the springs and water caches we had been resupplying from were suspected of causing some sort of
-illness, either a norovirus or algae outbreak.
+illness, either norovirus or an algae outbreak.
 
 Looking sadly at the now suspect water I had been consuming for the past few days, we pressed on, taking care to
 sanitize our hands more frequently. This, of course, wasn't effective for either norovirus or algae, but it was all we
@@ -60,7 +60,7 @@ could think to do, apart from boiling our water.
 As our morale dropped a few miles before Walker Pass, the only major road crossing in this section, I hiked ahead of the
 group and get a hitch into Inyokern. The campground at Walker Pass was bleak, so I went to the gas station/grocery store
 in town and filled a shopping cart with fresh water, beverages, and ice cream as a morale boost for not just my trail
-family, but some of the other hikers I had been around.
+family, but also for some of the other hikers I had been around.
 
 Once loaded, however, I had difficulty getting a hitch back, until Floss, who had been eating at a nearby restaurant,
 came up to me and asked what I was doing. I explained, and he called a woman who lived in Ridgecrest to come pick us up.
@@ -86,13 +86,13 @@ yet. Car campers also joined us, and none of us could get solid rest with the le
 
 ![](https://cdn.jeeveshikedthepct.com/images/b07c9afd-8e63-46e9-e199-a32cb285dc00.jpeg)
 
-The climb out of Walker Pass was one of the most brutal of the desert, with many water sources being marked as poor,
+The climb out of Walker Pass was one of the most brutal of the desert, with many water sources being marked as poor;
 either contaminated with uranium, mosquito larvae, or flies. We picked the one surrounded by flies and I barely made it
 there before running out of water.
 
-At the top of the next climb, I found myself incredibly nauseous, possibly heat exhausted, and for the first time in a
+At the top of the next climb I found myself incredibly nauseous, possibly heat exhausted, and for the first time in a
 while, I wasn't able to eat. Thankfully, the next day brought us to several fantastic water sources. Those, along with
-brief glimpses of the Sierra Nevadas, let us know we were close to completing the desert.
+brief glimpses of the Sierra Nevada, let us know we were close to completing the desert.
 
 ![Packing up camp, this is how early I woke up most mornings in the desert](https://cdn.jeeveshikedthepct.com/images/c50cc177-343d-4d13-a3d3-c42ac9ace100.jpeg)
 
@@ -109,8 +109,8 @@ brief glimpses of the Sierra Nevadas, let us know we were close to completing th
 Our final night in the desert, we camped about 10 miles away from Kennedy Meadows. Despite the heat, biting ants, and
 brutal landscape, we all soaked in the last hours of our time in the desert section of the PCT.
 
-As the trail briefly turned into roads leading to Kennedy Meadows, I distinctly remembered tearing up, incredibly proud
-of myself and knowing that if I could make it here, that I could finish the entire thing.
+As the trail briefly turned into roads leading to Kennedy Meadows, I teared up, incredibly proud of myself and knowing
+that if I could make it here, that I could finish the entire thing.
 
 A surprise reunion with the Filipino family that we had met after San Jacinto amplified these emotions, who met us with
 cooked food and treats, which we gratefully accepted.
@@ -122,7 +122,7 @@ there was very little to do, we spent an extra day here to swap out gear to prep
 
 Cool Rocks joined us the day after, and we all hung out briefly before our group once again headed out, this time with
 the addition of Lefty, who quickly fell into a trail romance with Willow at Kennedy Meadows. We carried out much heavier
-packs, with long food carries, bear canister requirements, and warmer clothing. With one last look, we left the desert
+packs: with long food carries, bear canister requirements, and warmer clothing. With one last look, we left the desert
 section behind us.
 
 ![](https://cdn.jeeveshikedthepct.com/images/8cf18dd0-75ae-4405-4586-a0cf0bc88b00.jpeg)
